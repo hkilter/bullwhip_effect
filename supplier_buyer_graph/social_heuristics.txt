@@ -1,0 +1,10 @@
+my friend’s friend is my friend
+my friend’s enemy is my enemy
+my enemy’s friend is my enemy
+my enemy’s enemy is my friend
+—Fritz Heider, The Psychology of Interpersonal Relations
+
+Simple Heuristics
+1) a supplier of my buyer is my enemy
+2) a buyer of my buyer is my friend
+3) a supplier of a buyer of my buyer is my enemy

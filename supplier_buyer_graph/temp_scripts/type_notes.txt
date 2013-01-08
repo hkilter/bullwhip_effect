@@ -1,0 +1,13 @@
+relationships
+collections
+records
+
+I could create new nodes for these categories and then just point them 
+at the companies
+
+supply_type-> hardware_manufactuer, software_developer, network, employee, utility, materials, support_shop
+buyer_type->  cable_users, internet_users, wireless_users, voip_users, landline_users, dsl_users, satellite_users, gps_users, televison_user, radio_users
+
+demand_type-> based on jtbd (reduced links)
+
+-list of rec

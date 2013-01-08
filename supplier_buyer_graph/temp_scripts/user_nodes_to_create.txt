@@ -1,0 +1,9 @@
+create_user nodes with sizes
+
+supply_inference
+should draw links to strategy:unknown networks
+should draw link s to service: incumbent internet_users, cable_users
+should draw links to strategy:unknown networks, hardware_manufacturers, software_developers
+should draw links ot service:incumbent  landline_users, internet_users, wireless_users, support_shop  near Alaska
+should draw links to strategy:disruptive range networks
+should draw links to strategy:disruptive range networks

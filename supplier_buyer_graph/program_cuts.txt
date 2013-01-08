@@ -1,0 +1,23 @@
+   
+def get_strategy_match(node_start, node_end, start_role):
+                node = db.get_node(node_end)
+                properties = node.get_properties()
+                end_role = properties['roles']
+                reader3 = csv.reader([start_role], delimiter=',',skipinitialspace=True)
+                for r in reader3:
+                    start_role_list = r
+                reader4 = csv.reader([end_role], delimiter=',',skipinitialspace=True)
+                for r in reader4:
+                    end_role_list = r
+                    aa = set(start_role_list)
+                    bb = set(end_role_list)
+                diff_role = aa.intersection(bb)
+                return diff_role
+
+ 
+for company in strategy_table:
+                        node_end = company[0]
+                        if((company[1]==business_model) and (node_start != node_end)):
+                            check_list= get_strategy_match(node_start, node_end, start_role)
+                            print check_list
+                            if(len(check_list) > 0):

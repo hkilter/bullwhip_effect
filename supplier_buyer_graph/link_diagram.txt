@@ -1,0 +1,20 @@
+Alvesta,0
+
+Case ('DR', b2b_b2c =='B')
+	Draw nodes to it's starting capital % of disruptive range network businesses
+Case (b2b_b2c =='C')
+
+Case (b2b_b2c =='B,C'
+	
+
+#need to get the total capital of disruptive range businesses
+
+Services		Job-To-Be Done
+Landline_users		Talk
+Wireless_users		Talk + Internet + Movies, Television
+Cable_users		Watch Movies, Television 
+Internet_users		Internet + Talk
+Voip_users 		Talk
+radio_users             listen
+dsl_users               Internet + Talk + Movies, Television
+

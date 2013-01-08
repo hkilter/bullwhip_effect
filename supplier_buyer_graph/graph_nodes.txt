@@ -1,0 +1,119 @@
+Alvesta,0
+Consolidated Communications,1
+Cogent Communications Group,2
+Cincinnati Bell,3
+Chunghwa Telecom,4
+China TechFaith Wireless Communication Technology,5
+Charter Communications,6
+CenturyLink,7
+Cbeyond,8
+Catena Networks,9
+Brilliant Telecommunications,10
+Brasil Telecom,11
+BeVocal,12
+BCE,13
+B Communications,14
+Atlantic Tele-Network,15
+AT&T,16
+American Tower Corporation,17
+eOn Communications Corporation,18
+Crown Castle International,19
+Alaska Communications Systems Group,20
+Agito Networks,21
+Adelphia Communications,22
+Aarohi Communications,23
+Hewlett Packard,24
+Microsoft,25
+Internet Users,26
+Intel,27
+Apple,28
+Samsung,29
+Best Buy,30
+Amazon,31
+Western Digital,32
+Equinix,33
+Focal Communications,34
+Freedom Communications,35
+Frontier Communications Corporation,36
+Global Crossing Ltd.,37
+GoBeam,38
+GrandCentral,39
+Hickory Tech Corporation,40
+Iamba Networks,41
+IDT Corporation,42
+InfiniRoute,43
+Internet Gold Golden Lines,44
+Interwise,45
+Iridium Communications,46
+Kagoor Networks,47
+Kosmix,48
+Level 3 Communications,49
+MER Telemanagement Solutions,50
+Mobile 365,51
+Motorola Mobility,52
+Motricity,53
+NeuStar,54
+Nortel Networks Corporation,55
+Northpoint,56
+Novatel Wireless,57
+Open Range Communications,58
+ORBCOMM,59
+PC - Tel,60
+Peregrine Systems,61
+Peribit Networks,62
+PhoneSpots,63
+Premiere Global Services,64
+Procket Networks,65
+Redback Networks,66
+Redline Networks,67
+Research In Motion,68
+RigNet,69
+RRSat Global Communications Network,70
+Shenandoah Telecommunications,71
+SiRF Technology,72
+Sky-mobi,73
+Skype,74
+SpinVox,75
+Sprint Nextel Corporation,76
+SureWest Communications,77
+Tasman Networks,78
+Telecom Argentina,79
+Telecom Italia,80
+Telestone Technologies,81
+Terawave Communications,82
+Towerstream Corporation,83
+Traverse Networks,84
+tw telecom,85
+Verizon Communications,86
+VocalTec Communications,87
+Vocent Solutions,88
+Vonage,89
+Voxify,90
+Warwick Valley Telephone Company,91
+Williams Communications,92
+Windstream Corporation,93
+Winstar,94
+WorldCom,95
+WPCS International,96
+Xfone,97
+hardware_manufacturer,98
+software_developer,99
+network,100
+employees,101
+utility,102
+materials,103
+support_shop,104
+cable_users,105
+internet_users,106
+wireless_users,107
+voip_users,108
+landline_users,109
+dsl_users,110
+satellite_users,111
+gps_users,112
+radio_users,113
+television_users,114
+datacenter_users,116
+vpn_users,117
+cloud_users,119
+employees, 120

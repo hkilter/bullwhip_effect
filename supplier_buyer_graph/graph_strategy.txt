@@ -1,0 +1,88 @@
+0	Disruptive Range
+1	Incumbent Sustaining Strategy
+2	Incumbent Sustaining Strategy
+3	Incumbent Sustaining Strategy
+4	Incumbent Sustaining Strategy
+5	Disruptive Range
+6	Incumbent Sustaining Strategy
+7	Strategic Innovation
+8	Disruptive
+9	Disruptive Range
+10	Entrant Sustaining Strategy
+11	Incumbent Sustaining Strategy
+12	Disruptive Range
+13	Incumbent Sustaining Strategy
+14	Incumbent Sustaining Strategy
+15	Disruptive Range
+16	Incumbent Sustaining Strategy, Disruptive Range
+17	Disruptive Range
+18	Disruptive
+19	Disruptive Range
+20	Incumbent Sustaining Strategy
+21	Unknown
+22	Incumbent Sustaining Strategy
+23	Unknown
+33	Disruptive, Disruptive Range
+34	Incumbent Sustaining Strategy
+35	Incumbent Sustaining Strategy
+36	Incumbent Sustaining Strategy
+37	Incumbent Sustaining Strategy, Disruptive
+38	Strategic Differentiation
+39	Disruptive
+40	Strategic Innovation
+41	Entrant Sustaining Strategy
+42	Incumbent Sustaining Strategy
+43	Disruptive
+44	Incumbent Sustaining Strategy
+45	Incumbent Sustaining Strategy
+46	Anomoly
+47	Disruptive
+48	Disruptive Range
+49	Disruptive Range
+50	Strategic Differentiation
+51	Strategic Innovation
+52	Incumbent Sustaining Strategy
+53	Disruptive Range
+55	Incumbent Sustaining Strategy
+56	Entrant Sustaining Strategy
+57	Disruptive Range
+58	Entrant Sustaining Strategy
+59	Anomoly
+60	Incumbent Sustaining Strategy
+61	Unknown
+62	Strategic Differentiation
+63	Strategic Innovation
+64	Disruptive Range
+65	Entrant Sustaining Strategy
+66	Strategic Innovation
+67	Strategic Innovation
+68	Disruptive Range
+69	Incumbent Sustaining Strategy
+70	Anomoly
+71	Incumbent Sustaining Strategy
+72	Disruptive Range
+73	Disruptive Range
+74	Disruptive, Disruptive Range
+75	Unknown
+76	Incumbent Sustaining Strategy
+77	Strategic Innovation
+78	Anomoly
+79	Incumbent Sustaining Strategy
+80	Incumbent Sustaining Strategy
+81	Entrant Sustaining Strategy
+82	Entrant Sustaining Strategy
+83	Disruptive Range
+84	Disruptive
+85	Incumbent Sustaining Strategy
+86	Incumbent Sustaining Strategy, Disruptive Range
+87	Disruptive
+88	Strategic Differentiation
+89	Disruptive
+90	Strategic Differentiation
+91	Incumbent Sustaining Strategy
+92	Strategic Differentiation
+93	Incumbent Sustaining Strategy
+94	Anomoly
+95	Incumbent Sustaining Strategy
+96	Incumbent Sustaining Strategy
+97	Strategic Innovation
