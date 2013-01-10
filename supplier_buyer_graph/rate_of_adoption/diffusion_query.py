@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        diffusion by analogy
 # Purpose:
 #
 # Author:      Luke
@@ -26,19 +26,21 @@ classifier.setdb('seller_adopter_text.db')
 #id
 id = 40
 
-#Query the MYSQL database and append to python list
-db = MySQLdb.connect(host='localhost', user='root',db='bass_data')
-cur = db.cursor()
-cur.execute("SELECT name, p_data, q_data FROM bass_data.historical WHERE idhistorical= %s", id)
-rows = cur.fetchall()
 query = []
+for item in range(1,44):
+    #Query the MYSQL database and append to python list
+    db = MySQLdb.connect(host='localhost', user='root',db='bass_data')
+    cur = db.cursor()
+    cur.execute("SELECT name FROM bass_data.historical WHERE idhistorical= %s", item)
+    rows = cur.fetchall()
 
-for row in rows:
-    for col in row:
-        query.append(col)
+    #append all the names to a list
+    for row in rows:
+        for col in row:
+            query.append(col)
 
-cur.close()
-db.close()
+    cur.close()
+    db.close()
 
 if __name__ == '__main__':
     main()

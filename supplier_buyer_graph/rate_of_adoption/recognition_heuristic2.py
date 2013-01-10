@@ -138,9 +138,10 @@ class classifier:
 
     #might need to update still
     def impactodds(self, category, odds):
-        features = self.getfeatures(category)
-        for f in features:
-            self.incimpact(f, odds)
+        #features = self.getfeatures(category)
+        self.incimpact(category, odds)
+        #for f in features:
+            #self.incimpact(f, odds)
         self.con.commit()
 
     def featureprob(self,feature,category):
