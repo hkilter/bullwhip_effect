@@ -17,11 +17,11 @@ use bass_data;
 
 
 LOAD DATA
-     LOCAL INFILE 'C:\Documents and Settings\Luke\Desktop\Programming\SQL\Data Analysis using SQL\textfiles\zipcounty.txt'
+     LOCAL INFILE 'C:\bass_history.txt'
      INTO TABLE historical
      LINES TERMINATED BY '\r\n'
      IGNORE 1 LINES
 ;
 
 
-CREATE INDEX calendar_date on calendar(date);
+CREATE INDEX historicalid on historical(idhistorical);

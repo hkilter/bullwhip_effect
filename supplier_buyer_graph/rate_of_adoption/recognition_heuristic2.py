@@ -38,10 +38,8 @@ def frequency_train(c1):
               The company floundered for a time attempting to implement its product as a sustaining innovation.  But as of the time this book was being written, \
               it seemed to have caught its disruptive stride in an impressive way. ', 'Ultrasound')
 
-#all of these are in Los Angeles county and all are in CA
-#suppose you only know that someone is in CA, what is the most likely place they are from?
-# defining a category impact function
-#write a two parameter training
+
+#two parameter training. We don't have any impacts in this case--yet. So, set to 1.
 def impact_train(c1):
     # Class, coefficient of innovation, coefficient of imitation
     c1.impactodds('Ultrasound', 1)
@@ -196,7 +194,7 @@ class naivebayes(classifier):
         if category not in self.thresholds:return 1.0
         return self.thresholds[category]
 
-     def classify(self, item, default=None):
+     def classify(self, item, default='Average'):
         black_swan= {}
         max =0.0
         tot_confidence ={}
@@ -220,6 +218,8 @@ class naivebayes(classifier):
         #category_confidence : iterate through the list and add all the relative values then subtract 1.01
         cat_confidence = 1- (sum(rel_confidence.values())-1.01)
 
+        #add returning the top 5
+        counter = 0
         for cat in black_swan:
             if cat==best:
                 continue

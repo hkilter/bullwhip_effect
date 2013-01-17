@@ -64,7 +64,7 @@ density = 0.035
 g = net.Graph()
 
 for item in neo_dict.itervalues():
-    if((item < 25) or (32 < item < 98)):
+    if((item < 24) or (32 < item < 98)):
         c=Company(item)
         g.add_node(c)
         print "added " + str(c)
