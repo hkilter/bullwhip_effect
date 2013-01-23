@@ -1,0 +1,30 @@
+Confusion List
+
+Forecast accurate within Range - Albania, Angola, Botswana, Djibouti,El Salvador, Gabon,Gambia
+Guatemala, Honduras, Lao P.D.R, Nigeria, Wallis and Futuna, Zimbabwe
+
+Count: 13
+
+Basic Diffusion Number correct - Albania, Algeria, Angola, Armenia, Azerbaijan, Belarus, Bhutan, Bolivia, Bosnia and Herzegovina, Brazil
+Brazil, Cape Verde, China, Columbia, Cuba, Dominican Republic, Ecuador, Egypt, Fiji, French Polynesia, Georgia
+Ghana, Guyana, Honduras, India, Indonesia, Iran, Jamaica, Jordan, Kazahkstan, Kenya, Kiribati, Kyrgyzstan, Libya, Maldives
+Moldova, Mongolia, Morocco, Namibia, Nepal, Nicaragua, Nigeria, Oman, Palestinian Authority, Paraguay
+Phillipenes, Qatar, Romania, Russia, Rwanda, S Tome Princepe, Saudi Arabia, Senegal, South Africa
+Sri Lanka, St. Kitss and Nevis, St. Vincent and the Genadines,Suriname, Syria, Swaziland, Syria
+Tajikistan, TFYR Macedonia, Thailand, Tonga, Tunisia, Turkey, Tuvalu, Uganda, Ukraine
+Uzbekistan, Venezuela, Vietnam, Yemen, Zambia, Zimbabwe, Swaziland
+
+Count: 73
+
+Neither correct - Granada, Pakistan, Tanzania, Guyana
+
+Count: 4
+
+unknown-Belize, Equatorial Guinea, Eritrea, Madagascar, Micronesia, Monaco, Samoa, St.Kitss and Nevis, Sudan, Vanuatu
+Wallis and Futuna
+
+Count: 9
+
+
+Total: 94
+(some are counted twice)

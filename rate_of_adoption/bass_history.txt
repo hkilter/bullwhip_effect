@@ -1,0 +1,41 @@
+historyid	Name	Category	Start_year	t_act	t_vbm	t_data	p_VBM	q_VBM	p_data	q_data	time_period
+1	Clothes dryer	home_appliances	1930	27	27	7	0	0.48	0.020000	0.460000	1950–1957
+2	Clothes washer	home_appliances	1910	20	19	7	0	0.27	0.040000	0.230000	1922–1930
+3	Electric range	home_appliances	1919	12	11	5	0	0.5	0.050000	0.460000	1925–1931
+4	Freezers	home_appliances	1929	25	25	8	0	0.38	0.020000	0.360000	1946–1954
+5	Microwave ovens	home_appliances	1955	33	33	18	0	0.35	0.000000	0.340000	1970–1988
+6	Power lawnmower	home_appliances	1926	34	35	13	0	0.31	0.010000	0.300000	1948–1960
+7	Refrigerators	home_appliances	1913	28	28	21	0	0.23	0.000000	0.230000	1920–1940
+8	Room air conditioners	home_appliances	1928	29	29	11	0	0.57	0.000000	0.570000	1946–1957
+9	Trash compactors	home_appliances	1964	11	11	4	0	0.95	0.050000	0.900000	1971–1975
+10	Vacuum cleaners	home_appliances	1908	22	21	7	0	0.18	0.040000	0.140000	1922–1930
+11	Blenders	home_wares	1946	24	25	16	0	0.47	0.000000	0.470000	1955–1970
+12	Broilers	home_wares	1937	18	18	9	0	0.97	0.000000	0.970000	1946–1956
+13	Coffee makers	home_wares	1934	23	23	9	0	0.41	0.010000	0.400000	1948–1957
+14	Heating pads	home_wares	1918	12	14	10	0	0.35	0.010000	0.340000	1922–1930
+15	Electric blankets	home_wares	1930	32	34	15	0	0.25	0.010000	0.240000	1949–1961
+16	Electric shavers	home_wares	1931	26	29	12	0	0.28	0.010000	0.270000	1948–1958
+17	Steam irons	home_wares	1936	21	22	9	0	0.38	0.020000	0.370000	1949–1957
+18	B&W TV	consumer_electronics	1939	17	16	9	0	0.42	0.010000	0.410000	1946–1956
+19	Camcorders	consumer_electronics	1973	18	19	7	0	0.47	0.020000	0.440000	1985–1991
+20	Cassette decks	consumer_electronics	1964	20	20	10	0	0.29	0.170000	0.270000	1974–1984
+21	CD players	consumer_electronics	1983	13	14	null	null	null	0.000000	0.400000	1983–1996
+22	Color TV	consumer_electronics	1954	15	15	null	null	null	0.000000	0.650000	1954–1969
+23	Digital watches	consumer_electronics	1971	13	12	9	0.01	0.35	0.020000	0.350000	1974–1984
+24	Laser disc players	consumer_electronics	1980	14	15	10	0	0.32	0.010000	0.310000	1985–1995
+25	Projection TV	consumer_electronics	1984	16	18	null	null	null	0.010000	0.210000	1984–2001
+26	Radio	consumer_electronics	1922	8	9	null	null	null	0.010000	0.450000	1922–1931
+27	Record players	consumer_electronics	1906	55	53	7	0	0.45	0.020000	0.430000	1952–1961
+28	VCR's	consumer_electronics	1975	11	12	7	0	0.76	0.010000	0.750000	1980–1987
+29	Answering machines	businessandconsumer_products	1960	30	30	8	0	0.54	0.010000	0.530000	1982–1990
+30	ATM machines	businessandconsumer_products	1971	14	14	null	null	null	0.000000	0.500000	1971–1985
+31	Copying machines	businessandconsumer_products	1960	20	21	16	0.01	0.15	0.010000	0.150000	1965–1981
+32	Fax machines	businessandconsumer_products	1980	18	19	12	0	0.26	0.010000	0.250000	1987–1998
+33	Handheld calculators	businessandconsumer_products	1967	14	14	11	0	0.44	0.010000	0.430000	1970–1981
+34	PC printers	businessandconsumer_products	1976	9	9	5	0	0.8	0.020000	0.790000	1980–1986
+35	Portable dictation machine	businessandconsumer_products	1955	25	27	12	0	0.21	0.010000	0.210000	1965–1981
+36	AOL	subscription_service	1989	8	8	4	0	1.18	0.020000	1.160000	1983–1997
+37	Cable TV	subscription_service	1948	23	23	18	0	0.5	0.000000	0.500000	1953–1971
+38	Cell phone	subscription_service	1983	13	16	null	null	null	0.000000	0.410000	1984–1995
+39	Satellite TV	subscription_service	1994	5	6	null	null	null	0.050000	0.330000	1994–1998
+40	email	subscription_service	1989	6	5.4	null	null	null	0.014000	0.711000	1989-1999
