@@ -1,7 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:        diffusion by analogy
-# Purpose:
-#
+# Name:        Diffusion query
+# Purpose:     Forecast diffusion by reference class
+#              Pearson correlation/Recommendation code from Programming Collective Intelligence
+#              Toby Segaran
 # Author:      Luke
 #
 # Created:     01/10/2012
@@ -11,17 +12,26 @@
 #!/usr/bin/env python
 
 import MySQLdb
-import recognition_heuristic2
 from math import sqrt
 import csv
 import simplejson as json
+
+#go through and rate the similarity of your product to past examples
+#decide whether to keep going or stop
+#test on world_internet
+historical_similarity={'World_Internet': {'Satellite TV': 4.0, 'email': 4.0,
+ 'Radio': 3.5, 'Home PC': 4.5, 'Color TV': 2.5,
+ 'Cable TV': 4.0, 'AOL':4.0, 'ATM machines': 4.5}, 'Satellite TV':{'email': 3.0,
+ 'Radio': 3.5, 'Home PC': 4.0, 'Color TV': 4.5,
+ 'Cable TV': 5.0, 'ATM machines': 2.5}, 'Data_Plan':{'AOL': 4.5, 'Cable TV': 4.0, 'Cell phone': 5.0, 'World_Internet': 5.0, 'Satellite TV': 4.0,'email':3.5}}
+
 
 def main():
     pass
 
 #input text, output scores 1 to 5 on historical similarity
-
 #Query the MYSQL database and append to python dictionary
+#bass_history.txt has
 db = MySQLdb.connect(host='localhost', user='root',db='bass_data')
 cur = db.cursor()
 
@@ -43,17 +53,7 @@ for item in range(1,48):
 cur.close()
 db.close()
 
-#go through and rate the similarity of your product to past examples
-#decide whether to keep going or stop
-
-#test on smart phones
-historical_similarity={'Smart_Phone': {'Satellite TV': 4.0, 'email': 4.0,
- 'Radio': 3.5, 'Home PC': 4.5, 'Color TV': 2.5,
- 'Cable TV': 4.0, 'AOL':4.0, 'ATM machines': 4.5}, 'Satellite TV':{'email': 3.0,
- 'Radio': 3.5, 'Home PC': 4.0, 'Color TV': 4.5,
- 'Cable TV': 5.0, 'ATM machines': 2.5}, 'Data_Plan':{'AOL': 4.5, 'Cable TV': 4.0, 'Cell phone': 5.0, 'Smart_Phone': 5.0, 'Satellite TV': 4.0,'email':3.5}}
-
-#Returns a distance-based similarity score for person1 and person2
+#Returns a distance-based similarity score for item1 and item2
 def sim_distance(sim_db,item1,item2):
   # Get the list of shared_items
   similar_items={}
@@ -110,7 +110,7 @@ def topMatches(prefs,item,n=5,similarity=sim_pearson):
   return scores[0:n]
 
 #Gets recommendations for a person by using a weighted average
-# of every other user's rankings
+#of every ranking
 def getRecommendations(prefs,person,similarity=sim_pearson):
   totals={}
   simSums={}
@@ -140,8 +140,9 @@ def getRecommendations(prefs,person,similarity=sim_pearson):
   rankings.reverse()
   return rankings
 
-top_match = topMatches(historical_similarity, 'Smart_Phone',n=3)
 
+#Executing code
+top_match = topMatches(historical_similarity, 'World_Internet',n=3)
 count =len(top_match)-1
 # get population estimate
 
@@ -150,25 +151,14 @@ for items in range(0, 2):
     key = top_match[items][1]
     key_list.append(key)
 
-population_size = 0
-
 #get the p and q values
-#project wireless data plan + smart_phone
-
-population_ratio = 0.000
-
-for item in key_list:
-    if(query[item]['size_at_time']['size'] > 0 and query[item]['size_at_time']['available_size'] > 0):
-        population_ratio = population_ratio + float(query[item]['size_at_time']['size'])/float(query[item]['size_at_time']['available_size'])
-
-
-population_ratio = population_ratio/len(key_list)
-
+#world internet
 value = query[key]
 p = value['p_data']
 q = value['q_data']
-m = value['size_at_time']['available_size'] * population_ratio
 
+print "coefficient of imitation: " + str(p)
+print "coefficient of innovation: " + str(q)
 
 
 

@@ -1,30 +1,12 @@
 Confusion List
-
-Forecast accurate within Range - Albania, Angola, Botswana, Djibouti,El Salvador, Gabon,Gambia
-Guatemala, Honduras, Lao P.D.R, Nigeria, Wallis and Futuna, Zimbabwe
-
+Best-Fit forecast accurate within Range:  Albania, Angola, Botswana, Djibouti, El Salvador, Gabon, Gambia, Guatemala, Honduras, Lao P.D.R, Nigeria, Wallis and Futuna, Zimbabwe
 Count: 13
-
-Basic Diffusion Number correct - Albania, Algeria, Angola, Armenia, Azerbaijan, Belarus, Bhutan, Bolivia, Bosnia and Herzegovina, Brazil
-Brazil, Cape Verde, China, Columbia, Cuba, Dominican Republic, Ecuador, Egypt, Fiji, French Polynesia, Georgia
-Ghana, Guyana, Honduras, India, Indonesia, Iran, Jamaica, Jordan, Kazahkstan, Kenya, Kiribati, Kyrgyzstan, Libya, Maldives
-Moldova, Mongolia, Morocco, Namibia, Nepal, Nicaragua, Nigeria, Oman, Palestinian Authority, Paraguay
-Phillipenes, Qatar, Romania, Russia, Rwanda, S Tome Princepe, Saudi Arabia, Senegal, South Africa
-Sri Lanka, St. Kitss and Nevis, St. Vincent and the Genadines,Suriname, Syria, Swaziland, Syria
-Tajikistan, TFYR Macedonia, Thailand, Tonga, Tunisia, Turkey, Tuvalu, Uganda, Ukraine
-Uzbekistan, Venezuela, Vietnam, Yemen, Zambia, Zimbabwe, Swaziland
-
-Count: 73
-
-Neither correct - Granada, Pakistan, Tanzania, Guyana
-
-Count: 4
-
-unknown-Belize, Equatorial Guinea, Eritrea, Madagascar, Micronesia, Monaco, Samoa, St.Kitss and Nevis, Sudan, Vanuatu
-Wallis and Futuna
-
+Basic Diffusion Number plus Bass accurate within range : Albania, Angola, Armenia, Azerbaijan, Belarus, Bhutan, Bolivia, Bosnia and Herzegovina, Brazil, Cape Verde, China, Columbia, Ecuador, Egypt, French Polynesia, Georgia, Ghana, India, Jamaica, Jordan, Kenya, Libya, Maldives, Moldova, Mongolia, Morocco, Namibia, Nepal, Nigeria, Oman, Palestinian Authority, Qatar, Romania, Russia, Rwanda, S Tome Princepe, Saudi Arabia, Sri Lanka, St. Kitss and Nevis, St. Vincent and the Genadines, Suriname, Syria, Swaziland, Syria, Tajikistan, TFYR Macedonia, Thailand, Tonga, Tunisia, Turkey, Tuvalu, Uganda, Ukraine, Uzbekistan, Venezuela, Vietnam, Yemen, Zambia, Zimbabwe, Swaziland
+Count: 62
+Neither Best fit forecast or Basic Diffusion number is correct : Algeria, Cuba, Dominican Republic, Fiji, Granada, Guyana, Indonesia, Iran, Jamaica, Kazahkstan, Kiribati, Kyrgizstan, Nicaragua, Pakistan, Paraguay, Philippines,  Rwanda, Senegal, South Africa, Tanzania, Thailand, Tajikistan, Uganda, Wallis and Futuna, Yemen. Zimbabwe
+Count: 14
+Not enough data to test either forecast : Belize, Equatorial Guinea, Eritrea, Grenada, Madagascar, Micronesia, Monaco, Samoa, St. Kitts and Nevis, Sudan, Vanuatu
 Count: 9
+Total Countries Tested: 94. 
 
-
-Total: 94
-(some are counted twice)
+Note: Some Countries are in two categories as they are both forecasted correctly from the initial data and experience  bass type growth at basic diffusion number =1.

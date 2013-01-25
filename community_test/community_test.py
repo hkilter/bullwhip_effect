@@ -1,7 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:        Read_table__update_couchdb
-# Purpose:     Read a csv file and load documents to couchdb
-#
+# Name:        Community Test
+# Purpose:     Read a csv file
+#              split a  time series on the basic diffusion number
+#              write to csv files
 # Author:      Luke Otterblad
 #
 # Created:     04/09/2012
@@ -11,15 +12,13 @@
 #!/usr/bin/env python
 
 #resquired libraries
-import csv, os, re, couchdb
+import csv, os, re
 import simplejson as json
 import datetime
 import operator
 
 def main():
     pass
-
-server = couchdb.Server('http://127.0.0.1:5984')
 
 #change path to present working directory
 os.chdir('C:\Documents and Settings\Luke\Desktop')
@@ -42,18 +41,6 @@ print headers
 # skip header if you just need the data
 #invert dictionary
 inv_headers = {v:k for k, v in headers.items()}
-
-def update_data_couchdb(entity, history_list):
-    DB = 'trades_etoro_%s' % (entity.lower())
-    try:
-        db = server.create(DB)
-        db.update(history_list, all_or_nothing=True)
-    except couchdb.http.PreconditionFailed, e:
-        # Already exists, so append to it, keeping in mind that duplicates could occur
-        db = server[DB]
-        #If IndexError: list index out of range, specify column range from length of csv
-        db.update(history_list, all_or_nothing=True)
-    return
 
 #initilize datetime object
 temp_dic = {}
@@ -90,14 +77,14 @@ for item in temp_dic.iterkeys():
         else:
             continue
 
-#sums from that key to then end of list
+#sums from that key to the end of list
 country_index = csv.reader(open('country_tipping_points.txt'), delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
 country_dict ={}
 for community in country_index:
     country_dict[community[0]] = int(community[1])
 
-#sums from the beginning up to the tipping point (but not including)
+#Sorts lists from the beginning up to the basic diffusion number (but not including)
 country_list = {}
 for item in country_dict.iterkeys():
     tipping_point = country_dict[item]
@@ -106,11 +93,9 @@ for item in country_dict.iterkeys():
     post_basic_diffusion_number=[(int(x),y) for x,y in temp_dic[item].iteritems() if int(x) >= tipping_point]
     country_list[item] = {"pre_basic_diffusion_number": pre_basic_diffusion_number, "post_basic_diffusion_number": post_basic_diffusion_number}
 
-#country list with before and after scenarios
-#do the time series forecasts versus actual
+#country list with before and after time series
 train_data = country_list['Albania']['pre_basic_diffusion_number']
 test_data = country_list['Albania']['post_basic_diffusion_number']
-
 
 #test the train_data predicted growth from standard time_series libraries
 difference = 0.0
@@ -130,7 +115,6 @@ for item in country_list:
         avg_series1 = sum_series1/len(time_series1)
         f.writerow([year, time_series1[year]])
 
-
     #take this list 1) sort it 2) save the average 3) write to file
     doc = 'C:\Documents and Settings\Luke\Desktop\\bullwhipped\out\%s_test.csv' % (item)
     f = csv.writer(open(doc,'wb'), delimiter =',', quotechar='\'', quoting=csv.QUOTE_MINIMAL)
@@ -144,14 +128,6 @@ for item in country_list:
         avg_series2 = sum_series2/len(time_series2)
         f.writerow([year, time_series2[year]])
 
-    #compare the average
-    print item + " " + str(avg_series1) + ',' + str(avg_series2)
-    if(avg_series2 !=0):
-        difference += avg_series2/avg_series1
-    else:
-        continue
-
-growth_factor = difference/len(country_dict)
 
 
 

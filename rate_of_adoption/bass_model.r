@@ -1,5 +1,5 @@
 # BASS Diffusion Model
-
+# code from http://weblab.com.cityu.edu.hk/blog/chengjun/slides-of-bass-diffusion-model/
 # three parameters:
 # the total number of people who eventually buy the product, m;
 # the coefficient of innovation, p;
