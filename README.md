@@ -1,17 +1,18 @@
 bullwhip_effect
 ===============
 
-study of a disruptive entrant to a network
+This is the beginning set of scripts for what will hopefully turn into a useful set 
+of tools for supply chaim management using python and R.  
 
 #Load the Historical Database
  
  http://dev.mysql.com/downloads/mysql/
 
-1. bass_history.txt can be loaded to MySQL database with the mysql_bass_db_creation.txt script 
+1. bass_history.txt can be loaded to a MySQL database with the mysql_bass_db_creation.txt script 
  by executing it in the SQL query window. Be sure to change the location of the bass_history.txt
 to wherever it is on your machine.
 
-#Model Pipeline: 
+#Forecasting Model Pipeline: 
 Prerequisites: Community census data on population. 2 data points (or more) on percentage adoption in a community. 
 
 1. Determine:  Historical similarity of innovation and imitation -> Use python program diffusion_query_branch.py 
