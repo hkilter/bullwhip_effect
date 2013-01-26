@@ -1,16 +1,27 @@
-bullwhip_effect
+Bullwhip Effect
 ===============
 
 This is the beginning set of scripts for what will hopefully turn into a useful set 
 of tools for supply chaim management using python and R.  
 
+You can read about the history of the bullwhip effect at:
+
+http://en.wikipedia.org/wiki/Bullwhip_effect
+
+The bullwhip concept first appeared in Jay Forrester's 1958 article, "Industrial Dynamics—A Major Breakthrough
+for Decision Makers," in Harvard Business Review.  The decline of a business was (and still is) often blamed 
+on a bad economy or a competitor.  What Forrester sought to model with system dynamics was the process of feedback loops in an industry. 
+
+General Electric, in the 1950’s, was puzzled as to why their household appliance plants sometimes worked three or four shifts and then, a few years later, had to lay of half their staff.
+
+Forrester, after finding out how the corporation made hiring and inventory decisions sought to tackle the problem using system dynamics and simulation--originally using just a pencil and a few pages in a notebook to get an idea of information flow through the company. Through modeling the process (that eventually became computerized for simulation), Forrester accounted how individual managers at the level of sales , distribution and production responded to the information locally available to them as they tried to control their piece of the organization.
+Forrester found the managers in each link, in what today is called a supply chain, were responding in a rational fashion to the incentives and information they faced. They were often making choices based on their need to provide good customer service while avoiding excessive inventories. The resulting changes in orders, production, hiring, and other decisions fed back to alter inventories, change prices and advertising rates. The feedback structure of the supply chain amplified each response into persistent cyclical swings, now called the Bullwhip effect. The Bullwhip affect was attributed to exist--even in a state of steady demand--because at every level management relied on their next in chain customer and supplier for demand forecasting. 
+
 #Load the Historical Database
  
  http://dev.mysql.com/downloads/mysql/
 
-1. bass_history.txt can be loaded to a MySQL database with the mysql_bass_db_creation.txt script 
- by executing it in the SQL query window. Be sure to change the location of the bass_history.txt
-to wherever it is on your machine.
+1. rate_of_adoption/bass_history.txt can be loaded to a MySQL database with the mysql_bass_db_creation.txt script. Be sure to change the location of the bass_history.txt to wherever the directory it is in on your machine.
 
 #Forecasting Model Pipeline: 
 Prerequisites: Community census data on population. 2 data points (or more) on percentage adoption in a community. 
