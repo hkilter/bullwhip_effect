@@ -1,8 +1,8 @@
 Bullwhip Effect
 ===============
 
-This is the beginning set of scripts for what will hopefully turn into a useful set 
-of tools for supply chaim management using python and R.  
+This is the beginning set of scripts and tools for innovation, general business, and supply chaim management using python and R. 
+My goal for the project is to be able to help businesses answer strategic and logistics questions relating to the bullwhip effect.
 
 You can read about the history of the bullwhip effect at:
 
