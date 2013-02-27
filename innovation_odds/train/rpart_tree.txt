@@ -1,0 +1,11 @@
+tech_train.model
+n= 81 
+
+node), split, n, loss, yval, (yprob)
+      * denotes terminal node
+
+1) root 81 37 No (0.54320988 0.45679012)  
+  2) percent_time_used=100%,111%,42%,45%,46%,47%,50%,52%,56%,57%,58%,59%,60%,62%,64%,65%,67%,68%,77%,80%,85%,88%,92% 55 11 No (0.80000000 0.20000000)  
+    4) category=analytics, research,business intelligence,business software,content management system,data warehousing,design software,education,engineering simulation,fundraising,healthcare IT systems,investment,IT Services,legal consulting,Marketing and analytics,network analytics,network hardware,none,on demand optimization,operating systems,product development software,recruiting,SaaS,security,staff management,supply chain,trading applications,user interface,Video Content Delivery,Video device Operating System 44  2 No (0.95454545 0.04545455) *
+    5) category=business content management,consulting,Consulting,customer relationship management,IT hosting,IT systems,operating system, business software,point of sale software,software 11  2 Yes (0.18181818 0.81818182) *
+  3) percent_time_used=12%,14%,15%,19%,23%,24%,25%,26%,27%,29%,30%,31%,32%,33%,34%,36%,37%,40%,44% 26  0 Yes (0.00000000 1.00000000) *

@@ -1,0 +1,82 @@
+"Company","Start_year","Revenue_2008","Timeto50m","Timeof50m","2008 Revenue Multiple","reached_500_million","Industry","category","2nd_category","Available years","percent_time_used"
+"Activision",1979,3026,4,1983,60.5,"Yes","Video Games","gaming","NA",29,14%
+"Actuate",1993,130.99,7,2000,2.6,"No","Software","business intelligence","NA",15,47%
+"Adobe",1982,3579.89,6,1988,71.6,"Yes","Software","document management","NA",26,23%
+"Advent",1983,264,15,1998,5.3,"No","Private Equity","investment","NA",25,60%
+"ANSYS",1970,385.34,26,1996,7.7,"No","Software","engineering simulation","NA",38,68%
+"Art Technology",1991,164.64,10,2001,3.3,"No","Software","on demand optimization","NA",17,59%
+"Autodesk",1982,2171.9,5,1987,43.4,"Yes","Software","design software","NA",26,19%
+"Blackbaud",1982,302.5,17,1999,6.1,"No","Software","fundraising","NA",26,65%
+"Blackboard",1997,312.13,5,2002,6.2,"No","Software ","education","NA",11,45%
+"BMC",1980,1731.6,8,1988,34.6,"Yes","Software","business intelligence","NA",28,29%
+"CA",1974,4277,9,1983,85.5,"Yes","Software","business intelligence","NA",34,26%
+"Cadence",1983,1038.61,6,1989,20.8,"Yes","Software","design software","NA",25,24%
+"Checkpoint",1993,808.49,5,1998,16.2,"Yes","Security","Security software","Security hardware",15,33%
+"China Digital",2004,55.45,4,2008,1.1,"No","Software","IT Services","NA",4,100%
+"CIBER",1974,1191.57,20,1994,23.8,"Yes","IT","consulting","NA",34,59%
+"Citrix",1989,1583.35,8,1997,31.7,"Yes","Software","software","NA",19,42%
+"Cognizant",1994,2816.3,5,1999,56.3,"Yes","IT","consulting","NA",14,36%
+"CommVault",1996,198.3,8,2004,4.0,"No","Software","business intelligence","NA",12,67%
+"Compuware",1973,1229.61,12,1985,24.6,"Yes","Software","IT Services","NA",35,34%
+"Concur",1993,215.49,10,2003,4.3,"No","Software","SaaS","NA",15,67%
+"Deltek",1983,289.36,15,1998,5.8,"No","Software","business intelligence","NA",25,60%
+"DemandTec",1999,61.27,10,2009,1.2,"No","Software","SaaS","NA",9,111%
+"Digital River",1994,394.23,8,2002,7.9,"No","hardware, software","IT Services","NA",14,57%
+"DivX",2000,84.86,7,2007,1.7,"No","Software","Video Content Delivery","NA",8,88%
+"Echelon",1989,134.05,11,2000,2.7,"No","Hardware","network hardware","NA",19,58%
+"Electronic Arts",1982,3665,6,1988,73.3,"Yes","Software","gaming","NA",26,23%
+"EPIQ",1988,236.12,16,2004,4.7,"No","tech soluations","legal consulting","NA",20,80%
+"i2",1989,255.81,8,1997,5.1,"No","Software","supply chain","NA",19,42%
+"Informatica",1993,455.7,7,2000,9.1,"No","Software","data warehousing","NA",15,47%
+"International Game",1971,2528.6,10,1981,50.6,"Yes","hardware, software","gambling hardware","software development",37,27%
+"Interwoven",1995,260.29,6,2001,5.2,"No","Software","content management system","NA",13,46%
+"Intuit",1983,3070.97,8,1991,61.4,"Yes","Software","accounting, business software","NA",25,32%
+"JDA",1985,390.33,12,1997,7.8,"No","Software","supply chain","business intelligence",23,52%
+"LongTop",1996,65.92,12,2008,1.3,"No","Software","trading applications","NA",12,100%
+"Macrovision",1983,330.04,17,2000,6.6,"No","hardware, software","Video Content Delivery","NA",25,68%
+"Manhattan Assoc",1990,337.2,9,1999,6.7,"No","Software","supply chain","NA",18,50%
+"McAfee",1989,1600.06,6,1995,32.0,"Yes","Security","internet security","NA",19,32%
+"MedAssets",1999,188.52,5,2004,3.8,"No","hardware, software","healthcare IT systems","NA",9,56%
+"Mentor Graphics",1981,879.73,4,1985,17.6,"Yes","Software","design software","NA",27,15%
+"MICROS",1977,954.18,14,1991,19.1,"Yes","hardware, software","point of sale software","NA",31,45%
+"Microsoft",1975,60420,8,1983,1208.4,"Yes","Software","operating system","office software",33,24%
+"MicroStrategy",1989,360.39,9,1998,7.2,"No","Software","business intelligence","NA",19,47%
+"MSC Software",1963,246.65,25,1988,4.9,"No","Software","design software","NA",45,56%
+"National Instruments",1976,740.38,14,1990,14.8,"Yes","Software","business software","NA",32,44%
+"Netezza",2000,126.69,8,2008,2.5,"No","hardware, software","data warehousing","NA",8,100%
+"Nice Systems",1986,624.16,11,1997,12.5,"Yes","Software","security","NA",22,50%
+"Novell",1983,956.51,3,1986,19.1,"Yes","Software","business network software","NA",25,12%
+"Nuance",1992,868.46,9,2001,17.4,"Yes","Software","Consulting"," speech recognition",16,56%
+"Omniture",1996,295.61,11,2007,5.9,"No","Software","Marketing and analytics","NA",12,92%
+"Open Text",1991,725.53,8,1999,14.5,"Yes","Software","business content management","NA",17,47%
+"OpenTV",1996,116.47,6,2002,2.3,"No","Software","Video device Operating System","NA",12,50%
+"OPNET",1986,101.35,17,2003,2.0,"No","Software","network analytics","NA",22,77%
+"Oracle",1977,22430,10,1987,448.6,"Yes","hardware, software","business hardware","business software",31,32%
+"Parametric",1985,1070.33,7,1992,21.4,"Yes","software","product development software","design software",23,30%
+"Pegasystems",1983,161.95,15,1998,3.2,"No","software","product development software","NA",25,60%
+"Progress",1981,515.56,10,1991,10.3,"Yes","software","business software","NA",27,37%
+"Quality Systems",1974,186.5,29,2003,3.7,"No","software","healthcare IT systems","NA",34,85%
+"Quest",1987,735.38,13,2000,14.7,"Yes","unknown","NA","NA",21,62%
+"Rackspace",1998,531.93,6,2004,10.6,"Yes","hardware","IT hosting","NA",10,60%
+"RealNetworks",1994,604.81,5,1999,12.1,"Yes","software","audio content delivery","video content delivery",14,36%
+"RedHat",1993,523.02,9,2002,10.5,"Yes","software","operating system, business software","NA",15,60%
+"Renaissance Learning",1986,107.93,13,1999,2.2,"No","software","education","NA",22,59%
+"Retalix",1982,221.41,20,2002,4.4,"No","software","point of sale software","NA",26,77%
+"Salesforce",1999,748.7,5,2004,15.0,"Yes","software","customer relationship management","NA",9,56%
+"Sourcefire",2001,75.67,7,2008,1.5,"No","hardware, software","security","NA",7,100%
+"SPSS",1975,302.91,14,1989,6.1,"No","software","analytics, research","NA",33,42%
+"SuccessFactors",2001,111.91,7,2008,2.2,"No","software","business software","NA",7,100%
+"SuperMicro",1993,540.5,9,2002,10.8,"Yes","hardware","IT systems","NA",15,60%
+"Sybase",1984,1131.93,6,1990,22.6,"Yes","software","business software","data warehousing",24,25%
+"Symantec",1982,5874.42,8,1990,117.5,"Yes","software","security","NA",26,31%
+"Synaptics",1986,361.06,15,2001,7.2,"No","hardware","user interface","NA",22,68%
+"Synopsys",1986,1336.95,6,1992,26.7,"Yes","software, programming","design software","design hardware",22,27%
+"Take-Two",1993,1537.53,6,1999,30.8,"Yes","software","gaming","NA",15,40%
+"TeleCom Systems",1987,220.14,13,2000,4.4,"No","unknown","none","NA",21,62%
+"Teleo",1999,127.94,6,2005,2.6,"No","software","recruiting","staff management",9,67%
+"Ultimate Software",1990,178.57,9,1999,3.6,"No","software","staff management","NA",18,50%
+"VanceInfo",1995,102.66,13,2008,2.1,"No","software","IT systems","NA",13,100%
+"VASCO",1991,132.98,15,2006,2.7,"No","softwaer","security","NA",17,88%
+"Verisign",1995,961.74,4,1999,19.2,"Yes","internet","security","NA",13,31%
+"Websense",1994,295.86,9,2003,5.9,"No","software","content management system","NA",14,64%
+"Wind River",1983,328.63,14,1997,6.6,"No","software","operating systems","software",25,56%
