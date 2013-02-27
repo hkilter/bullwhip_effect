@@ -1,0 +1,33 @@
+Tree('S', [('[', 'NN'), ("'Alert", 'NN'), (':', ':'), Tree('PERSON', [('Planned', 'NNP'), 
+('Road', 'NNP'), ('Closures', 'NNP')]), ('(', 'NNP'), ('DC', 'NNP'), ('Area', 'NNP'), 
+(')', 'NNP'), ('Please', 'NNP'), ('visit', 'NN'), ('website', 'NN'), ('http', 'NN'),
+ (':', ':'), ('//t.co/Lfo8I4jP', 'JJ'), ('under', 'IN'), ('the', 'DT'), 
+Tree('ORGANIZATION', [('Traffic', 'NNP')]), ('Tab.', 'NNP'), ("'", 'POS'), (',', ','), 
+("'for", 'NNP'), ('more', 'RBR'), ('information./7066', '-NONE-'), ("'", "''"), (']', ':')])
+
+
+
+
+Subject
+"road closures"
+
+object
+[Tree('PERSON', [('Planned', 'NNP'), ('Road', 'NNP'), ('Closures', 'NNP')]),
+explict object(DC AREA)
+note:
+get links
+Tree('ORGANIZATION', [('Traffic', 'NNP')])]
+
+link
+[[('under', 'IN')]]
+
+Triple stores
+"road closures" ,  [[('under', 'IN')]] [Tree('PERSON', [('Planned', 'NNP'), ('Road', 'NNP'), ('Closures', 'NNP')]),
+"road closures"  , [[('under', 'IN')]] ] explict object(DC AREA)
+"road closures"  , [[('under', 'IN')]] ],  Tree('ORGANIZATION', [('Traffic', 'NNP')])]
+
+
+triple stores
+"road closures"
+
+

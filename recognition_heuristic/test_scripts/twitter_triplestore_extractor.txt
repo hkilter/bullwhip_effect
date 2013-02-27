@@ -1,0 +1,128 @@
+//varying the jdx changes the object
+
+function(doc) {
+      for(var idx in doc.triplestore.relationships) {
+        for(var jdx in doc.triplestore.relationships[idx]) {
+            var name = doc.triplestore.objects[idx][jdx][0][0]);
+            for(var kdx in doc.triplestore.relationships[idx][jdx]) {
+                var relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                emit(relation, name);
+            }
+         }
+     }
+}
+
+{
+   "_id": "02a7804be835d6a754cfc1332a0017ed",
+   "_rev": "1-a5db57352fbff5e80cbc364ff8c80e6b",
+   "triplestore": {
+       "relationships": [
+           [
+               [
+                   [
+                       "on",
+                       "IN"
+                   ]
+               ],
+               [
+                   [
+                       "in",
+                       "IN"
+                   ]
+               ],
+               [
+                   [
+                       "in",
+                       "IN"
+                   ],
+                   [
+                       "and",
+                       "CC"
+                   ],
+                   [
+                       "out",
+                       "IN"
+                   ],
+                   [
+                       "of",
+                       "IN"
+                   ]
+               ],
+               [
+                   [
+                       "on",
+                       "IN"
+                   ]
+               ],
+               [
+                   [
+                       "on",
+                       "IN"
+                   ]
+               ]
+           ]
+       ],
+       "objects": [
+           [
+               [
+                   [
+                       "A127",
+                       "NNP"
+                   ]
+               ],
+               [
+                   [
+                       "Southend",
+                       "NNP"
+                   ]
+               ],
+               [
+                   [
+                       "Southend",
+                       "NNP"
+                   ]
+               ],
+               [
+                   [
+                       "A127",
+                       "NNP"
+                   ]
+               ],
+               [
+                   [
+                       "Essex",
+                       "NNP"
+                   ]
+               ]
+           ]
+       ],
+       "subject": "road+closure"
+   },
+   "id": "212d6271c48b36f5e815052ddf000827",
+   "locations": 0
+}
+
+The search is the subject.  Twitter give the most relevant, or most recent
+twitter_search = "road +closure"
+
+Extracted entities
+[Tree('ORGANIZATION', [('A127', 'NNP')]),
+ Tree('GPE', [('Southend', 'NNP')]),
+ Tree('GPE', [('Southend', 'NNP')]),
+ Tree('ORGANIZATION', [('A127', 'NNP')]),
+ Tree('PERSON', [('Essex', 'NNP')])]
+
+extracted relationships
+[[('on', 'IN')],
+ [('in', 'IN')],
+ [('in', 'IN'), ('and', 'CC'), ('out', 'IN'), ('of', 'IN')],
+ [('on', 'IN')],
+ [('on', 'IN')]]
+
+
+Pass to Neo4j via gremlin queries
+("road_closure", "on", "A127")
+("road_closure", "in", "Southend")
+("road_closure", "in and out of","Southend")
+("road_closure", "on","A127")
+("road_closure", "on", "Essex")

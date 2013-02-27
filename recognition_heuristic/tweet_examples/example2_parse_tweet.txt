@@ -1,0 +1,22 @@
+Tree('S', [('[', 'NN'), ('``', '``'), ('MT', 'NNP'), ('@', ':'), Tree('ORGANIZATION', [('LVMPD', 'NNP'), ('Road', 'NNP')]), ('closures', 'VBZ'), ('for', 'IN'), ('Sunday', 'NNP'), ("'s", 'POS'), ('@', 'NNP'), ('RunRocknRoll', 'NNP'), Tree('PERSON', [('Marathon', 'NNP')]), (',', ','), ('most', 'RBS'), ('starting', 'VBG'), ('at', 'IN'), ('2pm', 'CD'), ('http', 'NN'), (':', ':'), ('//t.co/e6TXlNVf', 'JJ'), ('#', '#'), ('Vegas', 'NNP'), ("''", "''"), (']', ':')])
+
+
+Your search is the subject. Google or Twitter give the most relevant, or most recent
+
+subject
+twitter_search = "road + closure"
+
+objects
+[Tree('ORGANIZATION', [('LVMPD', 'NNP'), ('Road', 'NNP')]),
+ Tree('PERSON', [('Marathon', 'NNP')])]
+
+predicates
+[[('for', 'IN')], [('at', 'IN')]],
+
+Triplestore
+"road + closure", [[('for', 'IN')], Tree('ORGANIZATION', [('LVMPD', 'NNP'), ('Road', 'NNP')])
+"road + closure", [('at', 'IN')]],  Tree('PERSON', [('Marathon', 'NNP')])
+
+note: separately extract: html links
+
+

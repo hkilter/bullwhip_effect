@@ -1,0 +1,29 @@
+worker_Bee
+
+
+1. Import some tweets using python into CouchDB(a document database)
+
+        |
+
+2. Extract possible locations from the tweets using a Natural Language Toolkit(nltk)
+        
+        |
+
+			--	3. Train location codes on a MySQL census data using a recognition heuristic program
+
+        |
+
+4. Classify the location features of the tweets with a zipcode
+
+        |
+
+5. Lookup the latitude and longitude of the classified zipcode in the census database
+
+        |
+
+6. Save latitude, longitude,and zipcode into a Java Scirpt Object and attach it back to the original tweet
+
+        |
+
+7. Map the Tweet (javascript) or make a vizualization using Tableau
+

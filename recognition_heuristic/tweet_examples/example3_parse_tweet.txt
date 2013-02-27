@@ -1,0 +1,20 @@
+Tree('S', [('[', 'NN'), ("'Road", 'JJ'), ('closures', 'NNS'), ('approved', 'VBN'), ('for', 'IN'), Tree('PERSON', [('Utica', 'NNP'), ('Pike', 'NNP')]), (',', ','), Tree('PERSON', [('Allison', 'NNP'), ('Lane', 'NNP')]), (':', ':'), ('http', 'NN'), (':', ':'), ('//t.co/pFJ9YwlS', 'NNS'), ("'", 'POS'), (']', 'NN')])
+
+
+Your search is the subject. Google or Twitter give the most relevant, or most recent
+
+subject
+twitter_search = "road + closure"
+
+objects
+[Tree('PERSON', [('Utica', 'NNP'), ('Pike', 'NNP')]),
+ Tree('PERSON', [('Allison', 'NNP'), ('Lane', 'NNP')])]
+
+predicates
+[[('for', 'IN')]]
+
+Triplestore
+"road + closure", [[('for', 'IN')], Tree('PERSON', [('Utica', 'NNP'), ('Pike', 'NNP')])
+"road + closure", [[('for', 'IN')]] Tree('PERSON', [('Allison', 'NNP'), ('Lane', 'NNP')])]
+
+note: separately extract: html links

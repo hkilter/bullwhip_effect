@@ -1,0 +1,106 @@
+//id_relationship_objects
+function(doc) {
+      for(var idx in doc.triplestore.relationships) {
+        for(var jdx in doc.triplestore.relationships[idx]) {
+                var relations = [];
+                if(doc.triplestore.relationships[idx][jdx].length > 1) {
+                    for (var kdx in doc.triplestore.relationships[idx][jdx]) {
+                            var compound_relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                            relations.push(compound_relation);
+                    }
+                    var entities  = doc.triplestore.objects[0][1][0][0]
+                    emit("road closures" + " " + relations.join(" ") + " " + entities, doc._id);
+                } else {  
+                    for(var kdx in doc.triplestore.relationships[idx][jdx]) {
+                var relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                emit("road closures" + " " + relation + " " + doc.triplestore.objects[0][0][0][0], doc._id );
+                  }
+                    }
+         }
+     }
+}
+
+//relationship_objects_cardinality
+function(doc) {
+      for(var idx in doc.triplestore.relationships) {
+        for(var jdx in doc.triplestore.relationships[idx]) {
+                var relations = [];
+                var cardinality = doc.triplestore.objects[idx][jdx].length % doc.triplestore.relationships[idx][jdx].length;
+                if(doc.triplestore.relationships[idx][jdx].length > 1) {
+                    for (var kdx in doc.triplestore.relationships[idx][jdx]) {
+                            var compound_relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                            relations.push(compound_relation);
+                    }
+                    var entities  = doc.triplestore.objects[0][1][0][0];
+                    emit(entities, relations.join(" ") + '\t' + cardinality);
+                } else {  
+                    for(var kdx in doc.triplestore.relationships[idx][jdx]) {
+                var relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                emit(doc.triplestore.objects[0][0][0][0],relation + '\t' + cardinality);
+                  }
+                    }
+         }
+     }
+}
+
+//test_relationship_object
+//compound relationshop objects as key
+function(doc) {
+      for(var idx in doc.triplestore.relationships) {
+        for(var jdx in doc.triplestore.relationships[idx]) {
+                var relations = [];
+                if(doc.triplestore.relationships[idx][jdx].length > 1) {
+                    for (var kdx in doc.triplestore.relationships[idx][jdx]) {
+                            var compound_relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                            relations.push(compound_relation);
+                    }
+                    var entities  = doc.triplestore.objects[0][1][0][0]
+                    emit(entities, relations.join(" "));
+                } else {  
+                    for(var kdx in doc.triplestore.relationships[idx][jdx]) {
+                var relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                emit(doc.triplestore.objects[0][0][0][0],relation);
+                  }
+                    }
+         }
+     }
+}
+
+
+//compound relationship objects
+function(doc) {
+      for(var idx in doc.triplestore.relationships) {
+        for(var jdx in doc.triplestore.relationships[idx]) {
+            for(var kdx in doc.triplestore.relationships[idx][jdx]) {
+                var relations = [];
+                if(doc.triplestore.relationships[idx][jdx].length > 1) {
+                    for (var kdx in doc.triplestore.relationships[idx][jdx]) {
+                            var compound_relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                            relations.push(compound_relation);
+                    }
+                    emit(relations, doc.triplestore.objects[0][jdx][0][0]);
+                } else {                
+                var relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                emit(relation, doc.triplestore.objects[0][0][0][0]);
+                  }
+            }
+         }
+     }
+}
+
+//all relationship objects
+function(doc) {
+      for(var idx in doc.triplestore.relationships) {
+        for(var jdx in doc.triplestore.relationships[idx]) {
+            for(var kdx in doc.triplestore.relationships[idx][jdx]) {
+                var relation = doc.triplestore.relationships[idx][jdx][kdx][0];
+                emit(relation, doc.triplestore.objects[0][0][0][0]);
+            }
+         }
+     }
+}
+
+triplestore/subject relationship object
+function(doc) {
+  emit(doc.triplestore.subject, ','+ doc.triplestore.relationships[0][0][0][0] + "," + doc.triplestore.objects[0][0][0][0] );
+}

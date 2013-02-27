@@ -1,0 +1,15 @@
+Algorithms: "managing supply chain, retaining talent"
+
+
+
+-Emerging patterns of market inquiry
+
+Conclusion of the twitter extractor classifier
+
+Jobs-do-do:
+
+Experience tours-Learning journeys for understanding emerging trends and solutions
+produce material for interactions with data-Advanced visualization and simulations using multi-touch screens, iPads, and other interactive platforms
+
+workerbee- hadoop map/reduce programs that fetch things and bring them back to the hive
+colony-couchdb database that serves up resutls over http 

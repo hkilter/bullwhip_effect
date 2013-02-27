@@ -1,0 +1,17 @@
+
+Project Goal: 
+
+"Combine information about road closures and sporting events from twitter
+with weather information for business demand forecasting"
+
+Process:
+read and extract information from twitter using Hadoop or Pyton
+/*Python:need to generate objects and relationships
+/*tag each location, facility, GPE with a Zip Code
+    recognition_heuristic.py -classifies top 3 most likely zipcodes
+    sqlbook zip codes database -joins with latitude and longitude data
+#use a set oriented approach to scale the machine learning
+/*Serve up results in vizualizations: similar text, locations from couchdb
+
+
+Schedule: Demo by December 30th

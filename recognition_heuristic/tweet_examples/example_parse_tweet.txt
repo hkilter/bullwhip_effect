@@ -1,0 +1,22 @@
+Your search is the subject. Google or Twitter give the most relevant, or most recent
+twitter_search = "road + closure"
+
+[Tree('ORGANIZATION', [('A127', 'NNP')]),
+ Tree('GPE', [('Southend', 'NNP')]),
+ Tree('GPE', [('Southend', 'NNP')]),
+ Tree('ORGANIZATION', [('A127', 'NNP')]),
+ Tree('PERSON', [('Essex', 'NNP')])]
+
+[[('on', 'IN')],
+ [('in', 'IN')],
+ [('in', 'IN'), ('and', 'CC'), ('out', 'IN'), ('of', 'IN')],
+ [('on', 'IN')],
+ [('on', 'IN')]]
+
+
+Triple stores pass to Neo4j via gremlin queries
+"road + closure" [('on', 'IN')], Tree('ORGANIZATION', [('A127', 'NNP')])
+"road + closure"  ('in', 'IN')], Tree('GPE',  [('Southend', 'NNP')]),
+"road + closure" [('in', 'IN'), ('and', 'CC'), ('out', 'IN'), ('of', 'IN')], Tree('GPE', [('Southend', 'NNP')]),
+"road + closure"   [('on', 'IN')] Tree('ORGANIZATION', [('A127', 'NNP')])
+"road + closure"   [('on', 'IN')] Tree('PERSON', [('Essex', 'NNP')])]

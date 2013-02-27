@@ -1,0 +1,15 @@
+Tree('S', [('[', 'NN'), ("'Temporary", 'JJ'), ('road', 'NN'), ('closures', 'NNS'), ('on', 'IN'), 
+ road closures
+
+Tree('ORGANIZATION', [('A127', 'NNP')])
+link, ('in', 'IN'), 
+Tree('GPE', [('Southend', 'NNP')]), (':', ':'), ('DRIVERS', 'NNS'), ('travelling', 'VBG'),
+links, ('in', 'IN'), ('and', 'CC'), ('out', 'IN'), ('of', 'IN')
+Tree('GPE', [('Southend', 'NNP')]), 
+link, ('on', 'IN') 
+Tree('ORGANIZATION', [('A127', 'NNP')]), 
+link('on', 'IN'), 
+('Fri', 'NNP'), ('...', ':'), ('http', 'NN'), (':', ':'), ('//t.co/af8ijpCm', 'JJ'), 
+link('#', '#'), 
+
+Tree('PERSON', [('Essex', 'NNP')]), ("'", 'POS'), (']', 'NN')])

@@ -1,0 +1,29 @@
+Tree('S', [('[', 'NN'), ("'*****UPDATE*****", '-NONE-'), Tree('ORGANIZATION', [('Shrewsbury', 'NNP')]), 
+('town', 'NN'), ('centre', 'NN'), ('road', 'NN'), ('closures', 'NNS'), ('will', 'MD'), ('re-open', 'VB'),
+ ('in', 'IN'), ('the', 'DT'), ('next', 'JJ'), ('10', 'CD'), ('minutes', 'NNS'), ('.', '.'), ("'", "''"),
+ (']', ':')])
+
+Subject
+"road+closures"
+
+Object
+[Tree('ORGANIZATION', [('Shrewsbury', 'NNP')])]
+[('town', 'NN'), ('centre', 'NN'), ('road', 'NN'), ('closures', 'NNS')],
+[('minutes', 'NNS')]
+
+Links
+[[('in', 'IN')]]
+[[('will', 'MD'), ('re-open', 'VB')]
+
+Triplestores
+"road+closures" , [[('in', 'IN')]],[Tree('ORGANIZATION', [('Shrewsbury', 'NNP')])]
+"road+closures" , [[('will', 'MD'), ('re-open', 'VB')], [('town', 'NN'), ('centre', 'NN'), ('road', 'NN'), ('closures', 'NNS')]
+"road+closures" , [[('will', 'MD'), ('re-open', 'VB')], [('minutes', 'NNS')]
+
+notes
+add links
+
+
+
+
+

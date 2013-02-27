@@ -1,0 +1,34 @@
+Classifier
+
+Instead of using static probabilities
+
+-percent of occurance in population(occurance /set_count)
+
+-sample size of the current set(word_count)
+
+-what is the expected frequency(occurance %) of a word in the set size
+
+
+Pair Duplicate
+=1-((1-(1/(1/prob)))^COMBIN(sample_size,2))
+
+Quad duplicate
+=1-((1-(1/(1/prob)))^COMBIN(sample_size,4))
+
+Then can adjust from small to large texts
+
+org->size mapper
+location-> size mapper
+product-> price mapper
+
+Impact
+Class * impact of class being right - Class * impact of being wrong
+=classifcation return
+
+imagine the word count as the box score and needing to perform more advanced stats on combinations
+
+Clustering
+
+number of companies in cluster for Fish/Pond Ratio
+
+-should indicate when the classifier will break

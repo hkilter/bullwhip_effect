@@ -1,0 +1,24 @@
+Tree('S', [('[', 'NN'), ("'Welcome", 'NN'), ('!', '.'), ("'", "''"), (',', ','),
+ ("'", "''"), ('@', ':'), Tree('ORGANIZATION', [('pub_works', 'NNP')]), 
+('has', 'VBZ'), ('joined', 'VBN'), ('@', '-NONE-'), ('facebook', 'NN'), 
+('and', 'CC'), ('@', 'CD'), ('twitter', 'NN'), ('to', 'TO'), ('keep', 'VB'), 
+('residents', 'NNS'), ('informed', 'VBN'), ('about', 'IN'), ('road', 'NN'),
+ ('closures', 'NNS'), ('and', 'CC'), ('snow-plowing', 'JJ'), ('operations', 'NNS'), 
+('in', 'IN'), ('#', '#'),
+Tree('ORGANIZATION', [('CoMo', 'NNP')]), ('.', '.'), ("'", "''"), (']', ':')])
+
+Subject
+"road+closure"
+
+object
+Tree('ORGANIZATION', [('pub_works', 'NNP')]
+Tree('ORGANIZATION', [('CoMo', 'NNP')])]
+
+
+Links
+[[('about', 'IN')], [('in', 'IN')]]
+
+
+Triplestore
+"road+closure", [[('about', 'IN')], [('in', 'IN')]], Tree('ORGANIZATION', [('pub_works', 'NNP')]
+"road+closure", [[('about', 'IN')], [('in', 'IN')]], Tree('ORGANIZATION', [('CoMo', 'NNP')])]

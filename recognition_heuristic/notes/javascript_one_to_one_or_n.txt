@@ -1,0 +1,34 @@
+                           relationship : object 
+
+example 1- 8 reltionship words
+ 5 when compounded 5 objects 1:1 mapping
+example2- 2 objects, 2 relationships
+                            1: 1 mapping
+example3- 2 objects 1 relationship
+                            1: n mapping
+
+example4- 1 object 0 relationships
+                            1: 0 mapping
+example5
+          2 objects 1 compound relationship
+                            1 : n mapping
+example6 5 objects  1 compound relationship relationships
+                            1 : n mapping
+example7 3 objects 1 relationship
+                            1 : n mapping
+example8 3 objects 2 relationships
+ use modulus  do the the 1 : 1 
+                     then 1: n 
+                            
+
+  //  1:1 case
+if(doc.relationships == doc.objects)
+
+else
+   // 1:n case
+else
+   // 3:2 case
+else
+   // 1:0 case
+  
+  

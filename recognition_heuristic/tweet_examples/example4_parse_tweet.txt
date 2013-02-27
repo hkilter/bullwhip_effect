@@ -1,0 +1,11 @@
+ne_chunks1[12]
+Tree('S', [('[', 'NN'), ("'To", 'NN'), ('keep', 'VB'), ('@', ':'), Tree('ORGANIZATION', [('ChristmasVille', 'NNP')]), ('events', 'NNS'), ('safe', 'VBP'), ('&', 'CC'), ('amp', 'NN'), (';', ':'), ('merry', 'NN'), (',', ','), ('some', 'DT'), ('road', 'NN'), ('closures', 'NNS'), ('necessary.', 'NNP'), ("'", 'POS'), (',', ','), ("'Main", 'NNP'), ('St', 'NNP'), ('closed', 'VBD'), ('Thurs', 'NNP'), ('6am-Sunday', 'CD'), ('5pm.', 'CD'), ("'", 'POS'), (',', ','), ("'More", 'JJ'), (':', ':'), ('http', 'NN'), (':', ':'), ('//t.co/n127f4Hh', 'JJ'), ("'", "''"), (']', ':')])
+
+Subject
+road closures
+
+object
+[Tree('ORGANIZATION', [('ChristmasVille', 'NNP')])]
+
+Links
+note: get links

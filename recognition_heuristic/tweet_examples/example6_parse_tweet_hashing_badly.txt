@@ -1,0 +1,29 @@
+Tree('S', [('[', 'NN'), ("'Road", 'JJ'), ('closures', 'NNS'), ('approved', 'VBN'),
+ ('for', 'IN'), Tree('PERSON', [('Utica', 'NNP'), ('Pike', 'NNP')]), 
+(',', ','), Tree('PERSON', [('Allison', 'NNP'), ('Lane', 'NNP')]), 
+(':', ':'), Tree('ORGANIZATION', [('CLARKSVILLE', 'NNP'), ('Road', 'NNP')]),
+ ('closures', 'VBZ'), ('for', 'IN'), ('the', 'DT'), ('Ut', 'NNP'), ('...', ':'), 
+('http', 'NN'), (':', ':'), ('//t.co/aNi02x76', '-NONE-'), ('#', '#'), 
+Tree('PERSON', [('Utica', 'NNP')]), ('#', '#'), ('NY', 'NNP'), ('#', '#'), 
+('News', 'NNP'), ('#', '#'), Tree('ORGANIZATION', [('US', 'NNP')]), ("'", 'POS'), (']', 'NN')])
+
+Subject
+"road+closure"
+
+object
+[Tree('PERSON', [('Utica', 'NNP'), ('Pike', 'NNP')]),
+ Tree('PERSON', [('Allison', 'NNP'), ('Lane', 'NNP')]),
+ Tree('ORGANIZATION', [('CLARKSVILLE', 'NNP'), ('Road', 'NNP')]),
+ Tree('PERSON', [('Utica', 'NNP')]),
+ Tree('ORGANIZATION', [('US', 'NNP')])]
+
+Links
+[[('for', 'IN')], [('for', 'IN')]]
+
+
+Triplestore
+"road+closure", [[('for', 'IN')], [('for', 'IN')]], Tree('PERSON', [('Utica', 'NNP'), ('Pike', 'NNP')])
+"road+closure", [[('for', 'IN')], [('for', 'IN')]], Tree('PERSON', [('Allison', 'NNP'), ('Lane', 'NNP')])
+"road+closure", [[('for', 'IN')], [('for', 'IN')]], Tree('ORGANIZATION', [('CLARKSVILLE', 'NNP'), ('Road', 'NNP')]), 
+"road+closure", [[('for', 'IN')], [('for', 'IN')]], Tree('PERSON', [('Utica', 'NNP')])
+"road+closure", [[('for', 'IN')], [('for', 'IN')]], Tree('ORGANIZATION', [('US', 'NNP')])

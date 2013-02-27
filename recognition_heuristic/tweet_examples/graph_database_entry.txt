@@ -1,0 +1,30 @@
+[Tree('ORGANIZATION', [('A127', 'NNP')]),
+ Tree('GPE', [('Southend', 'NNP')]),
+ Tree('GPE', [('Southend', 'NNP')]),
+ Tree('ORGANIZATION', [('A127', 'NNP')]),
+ Tree('PERSON', [('Essex', 'NNP')])]
+
+try and extract
+Property: (temporary, event: road closure), of/in/on/out, a127, in, southend, in,  essex on , date
+
+
+Triple relationships
+road closure, of, a127
+a127, in, southend
+southend, in, essex
+
+triple properties
+road closure,of , a127
+date 11/28/2012-unknown
+temporary
+
+
+OrientDB is a Document-Graph DBMS because has the features of both Document DBMS and Graph DBMS.
+ This section explores the Graph capabilities of OrientDB. 
+To better understand how OrientDB compares to other GraphDB 
+in features and performance look at this comparison. 
+To know more about Graph Databases look at the following presentations:
+The principal feature of a GraphDB is the ability to handle relationships. 
+A GraphDB can traverse thousands of edges at a fraction of the cost of the 
+Relational JOINs because relationships are direct links between document/nodes.
+The most common problem why applications scale out bad is, very often, the database. Database is the bottleneck of most of applications

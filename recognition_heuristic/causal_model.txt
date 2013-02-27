@@ -1,0 +1,6 @@
+Causal model is a set of 4 programs
+
+1. Text Classification for reference classs forecasting
+2. Numerical Regression for moneyball analysis 
+3. Decision Trees for weighing a decison between text and numbers
+4. Time Series Analysis for timing 

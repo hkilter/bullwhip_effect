@@ -1,0 +1,29 @@
+Hadoop commands
+
+#basic root
+hadoop fs -cmd <args
+
+#The Hadoop cat command to show the content of the file is
+
+hadoop fs -cat example.txt
+
+#make a directory on hdfs
+hadoop fs –mkdir /user/chuck
+
+#check on directories
+hadoop fs -ls /
+
+#see all subdirectories: similar_to: {"unix command": {"see subdirectories": ls -r}}
+hadoop fs -lsr /
+
+#copy local file system to HDFS
+hadoop fs -put example.txt.
+
+#copy HDFS file to lcoal filesystem
+hadoop fs -get example.txt.
+
+#display first 5 lines of file on HDFS
+hadoop fs -cat example.txt | head -n 5
+
+#delete files
+hadoop fs -rm example.txt

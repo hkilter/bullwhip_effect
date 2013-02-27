@@ -1,0 +1,3 @@
+http://stackoverflow.com/questions/12088611/how-to-hybrid-mysql-and-mongodb-in-django
+https://docs.djangoproject.com/en/1.4/topics/db/multi-db/
+http://nosql.mypopescu.com/post/904840384/django-and-nosql-databases-revisited
