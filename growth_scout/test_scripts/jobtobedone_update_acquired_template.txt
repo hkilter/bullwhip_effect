@@ -1,0 +1,40 @@
+{
+   "acquired_month": 2,
+   "price_amount": 5000000,
+   "acquired_day": 14,
+   "acquiring_company": {
+       "permalink": "liveuniverse",
+       "name": "LiveUniverse",
+       "image": {
+           "available_sizes": [
+               [
+                   [
+                       150,
+                       21
+                   ],
+                   "assets/images/resized/0001/2539/12539v4-max-150x150.png"
+               ],
+               [
+                   [
+                       250,
+                       35
+                   ],
+                   "assets/images/resized/0001/2539/12539v4-max-250x250.png"
+               ],
+               [
+                   [
+                       250,
+                       35
+                   ],
+                   "assets/images/resized/0001/2539/12539v4-max-450x450.png"
+               ]
+           ],
+           "attribution": null
+       }
+   },
+   "price_currency_code": "USD",
+   "term_code": null,
+   "source_description": "LiveUniverse Buys Revver for More than a Song (about $5M)",
+   "source_url": "http://newteevee.com/2008/02/14/liveuniverse-buys-revver-for-more-than-a-song/",
+   "acquired_year": 2008
+}

@@ -1,0 +1,31 @@
+I am in need of a Twitter algorithm to measure how emotionally loaded tweets are. 
+
+Input(list of products) 
+   -query every 2 hours
+
+classify emotion(happy, sad, angry, afraid, surprised)
+
+return sentiment score
+
+When certain criteria are met (unusual volume, unusual emotions etc), I want the algo to send out alerts
+
+
+The algorithm needs to search Twitter and create a list of users who mention certain products (=keywords).
+
+I want this search to be automated so the list of users continues to grow. 
+
+The system should automatically download the tweet history of each extracted user.
+We use a sample of these tweets to analyze what mood swings these users encounter when they tweet. 
+The technology must have a filter function, so we can categorize tweets and their emotional content 
+depending on keywords used. 
+
+
+The idea is that it measures how people feel when they mention certain products. 
+
+Each tweet should get a sentiment score based on the language useWe need to discuss how many mood dimensions we should focus on (depends on analysis of sample tweets).
+
+The algorithm needs to be able to handle thousands of tweets a minute providing aggregate sentiment data for different time frames 
+
+and display them in a real-time database. 
+
+When certain criteria are met (unusual volume, unusual emotions etc), I want the algo to send out alerts.

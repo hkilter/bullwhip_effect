@@ -1,0 +1,34 @@
+
+-/*fromtwitter__extract_timeline.py
+  /*needs to be refactored to loop over a text file or python embedded list
+
+-/*from couchdb__extract_timelineentities.py
+-/*needs to be rewritten to just extract the tweets
+
+#maybe I can keep them all in separate databases
+#and just fetch them later based on the permalink
+#can add a search_tweets about an industry or job to be done that matches with 
+#a permalink jobstandard or industry
+
+-#twitter comparison extractor
+ is to be fed a user timeline or a search timeline stored in couchdb
+
+-doclass_nnf
+ needs to TRAINED to classfy tweets by type
+
+-/*couchdb__update_docs.py
+  needs to append the json object of the document in question via the _id or the permalink
+  with relevent comparisons
+  #should rename them sentences and POS_TAGS
+
+-doclass_nnf
+ needs to classfy the companies
+
+-map reduce view needs to write to csv
+
+-bones.php 
+  needs to display the relevant text information
+  need to try and add graphs
+
+-snapchoice
+ -three inputs: subject, object, predicate

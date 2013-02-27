@@ -1,0 +1,31 @@
+Shares of Pandora shot up following an earnings announcement that included a 53% revenue gain, a hint of profitability, a 48% rise in listeners and an 80% rise in the number of hours they listen
+
+splitting your training set into multiple subsets (test and control subsets), 
+include different types of clients and more recent data in the control sets (than in your test sets)
+check quality of forecasted values on control sets
+compute confidence intervals for individual errors
+ (error defined e.g. as |true value minus forecasted value|
+) to make sure that error is small enough AND not too volatile 
+(it has small variance across all control s
+
+http://www.gladwell.com/2011/2011_05_16_a_creationmyth.html
+
+records spotty on:
+biotech
+cleantech
+semiconductor
+
+Design of Website:
+
+Growth scout:
+
+type in a company description
+classifies objects most similar 
+as they were described when funded
+
+employers screen for:
+emotions, ethic, attitude
+
+moneyball algorithms
+valution algorithms
+investment tracking aided by machine learning

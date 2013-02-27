@@ -1,0 +1,35 @@
+Calculat. the power of a nonparametric test, i.e. sign, Wilcox Rank Sum, Sign rank,Kruskal-Wallis, Friedman,?
+6 years ago Report Abuse
+ 
+helene_t...
+Best Answer - Chosen by Voters
+
+This is difficult since you will need a formal, alternative hypothesis, but the reason for using non-parametric methods is often that such a formalism is not available. But if you can state your hypothesis on the basis of some parametric test, you can compute the powers of the parametric as well as the nonparametric method and compare the two. The non-parametric method will always have lower power, but if the difference is very large you might consider using some other test instead.
+
+Example: For an unpaired t test with common variance you have n1+n2 samples, level of significance alpha and alternative hypothesis 
+(mu2-mu1)/sigma= u. The critical value of the t-statistic is 
+T=t^(-1)(alpha|1/(2(1/n1+1/n2))))
+and the power of the test is 
+t(T-u|1/(2(1/n1+1/n2)))).
+
+You can compare this to the wilcoxon test:
+W=wilcoxon^(-1)(alpha|n1,n2)
+and the power is wilcox*(W,u|n1,n2)
+where wilcox* is the distribution the the wilcoxon statistic under the alternative hypothesis given by u. This latter can be found by simulation:
+pwilcox.star=
+function(W,u,n1,n2){
+nsamples=10000
+samples=array(dim=nsamples)
+x=array(dim=n1+n2)
+for(i in1:nsamples){
+x[1:n1]=rnorm(n1,0,1)
+x[(n1+1):)n1+n2)]=
+rnorm(n1,u,1)
+samples[i]
+=sum(rank(x)[1:n1])
+}
+return(mean(samples>W))
+}
+
+This script is written in R which you can download from http://www.r-project.org
+If it's too difficult you might just use the power estimates for the parametric test and take into account that the nonparametric test has slightly lower power.

@@ -1,0 +1,3 @@
+sap
+oracle
+taleo_corp

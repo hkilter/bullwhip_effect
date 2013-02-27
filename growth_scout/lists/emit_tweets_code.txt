@@ -1,0 +1,13 @@
+//emits all comparative tweets in document without duplicates
+        var check = [];
+        function(doc) {
+        if(doc.results) {
+           doc.results.forEach(function(tweet) {
+               id = tweet.id    
+               if(tweet.sentence_type && (check.indexOf(id) == -1) ) {
+                   emit(tweet.from_user_name, tweet.sentence_type +  ' ' + tweet.text)
+                  }
+              check.push(id)
+             });         
+            }
+         }

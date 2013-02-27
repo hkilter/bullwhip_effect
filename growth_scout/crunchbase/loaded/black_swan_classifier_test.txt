@@ -1,0 +1,19 @@
+import black_swan_classifier
+
+>>> c1=black_swan_classifier_demo.naivebayes(black_swan_classifier_demo.getwords)
+>>> black_swan_classifier_demo.frequency_train(c1)
+>>> black_swan_classifier_demo.impact_train(c1)
+>>> c1.prob('quick rabbit', 'good')
+0.15624999999999997
+>>> c1.catodds('good')
+10.0
+>>> c1.prob('quick rabbit', 'ugly')
+0.00625
+>>> c1.catodds('ugly')
+100.0
+>>> c1.classify('quick rabbit', default='unknown')
+'ugly'
+>>> c1.classify('the quick rabbit jumps fences', default='unknown')
+'good'
+>>> c1.classify('rabbit jumps fences', default='unknown')
+'good'

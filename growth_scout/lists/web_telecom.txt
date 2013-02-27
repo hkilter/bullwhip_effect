@@ -1,0 +1,11 @@
+callfire
+nexmo
+tropo
+voxeo
+teleku
+skype
+googleVoice
+plivo
+46elks
+smsglobal
+twilio

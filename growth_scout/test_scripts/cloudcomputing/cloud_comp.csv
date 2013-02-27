@@ -1,0 +1,15 @@
+"Provider","Base Plan Cost","volume","Score_100","Revenue_millions"
+"Amazon Web Services",0.08,603,40.77,600
+"Microsoft Windows Azure",$12.00,82,3.66,60
+"Google App Engine",$0.00,59,8.47,385
+"Rackspace",$150.00,892,8.41,100
+"Terremark",$360.00,27,81.48,37.5
+"Savvis",,24,0,15.2
+"Joyent",$0.00,402,3.48,15
+"Hewlett Packard",,85,11.76,0
+"Heroku",,627,26.63,10
+"NetSuite",,683,-25.33,200
+"Rightnow",,435,22.3,200
+"SuccessFactors",,433,-81.76,200
+"Taleo",,12,16.67,200
+"Salesforce.com Force.com",$0.00,906,40.18,1300

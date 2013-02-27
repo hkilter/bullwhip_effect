@@ -1,0 +1,4213 @@
+(S
+  How/WRB
+  can/MD
+  I/PRP
+  beat/VB
+  my/PRP$
+  (CP most/JJS)
+  (NP powerful/JJ competitor/NN)
+  ?/.)
+User word and tag count dictionary 
+{'test_user1': {'words': {'competitor': 1, 'most': 1, 'I': 1, 'powerful': 1, 'How': 1, 'can': 1, 'beat': 1, 'my': 1, '?': 1}, 'tags': {'MD': 1, 'VB': 1, 'WRB': 1, 'NN': 1, 'JJS': 1, 'PRP$': 1, '.': 1, 'PRP': 1, 'JJ': 1}}}
+(S
+  Why/WRB
+  has/VBZ
+  (COMP
+    (NP disruption/NN)
+    proven/VBN
+    to/TO
+    be/VB
+    (NP such/JJ a/DT)
+    consistently/RB
+    (NP effective/JJ strategy/NN)
+    (PP
+      for/IN
+      (NP causing/NN strong/JJ incumbent/NN competitors/NNS))
+    to/TO
+    flee/VB
+    from/IN
+    their/PRP$
+    (NP entrant/JJ attackers/NNS))
+  ,/,
+  rather/RB
+  (PP than/IN (NP fight/NN))
+  them/PRP
+  ?/.)
+User word and tag count dictionary 
+{'test_user2': {'words': {'a': 1, 'be': 1, 'from': 1, 'for': 1, 'effective': 1, 'to': 2, 'attackers': 1, 'consistently': 1, 'proven': 1, 'strategy': 1, 'disruption': 1, 'competitors': 1, 'causing': 1, 'entrant': 1, 'incumbent': 1, 'such': 1, 'strong': 1, 'flee': 1, 'their': 1}, 'tags': {'VB': 2, 'RB': 1, 'NN': 4, 'VBN': 1, 'TO': 2, 'JJ': 4, 'IN': 2, 'DT': 1, 'PRP$': 1, 'NNS': 2}}}
+(S
+  What/WP
+  if/IN
+  you/PRP
+  could/MD
+  choose/VB
+  your/PRP$
+  (COMP
+    (NP competitive/JJ battles/NNS)
+    knowing/VBG
+    you/PRP
+    would/MD
+    win/VB
+    nearly/RB
+    (NP every/DT time/NN))
+  ?/.)
+User word and tag count dictionary 
+{'test_user3': {'words': {'knowing': 1, 'would': 1, 'win': 1, 'battles': 1, 'every': 1, 'competitive': 1, 'time': 1, 'you': 1, 'nearly': 1}, 'tags': {'MD': 1, 'VB': 1, 'VBG': 1, 'RB': 1, 'NN': 1, 'PRP': 1, 'JJ': 1, 'DT': 1, 'NNS': 1}}}
+(S
+  (COMP
+    (NP Managers/NNS)
+    have/VBP
+    long/RB
+    sought/VBN
+    (NP ways/NNS)
+    to/TO
+    predict/VB
+    (NP the/DT outcome/NN))
+  (PP of/IN (NP competitive/JJ fights/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user4': {'words': {'predict': 1, 'Managers': 1, 'ways': 1, 'long': 1, 'to': 1, 'have': 1, 'sought': 1, 'the': 1, 'outcome': 1}, 'tags': {'VB': 1, 'NN': 1, 'VBN': 1, 'TO': 1, 'VBP': 1, 'RB': 1, 'DT': 1, 'NNS': 2}}}
+(S
+  (NP Some/DT look/NN)
+  (PP at/IN (NP the/DT attributes/NNS))
+  (PP of/IN (NP the/DT companies/NNS))
+  involved/VBN
+  :/:
+  (NP Larger/NNP companies/NNS)
+  with/IN
+  (CP more/JJR)
+  (NP resources/NNS)
+  to/TO
+  throw/VB
+  (PP at/IN (NP a/DT problem/NN))
+  will/MD
+  beat/VB
+  (NP the/DT)
+  (CP smaller/JJR)
+  (NP competitors/NNS)
+  ./.)
+User word and tag count dictionary 
+{'test_user5': {'words': {'smaller': 1, 'companies': 2, 'at': 2, '.': 1, 'to': 1, ':': 1, 'resources': 1, 'more': 1, 'beat': 1, 'Larger': 1, 'with': 1, 'the': 3, 'a': 1, 'throw': 1, 'look': 1, 'of': 1, 'Some': 1, 'will': 1, 'competitors': 1, 'involved': 1, 'attributes': 1, 'problem': 1}, 'tags': {'MD': 1, 'VB': 2, 'NN': 2, 'VBN': 1, '.': 1, 'JJR': 2, 'TO': 1, 'IN': 4, 'DT': 5, ':': 1, 'NNS': 5, 'NNP': 1}}}
+(S
+  (COMP
+    (NP It’s/NNS)
+    interesting/VBG
+    how/WRB
+    often/RB
+    (NP the/DT)
+    (ORGANIZATION CEOs/NNP)
+    (PP of/IN (NP large/JJ))
+    ,/,
+    (NP resource-rich/JJ companies/NNS base/NN)
+    their/PRP$
+    (NP strategies/NNS)
+    (PP upon/IN (NP this/DT theory/NN))
+    ,/,
+    despite/IN
+    repeated/VBN
+    (NP evidence/NN)
+    (PP that/IN (NP the/DT level/NN))
+    (PP of/IN (NP resources/NNS))
+    committed/VBN
+    often/RB
+    bears/VBZ
+    (NP little/JJ relationship/NN)
+    to/TO
+    (NP the/DT outcome/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user6': {'words': {'often': 2, 'evidence': 1, 'committed': 1, 'to': 1, 'little': 1, 'how': 1, 'bears': 1, 'interesting': 1, ',': 2, 'their': 1, 'CEOs': 1, 'resources': 1, 'theory': 1, 'relationship': 1, 'that': 1, 'upon': 1, 'repeated': 1, 'base': 1, 'despite': 1, 'resource-rich': 1, 'level': 1, 'this': 1, 'of': 2, 'It\x92s': 1, 'companies': 1, 'large': 1, 'strategies': 1, 'the': 3, 'outcome': 1}, 'tags': {'PRP$': 1, 'WRB': 1, 'JJ': 3, 'NN': 6, ',': 2, 'VBN': 2, 'TO': 1, 'RB': 2, 'IN': 5, 'VBG': 1, 'DT': 4, 'NNS': 4, 'VBZ': 1, 'NNP': 1}}}
+(S
+  (COMP
+    (NP Others/NNS)
+    consider/VBP
+    (NP the/DT attributes/NNS)
+    (PP of/IN (NP the/DT change/NN))
+    :/:
+    When/WRB
+    (NP innovations/NNS)
+    are/VBP
+    (NP incremental/JJ)
+    ,/,
+    (NP the/DT established/JJ)
+    ,/,
+    leading/VBG
+    (NP firms/NNS)
+    (PP in/IN (NP an/DT industry/NN))
+    are/VBP
+    (NP likely/JJ)
+    to/TO
+    reinforce/VB
+    their/PRP$
+    (NP dominance/NN)
+    ;/:
+    however/RB
+    ,/,
+    compared/VBN
+    (PP with/IN (NP entrants/NNS))
+    ,/,
+    they/PRP
+    will/MD
+    be/VB
+    (NP conservative/JJ and/CC ineffective/JJ)
+    (PP in/IN (NP exploiting/NN))
+    (PP breakthrough/IN (NP innovation/NN))
+    (/:
+    (NP footnote/NN))
+  28/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user7': {'words': {'and': 1, 'entrants': 1, 'consider': 1, 'footnote': 1, 'When': 1, 'an': 1, 'breakthrough': 1, 'likely': 1, 'incremental': 1, 'are': 2, 'in': 2, 'established': 1, 'compared': 1, 'to': 1, 'leading': 1, ',': 4, 'conservative': 1, 'their': 1, '(': 1, 'Others': 1, 'firms': 1, ':': 1, 'dominance': 1, 'be': 1, 'innovation': 1, 'however': 1, 'they': 1, 'innovations': 1, 'with': 1, ';': 1, 'change': 1, 'of': 1, 'industry': 1, 'reinforce': 1, 'will': 1, 'ineffective': 1, 'exploiting': 1, 'attributes': 1, 'the': 3}, 'tags': {'MD': 1, 'VB': 2, 'WRB': 1, 'RB': 1, 'NN': 6, 'CC': 1, ',': 4, 'VBN': 1, 'PRP$': 1, 'TO': 1, 'VBP': 3, 'PRP': 1, 'JJ': 5, 'IN': 5, 'VBG': 1, 'DT': 4, ':': 3, 'NNS': 5}}}
+(S
+  (PP
+    In/IN
+    (NP sustaining/NN situations—when/JJ the/DT race/NN entails/NNS))
+  making/VBG
+  (CP better/JJR)
+  (COMP
+    (NP products/NNS)
+    that/WDT
+    can/MD
+    be/VB
+    sold/VBN
+    for/IN
+    (CP more/JJR)
+    (NP money/NN)
+    to/TO
+    attractive/VB
+    (NP customers—we/JJ found/NN)
+    (PP that/IN (NP incumbents/NNS))
+    almost/RB
+    always/RB
+    (NP prevail/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user8': {'words': {'incumbents': 1, 'almost': 1, 'money': 1, 'sustaining': 1, 'prevail': 1, 'for': 1, '.': 1, 'better': 1, 'to': 1, 'attractive': 1, 'situations\x97when': 1, 'entails': 1, 'more': 1, 'be': 1, 'that': 2, 'sold': 1, 'customers\x97we': 1, 'making': 1, 'always': 1, 'race': 1, 'products': 1, 'can': 1, 'In': 1, 'found': 1, 'the': 1}, 'tags': {'MD': 1, 'VB': 2, 'VBG': 1, 'RB': 2, 'NN': 5, 'JJR': 2, 'VBN': 1, 'TO': 1, 'WDT': 1, 'JJ': 2, 'IN': 3, 'DT': 1, '.': 1, 'NNS': 3}}}
+(S
+  (PP
+    In/IN
+    (NP disruptive/JJ circumstances—when/JJ the/DT challenge/NN))
+  is/VBZ
+  to/TO
+  commercialize/VB
+  (NP a/DT simpler/NN)
+  ,/,
+  (CP more/RBR)
+  (NP convenient/JJ product/NN)
+  that/WDT
+  sells/VBZ
+  for/IN
+  (CP less/JJR)
+  (NP money/NN and/CC appeals/NNS)
+  to/TO
+  (NP
+    a/DT
+    new/JJ
+    or/CC
+    unattractive/JJ
+    customer/NN
+    set—the/NN
+    entrants/NNS)
+  are/VBP
+  (NP likely/JJ)
+  to/TO
+  beat/VB
+  (NP the/DT incumbents/NNS)
+  ./.)
+User word and tag count dictionary 
+{'test_user9': {'words': {'and': 1, 'appeals': 1, 'incumbents': 1, 'less': 1, 'money': 1, 'is': 1, 'likely': 1, 'are': 1, 'sells': 1, 'for': 1, 'convenient': 1, ',': 1, '.': 1, 'to': 3, 'commercialize': 1, 'new': 1, 'more': 1, 'customer': 1, 'product': 1, 'that': 1, 'beat': 1, 'circumstances\x97when': 1, 'set\x97the': 1, 'disruptive': 1, 'unattractive': 1, 'simpler': 1, 'a': 2, 'challenge': 1, 'entrants': 1, 'In': 1, 'the': 2, 'or': 1}, 'tags': {'VB': 2, 'NN': 6, 'CC': 2, ',': 1, 'RBR': 1, 'TO': 3, 'VBP': 1, 'WDT': 1, 'JJ': 6, 'IN': 2, 'VBZ': 2, 'DT': 4, '.': 1, 'NNS': 3, 'JJR': 1}}}
+(S
+  (COMP
+    (NP This/DT)
+    is/VBZ
+    (NP the/DT phenomenonthat/NN)
+    so/RB
+    frequently/RB
+    defeats/VBZ
+    (NP successful/JJ companies/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user10': {'words': {'phenomenonthat': 1, 'defeats': 1, 'This': 1, 'is': 1, 'companies': 1, 'successful': 1, 'so': 1, 'frequently': 1, 'the': 1}, 'tags': {'RB': 2, 'NN': 1, 'JJ': 1, 'VBZ': 2, 'DT': 2, 'NNS': 1}}}
+(S
+  It/PRP
+  implies/VBZ
+  ,/,
+  (PP of/IN (NP course/NN))
+  ,/,
+  (PP that/IN (NP the/DT))
+  (CP best/JJS)
+  (NP way/NN)
+  (PP for/IN (NP upstarts/NNS))
+  to/TO
+  attack/VB
+  established/VBN
+  (NP competitors/NNS)
+  is/VBZ
+  to/TO
+  disrupt/VB
+  them/PRP
+  ./.)
+User word and tag count dictionary 
+{'test_user11': {'words': {'established': 1, 'them': 1, 'implies': 1, 'to': 2, 'for': 1, 'that': 1, 'of': 1, 'is': 1, 'It': 1, 'competitors': 1, ',': 2, 'course': 1, 'attack': 1, 'way': 1, 'the': 1, '.': 1, 'upstarts': 1, 'best': 1, 'disrupt': 1}, 'tags': {'VB': 2, 'NN': 2, 'JJS': 1, ',': 2, 'VBN': 1, 'TO': 2, 'PRP': 2, 'IN': 3, 'VBZ': 2, 'DT': 1, '.': 1, 'NNS': 2}}}
+(S
+  (COMP
+    (NP Few/JJ technologies/NNS or/CC business/NN ideas/NNS)
+    are/VBP
+    intrinsically/RB
+    sustaining/VBG
+    (NP or/CC disruptive/JJ))
+  (PP in/IN (NP character/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user12': {'words': {'business': 1, 'ideas': 1, 'Few': 1, 'are': 1, 'sustaining': 1, 'technologies': 1, 'or': 2, 'intrinsically': 1, 'disruptive': 1}, 'tags': {'VBG': 1, 'JJ': 2, 'NN': 1, 'CC': 2, 'VBP': 1, 'RB': 1, 'NNS': 2}}}
+(S
+  Rather/RB
+  ,/,
+  their/PRP$
+  (COMP
+    (NP disruptive/JJ impact/NN)
+    must/MD
+    be/VB
+    molded/VBN
+    (PP into/IN (NP strategy/NN))
+    (PP as/IN (NP managers/NNS))
+    shape/VBP
+    (NP the/DT idea/NN)
+    (PP into/IN (NP a/DT plan/NN and/CC))
+    then/RB
+    (NP implement/JJ))
+  it/PRP
+  ./.)
+User word and tag count dictionary 
+{'test_user13': {'words': {'impact': 1, 'be': 1, 'and': 1, 'managers': 1, 'molded': 1, 'plan': 1, 'into': 2, 'shape': 1, 'strategy': 1, 'as': 1, 'disruptive': 1, 'a': 1, 'then': 1, 'the': 1, 'idea': 1, 'implement': 1, 'must': 1}, 'tags': {'MD': 1, 'VB': 1, 'RB': 1, 'NN': 4, 'CC': 1, 'VBN': 1, 'VBP': 1, 'JJ': 2, 'IN': 3, 'DT': 2, 'NNS': 1}}}
+(S
+  (GPE Successful/NNP)
+  (COMP
+    (NP new-growth/NN builders/NNS know—either/JJ)
+    intuitively/RB
+    (NP or/CC explicitly—that/JJ disruptive/JJ strategies/NNS)
+    greatly/RB
+    increase/VB
+    (NP the/DT odds/NNS))
+  (PP of/IN (NP competitive/JJ success/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user14': {'words': {'increase': 1, 'odds': 1, 'explicitly\x97that': 1, 'intuitively': 1, 'know\x97either': 1, 'disruptive': 1, 'strategies': 1, 'new-growth': 1, 'the': 1, 'builders': 1, 'or': 1, 'greatly': 1}, 'tags': {'VB': 1, 'JJ': 3, 'NN': 1, 'CC': 1, 'RB': 2, 'DT': 1, 'NNS': 3}}}
+(S
+  (COMP
+    (NP This/DT chapter’s/JJ purpose/NN)
+    is/VBZ
+    to/TO
+    review/VB
+    (NP the/DT disruptive/JJ innovation/NN model/NN)
+    (PP from/IN (NP the/DT perspective/JJ))
+    (PP
+      of/IN
+      (NP both/DT the/DT disruptee/NN and/CC the/DT disruptor/NN))
+    (PP in/IN (NP order/NN))
+    to/TO
+    help/VB
+    (NP growth/NN builders/NNS shape/NN)
+    their/PRP$
+    (NP strategies/NNS)
+    so/RB
+    that/IN
+    they/PRP
+    pick/VBP
+    (NP disruptive/JJ fights/NNS))
+  they/PRP
+  can/MD
+  win/VB
+  ./.)
+User word and tag count dictionary 
+{'test_user15': {'words': {'and': 1, 'help': 1, 'is': 1, 'fights': 1, 'chapter\x92s': 1, 'shape': 1, 'growth': 1, 'perspective': 1, 'in': 1, 'disruptor': 1, 'from': 1, 'their': 1, 'review': 1, 'to': 2, 'innovation': 1, 'that': 1, 'This': 1, 'disruptee': 1, 'purpose': 1, 'they': 1, 'the': 4, 'both': 1, 'of': 1, 'so': 1, 'pick': 1, 'strategies': 1, 'model': 1, 'builders': 1, 'order': 1, 'disruptive': 2}, 'tags': {'VB': 2, 'RB': 1, 'NN': 8, 'CC': 1, 'PRP$': 1, 'TO': 2, 'VBP': 1, 'PRP': 1, 'JJ': 4, 'IN': 4, 'VBZ': 1, 'DT': 6, 'NNS': 3}}}
+(S
+  (PP Because/IN (NP disruption/NN happens/NNS))
+  whether/IN
+  we/PRP
+  want/VBP
+  it/PRP
+  (COMP
+    (NP or/CC)
+    not/RB
+    ,/,
+    (NP this/DT chapter/NN)
+    should/MD
+    also/RB
+    help/VB
+    established/VBN
+    (NP companies/NNS)
+    capture/VBP
+    (NP disruptive/JJ growth/NN))
+  ,/,
+  instead/RB
+  of/IN
+  getting/VBG
+  killed/VBN
+  by/IN
+  it/PRP
+  ./.)
+User word and tag count dictionary 
+{'test_user16': {'words': {'chapter': 1, 'established': 1, 'help': 1, 'capture': 1, 'this': 1, 'companies': 1, ',': 1, 'should': 1, 'also': 1, 'growth': 1, 'disruptive': 1, 'not': 1, 'or': 1}, 'tags': {'MD': 1, 'VB': 1, 'JJ': 1, 'NN': 2, 'CC': 1, ',': 1, 'VBN': 1, 'VBP': 1, 'RB': 2, 'DT': 1, 'NNS': 1}}}
+(S
+  (GPE First/NNP)
+  ,/,
+  (PP in/IN (NP every/DT market/NN))
+  there/RB
+  is/VBZ
+  (COMP
+    (NP a/DT rate/NN)
+    (PP of/IN (NP improvement/NN))
+    (PP that/IN (NP customers/NNS))
+    can/MD
+    utilize/VB
+    (NP or/CC)
+    absorb/VB
+    ,/,
+    represented/VBN
+    (PP by/IN (NP the/DT))
+    dotted/VBN
+    (NP line/NN sloping/NN)
+    gently/RB
+    (NP upward/JJ))
+  (PP across/IN (NP the/DT chart/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user17': {'words': {'a': 1, 'customers': 1, 'dotted': 1, 'that': 1, 'gently': 1, 'of': 1, 'line': 1, 'utilize': 1, ',': 1, 'improvement': 1, 'by': 1, 'rate': 1, 'can': 1, 'absorb': 1, 'represented': 1, 'the': 1, 'upward': 1, 'or': 1, 'sloping': 1}, 'tags': {'MD': 1, 'VB': 2, 'JJ': 1, 'NN': 4, 'CC': 1, ',': 1, 'VBN': 2, 'RB': 1, 'IN': 3, 'DT': 2, 'NNS': 1}}}
+(S
+  (COMP
+    (NP Factors/NNS such/JJ)
+    (PP as/IN (NP traffic/JJ jams/NNS))
+    ,/,
+    speed/VBD
+    (NP limits/NNS)
+    ,/,
+    (NP and/CC safety/NN concerns/NNS)
+    constrain/VBP
+    how/WRB
+    much/RB
+    (NP performance/NN))
+  we/PRP
+  can/MD
+  use/VB
+  ./.)
+User word and tag count dictionary 
+{'test_user18': {'words': {'and': 1, 'limits': 1, 'jams': 1, 'much': 1, 'Factors': 1, ',': 2, 'how': 1, 'as': 1, 'safety': 1, 'traffic': 1, 'performance': 1, 'such': 1, 'constrain': 1, 'speed': 1, 'concerns': 1}, 'tags': {'WRB': 1, 'RB': 1, 'NN': 2, 'VBD': 1, 'CC': 1, ',': 2, 'VBP': 1, 'JJ': 2, 'IN': 1, 'NNS': 4}}}
+(S
+  (COMP
+    (NP Customers/NNS)
+    (PP in/IN (NP the/DT))
+    (CP highest/JJS)
+    (NP or/CC)
+    (CP most/JJS)
+    demanding/VBG
+    (NP tiers/NNS)
+    may/MD
+    never/RB
+    be/VB
+    satisfied/VBN
+    (PP with/IN (NP the/DT))
+    (CP best/JJS)
+    that/IN
+    is/VBZ
+    (NP available/JJ)
+    ,/,
+    (NP and/CC those/DT)
+    (PP in/IN (NP the/DT))
+    (CP lowest/JJS)
+    (NP or/CC)
+    (CP least/JJS)
+    demanding/VBG
+    (NP tiers/NNS)
+    can/MD
+    be/VB
+    (NP over-satisfied/JJ)
+    with/IN
+    very/RB
+    (NP little/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user19': {'words': {'and': 1, 'lowest': 1, 'is': 1, 'satisfied': 1, 'in': 2, 'best': 1, 'Customers': 1, ',': 1, 'least': 1, '.': 1, 'very': 1, 'available': 1, 'be': 2, 'that': 1, 'may': 1, 'never': 1, 'little': 1, 'demanding': 2, 'most': 1, 'highest': 1, 'with': 2, 'those': 1, 'tiers': 2, 'over-satisfied': 1, 'can': 1, 'the': 3, 'or': 2}, 'tags': {'MD': 2, 'VB': 2, 'VBG': 2, 'JJ': 3, 'CC': 3, 'JJS': 5, 'VBN': 1, ',': 1, 'RB': 2, 'IN': 5, 'VBZ': 1, 'DT': 4, '.': 1, 'NNS': 3}}}
+(S
+  (GPE Second/JJ)
+  ,/,
+  (PP in/IN (NP every/DT market/NN))
+  there/RB
+  is/VBZ
+  (COMP
+    (NP a/DT)
+    distinctly/RB
+    (NP different/JJ trajectory/NN)
+    (PP of/IN (NP improvement/NN))
+    that/IN
+    innovating/VBG
+    (NP companies/NNS)
+    provide/VB
+    as/IN
+    they/PRP
+    introduce/VBP
+    (NP new/JJ and/CC)
+    improved/VBN
+    (NP products/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user20': {'words': {'a': 1, 'and': 1, 'different': 1, 'improved': 1, 'that': 1, 'provide': 1, 'trajectory': 1, 'distinctly': 1, 'companies': 1, 'introduce': 1, 'improvement': 1, 'as': 1, 'products': 1, 'they': 1, 'of': 1, 'new': 1, 'innovating': 1}, 'tags': {'VB': 1, 'VBG': 1, 'RB': 1, 'NN': 2, 'CC': 1, 'VBN': 1, 'VBP': 1, 'PRP': 1, 'JJ': 2, 'IN': 3, 'DT': 1, 'NNS': 2}}}
+(S
+  (COMP
+    (NP The/DT)
+    (CP more/RBR)
+    steeply/RB
+    sloping/VBG
+    (NP solid/JJ lines/NNS)
+    (PP in/IN (NP Figure/NNP))
+    17.1/CD
+    (CP suggest/JJS)
+    (PP that/IN (NP this/DT pace/NN))
+    (PP of/IN (NP technological/JJ progress/NN))
+    almost/RB
+    always/RB
+    outstrips/VBZ
+    (NP the/DT ability/NN)
+    (PP of/IN (NP customers/NNS))
+    (PP in/IN (NP any/DT))
+    given/VBN
+    (NP tier/NN))
+  (PP of/IN (NP the/DT market/NN))
+  to/TO
+  use/VB
+  it/PRP
+  ./.)
+User word and tag count dictionary 
+{'test_user21': {'words': {'this': 1, 'almost': 1, 'it': 1, 'in': 2, 'any': 1, 'market': 1, 'outstrips': 1, 'given': 1, 'suggest': 1, '.': 1, 'to': 1, '17.1': 1, 'technological': 1, 'progress': 1, 'more': 1, 'customers': 1, 'ability': 1, 'that': 1, 'use': 1, 'tier': 1, 'The': 1, 'Figure': 1, 'solid': 1, 'always': 1, 'steeply': 1, 'lines': 1, 'pace': 1, 'of': 3, 'the': 2, 'sloping': 1}, 'tags': {'VB': 1, 'VBG': 1, 'RB': 3, 'NN': 5, 'JJS': 1, 'RBR': 1, 'CD': 1, 'TO': 1, 'VBN': 1, 'PRP': 1, 'JJ': 2, 'IN': 6, 'VBZ': 1, 'DT': 5, '.': 1, 'NNS': 2, 'NNP': 1}}}
+(S
+  Thus/RB
+  ,/,
+  (COMP
+    (NP a/DT company/NN)
+    whose/WP$
+    (NP products/NNS)
+    are/VBP
+    squarely/RB
+    positioned/VBN
+    (PP on/IN (NP mainstream/NN customers’/NN current/NN))
+    needs/VBZ
+    will/MD
+    probably/RB
+    overshoot/VB
+    what/WP
+    (NP those/DT same/JJ customers/NNS)
+    are/VBP
+    (NP able/JJ))
+  to/TO
+  utilize/VB
+  (PP in/IN (NP the/DT future/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user22': {'words': {'a': 1, 'whose': 1, 'needs': 1, 'mainstream': 1, 'on': 1, 'able': 1, 'company': 1, 'customers': 1, 'positioned': 1, 'what': 1, 'same': 1, 'current': 1, 'will': 1, 'products': 1, 'are': 2, 'probably': 1, 'squarely': 1, 'customers\x92': 1, 'overshoot': 1, 'those': 1}, 'tags': {'MD': 1, 'VB': 1, 'JJ': 2, 'NN': 4, 'WP': 1, 'VBN': 1, 'VBP': 2, 'RB': 2, 'IN': 1, 'WP$': 1, 'VBZ': 1, 'DT': 2, 'NNS': 2}}}
+(S
+  (NP This/DT happens/NNS)
+  (PP because/IN (NP companies/NNS))
+  keep/VBP
+  striving/VBG
+  to/TO
+  make/VB
+  (CP better/JJR)
+  (NP products/NNS)
+  that/WDT
+  they/PRP
+  can/MD
+  sell/VB
+  for/IN
+  (CP higher/JJR)
+  (NP profit/NN margins/NNS)
+  to/TO
+  (NP not-yet-satisfied/JJ customers/NNS)
+  in/IN
+  (CP more/JJR)
+  demanding/VBG
+  (NP tiers/NNS)
+  (PP of/IN (NP the/DT market/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user23': {'words': {'because': 1, 'in': 1, 'margins': 1, 'market': 1, 'happens': 1, 'not-yet-satisfied': 1, 'for': 1, 'profit': 1, 'make': 1, '.': 1, 'better': 1, 'to': 2, 'more': 1, 'sell': 1, 'customers': 1, 'that': 1, 'This': 1, 'demanding': 1, 'they': 1, 'striving': 1, 'tiers': 1, 'of': 1, 'companies': 1, 'keep': 1, 'products': 1, 'can': 1, 'the': 1, 'higher': 1}, 'tags': {'MD': 1, 'VB': 2, 'VBG': 2, 'NN': 2, 'JJR': 3, '.': 1, 'TO': 2, 'VBP': 1, 'WDT': 1, 'PRP': 1, 'JJ': 1, 'IN': 4, 'DT': 2, 'NNS': 6}}}
+(S
+  To/TO
+  visualize/VB
+  (COMP
+    (NP this/DT)
+    ,/,
+    think/VBP
+    back/RB
+    to/TO
+    1983/CD
+    when/WRB
+    (NP
+      people/NNS
+      first/JJ
+      started/JJ
+      using/NN
+      personal/JJ
+      computers/NNS))
+  (PP for/IN (NP word/NN))
+  processing/VBG
+  ./.)
+User word and tag count dictionary 
+{'test_user24': {'words': {'started': 1, '1983': 1, 'people': 1, 'this': 1, 'computers': 1, 'when': 1, ',': 1, 'back': 1, 'to': 1, 'personal': 1, 'using': 1, 'think': 1, 'first': 1}, 'tags': {'WRB': 1, 'JJ': 3, 'NN': 1, ',': 1, 'CD': 1, 'TO': 1, 'VBP': 1, 'RB': 1, 'DT': 1, 'NNS': 2}}}
+(S
+  (COMP
+    (NP Typists/NNS)
+    often/RB
+    had/VBD
+    to/TO
+    stop/VB
+    their/PRP$
+    (NP fingers/NNS)
+    to/TO
+    let/VB
+    (NP the/DT)
+    (ORGANIZATION Intel/NNP)
+    286/CD
+    (NP chip/NN inside/NN catch/NN))
+  up/IN
+  ./.)
+User word and tag count dictionary 
+{'test_user25': {'words': {'often': 1, 'Intel': 1, 'their': 1, 'had': 1, 'chip': 1, 'stop': 1, 'fingers': 1, 'to': 2, 'let': 1, 'catch': 1, 'the': 1, '286': 1, 'inside': 1, 'Typists': 1}, 'tags': {'VB': 2, 'NN': 3, 'VBD': 1, 'PRP$': 1, 'CD': 1, 'TO': 2, 'RB': 1, 'DT': 1, 'NNS': 2, 'NNP': 1}}}
+(S
+  As/IN
+  depicted/VBN
+  (PP at/IN (NP the/DT left/NN side/NN))
+  (PP of/IN (NP Figure/NNP))
+  17.1/CD
+  ,/,
+  (COMP (NP the/DT technology/NN) was/VBD not/RB (NP good/JJ))
+  enough/RB
+  ./.)
+User word and tag count dictionary 
+{'test_user26': {'words': {'not': 1, 'was': 1, 'the': 1, 'good': 1, 'technology': 1}, 'tags': {'JJ': 1, 'DT': 1, 'RB': 1, 'NN': 1, 'VBD': 1}}}
+(S
+  (COMP
+    (NP But/CC today’s/JJ processors/NNS)
+    offer/VBP
+    much/RB
+    (CP more/RBR)
+    speed/VBN
+    (PP than/IN (NP mainstream/NN customers/NNS))
+    can/MD
+    (NP use—although/JJ)
+    there/EX
+    are/VBP
+    still/RB
+    (NP a/DT few/JJ)
+    unsatisfied/VBN
+    (NP customers/NNS)
+    (PP in/IN (NP the/DT))
+    (CP most/RBS)
+    demanding/VBG
+    (NP tiers/NNS)
+    (PP of/IN (NP the/DT market/NN))
+    who/WP
+    need/VBP
+    (NP even-faster/JJ chips.Disruptive/JJ innovations/NNS)
+    ,/,
+    (PP in/IN (NP contrast/NN))
+    ,/,
+    (NP don’t/JJ attempt/NN)
+    to/TO
+    bring/VB
+    (CP better/JJR)
+    (NP products/NNS)
+    to/TO
+    established/VBD
+    (NP customers/NNS)
+    in/IN
+    existing/VBG
+    (NP markets/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user27': {'words': {'unsatisfied': 1, 'don\x92t': 1, 'use\x97although': 1, 'innovations': 1, 'bring': 1, 'are': 1, 'in': 3, 'need': 1, 'chips.Disruptive': 1, 'still': 1, 'speed': 1, 'today\x92s': 1, 'market': 1, 'established': 1, 'processors': 1, 'even-faster': 1, 'there': 1, ',': 2, 'But': 1, '.': 1, 'better': 1, 'few': 1, 'much': 1, 'markets': 1, 'contrast': 1, 'more': 1, 'customers': 3, 'mainstream': 1, 'offer': 1, 'who': 1, 'to': 2, 'demanding': 1, 'most': 1, 'existing': 1, 'than': 1, 'a': 1, 'tiers': 1, 'attempt': 1, 'of': 1, 'products': 1, 'can': 1, 'the': 2}, 'tags': {'MD': 1, 'VB': 1, 'VBG': 2, 'JJ': 6, 'NN': 4, 'VBD': 1, 'CC': 1, 'WP': 1, 'RBS': 1, 'RBR': 1, 'VBN': 2, 'TO': 2, 'VBP': 3, 'EX': 1, 'RB': 2, 'IN': 5, 'DT': 3, '.': 1, 'NNS': 8, ',': 2, 'JJR': 1}}}
+(S
+  Rather/RB
+  ,/,
+  they/PRP
+  disrupt/VBP
+  (COMP
+    (NP and/CC redefine/NN)
+    (PP that/IN (NP trajectory/NN))
+    (PP by/IN (NP introducing/NN products/NNS and/CC services/NNS))
+    that/WDT
+    are/VBP
+    not/RB
+    (PP as/IN (NP good/JJ))
+    as/IN
+    currently/RB
+    (NP available/JJ products/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user28': {'words': {'and': 2, 'introducing': 1, 'redefine': 1, 'good': 1, 'that': 2, 'trajectory': 1, 'currently': 1, 'available': 1, 'not': 1, 'as': 2, 'products': 2, 'are': 1, 'services': 1, 'by': 1}, 'tags': {'JJ': 2, 'NN': 3, 'CC': 2, 'VBP': 1, 'WDT': 1, 'RB': 2, 'IN': 4, 'NNS': 3}}}
+(S
+  (NP But/CC disruptive/JJ technologies/NNS)
+  offer/VBP
+  (NP other/JJ benefits—typically/JJ)
+  ,/,
+  they/PRP
+  are/VBP
+  (CP simpler/RBR)
+  ,/,
+  (CP more/RBR)
+  (NP convenient/JJ)
+  ,/,
+  (NP and/CC)
+  (CP less/JJR)
+  (NP expensive/JJ products/NNS)
+  that/WDT
+  (NP appeal/NN)
+  to/TO
+  (NP new/JJ or/CC less-demanding/JJ customers/NNS)
+  (/:
+  (NP footnote/NN)
+  30/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user29': {'words': {'and': 1, 'less': 1, 'footnote': 1, 'benefits\x97typically': 1, 'are': 1, 'expensive': 1, ')': 1, 'convenient': 1, 'offer': 1, ',': 3, 'But': 1, '.': 1, 'to': 1, 'other': 1, 'new': 1, 'appeal': 1, 'more': 1, 'customers': 1, 'that': 1, 'disruptive': 1, 'they': 1, 'technologies': 1, 'simpler': 1, 'less-demanding': 1, '30': 1, 'products': 1, '(': 1, 'or': 1}, 'tags': {'NN': 2, 'CC': 3, ',': 3, '.': 1, 'RBR': 2, 'TO': 1, 'CD': 2, 'VBP': 2, 'WDT': 1, 'PRP': 1, 'JJ': 7, 'JJR': 1, ':': 1, 'NNS': 3}}}
+(S
+  (COMP
+    (NP And/CC)
+    (PP because/IN (NP the/DT pace/NN))
+    (PP of/IN (NP technological/JJ progress/NN outstrips/NNS))
+    customers’/-NONE-
+    (NP abilities/NNS)
+    to/TO
+    use/VB
+    it/PRP
+    ,/,
+    (NP the/DT)
+    previously/RB
+    (NP not-good-enough/JJ technology/NN)
+    eventually/RB
+    improves/VBZ
+    enough/RB
+    to/TO
+    intersect/VB
+    (PP with/IN (NP the/DT needs/NNS))
+    of/IN
+    (CP more/JJR)
+    demanding/VBG
+    (NP customers/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user30': {'words': {'because': 1, 'previously': 1, 'it': 1, 'abilities': 1, 'technology': 1, 'outstrips': 1, 'use': 1, ',': 1, '.': 1, 'to': 2, 'enough': 1, 'intersect': 1, 'technological': 1, 'customers\x92': 1, 'more': 1, 'eventually': 1, 'customers': 1, 'needs': 1, 'demanding': 1, 'progress': 1, 'with': 1, 'not-good-enough': 1, 'And': 1, 'of': 2, 'pace': 1, 'improves': 1, 'the': 3}, 'tags': {'VB': 2, 'VBG': 1, 'RB': 3, 'NN': 3, 'CC': 1, ',': 1, 'JJR': 1, 'TO': 2, '-NONE-': 1, 'PRP': 1, 'JJ': 2, 'IN': 4, 'VBZ': 1, 'DT': 3, '.': 1, 'NNS': 4}}}
+(S
+  When/WRB
+  (COMP
+    (NP that/DT)
+    happens/VBZ
+    ,/,
+    (NP the/DT disruptors/NNS)
+    are/VBP
+    (PP on/IN (NP a/DT path/NN))
+    that/WDT
+    will/MD
+    ultimately/RB
+    crush/VB
+    (NP the/DT incumbents/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user31': {'words': {'happens': 1, 'disruptors': 1, 'ultimately': 1, 'incumbents': 1, 'that': 2, 'crush': 1, ',': 1, 'will': 1, 'are': 1, 'a': 1, 'path': 1, 'the': 2, 'on': 1}, 'tags': {'MD': 1, 'VB': 1, 'NN': 1, ',': 1, 'VBP': 1, 'WDT': 1, 'RB': 1, 'IN': 1, 'VBZ': 1, 'DT': 4, 'NNS': 2}}}
+(S
+  (PP Whereas/IN (NP the/DT current/JJ leaders/NNS))
+  (PP of/IN (NP the/DT industry/NN))
+  almost/RB
+  always/RB
+  triumph/VBP
+  (PP in/IN (NP battles/NNS))
+  of/IN
+  sustaining/VBG
+  (COMP
+    (NP innovation/NN)
+    ,/,
+    (NP the/DT odds/NNS)
+    (PP at/IN (NP disruptive/JJ innovation/NN))
+    heavily/RB
+    (NP favor/NN entrant/NN companies/NNS)
+    (/:
+    (NP footnote/NN))
+  31/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user32': {'words': {'entrant': 1, 'heavily': 1, 'footnote': 1, '(': 1, 'odds': 1, 'companies': 1, ',': 1, 'favor': 1, 'at': 1, 'innovation': 2, 'the': 1, 'disruptive': 1}, 'tags': {'RB': 1, 'NN': 5, ',': 1, 'JJ': 1, 'IN': 1, 'DT': 1, ':': 1, 'NNS': 2}}}
+(S
+  (PP With/IN (NP resource/NN allocation/NN processes/NNS))
+  designed/VBN
+  (COMP
+    (NP and/CC)
+    perfected/VBN
+    to/TO
+    support/VB
+    (NP sustaining/NN innovations/NNS)
+    ,/,
+    they/PRP
+    are/VBP
+    constitutionally/RB
+    (NP unable/JJ))
+  to/TO
+  respond/VB
+  ./.)
+User word and tag count dictionary 
+{'test_user33': {'words': {'and': 1, 'support': 1, 'constitutionally': 1, ',': 1, 'innovations': 1, 'to': 1, 'unable': 1, 'are': 1, 'they': 1, 'sustaining': 1, 'perfected': 1}, 'tags': {'VB': 1, 'JJ': 1, 'NN': 1, 'CC': 1, 'VBN': 1, ',': 1, 'TO': 1, 'VBP': 1, 'PRP': 1, 'RB': 1, 'NNS': 1}}}
+(S
+  They/PRP
+  are/VBP
+  always/RB
+  motivated/VBN
+  to/TO
+  go/VB
+  (COMP
+    (NP up-market/JJ)
+    ,/,
+    (NP and/CC)
+    almost/RB
+    never/RB
+    motivated/VBN
+    to/TO
+    defend/VB
+    (NP the/DT new/JJ or/CC low-end/JJ markets/NNS)
+    that/WDT
+    (NP the/DT disruptors/NNS)
+    find/VBP
+    (NP attractive/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user34': {'words': {'and': 1, 'low-end': 1, 'disruptors': 1, 'motivated': 1, 'to': 1, 'almost': 1, 'defend': 1, 'never': 1, ',': 1, 'find': 1, 'up-market': 1, 'that': 1, 'attractive': 1, 'new': 1, 'the': 2, 'markets': 1, 'or': 1}, 'tags': {'VB': 1, 'JJ': 4, 'CC': 2, ',': 1, 'VBN': 1, 'TO': 1, 'VBP': 1, 'WDT': 1, 'RB': 2, 'DT': 2, 'NNS': 2}}}
+(S
+  It/PRP
+  is/VBZ
+  (COMP
+    (NP the/DT core/NN)
+    (PP of/IN (NP the/DT innovator’s/JJ dilemma/NN))
+    ,/,
+    (NP and/CC the/DT beginning/NN)
+    (PP of/IN (NP the/DT innovator’s/JJ solution/NN Minimills/NNS))
+    ,/,
+    (PP in/IN (NP contrast/NN))
+    ,/,
+    melt/VBD
+    (NP scrap/NN steel/NN)
+    (PP in/IN (NP electric/JJ arc/NN furnaces—cylinders/NNS))
+    that/WDT
+    are/VBP
+    approximately/RB
+    (NP twenty/JJ meters/NNS)
+    (PP in/IN (NP diameter/NN and/CC))
+    ten/CD
+    (NP meters/NNS tall/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user35': {'words': {'and': 2, 'diameter': 1, 'dilemma': 1, 'ten': 1, 'innovator\x92s': 2, 'Minimills': 1, 'furnaces\x97cylinders': 1, 'arc': 1, 'meters': 2, 'melt': 1, 'in': 3, 'twenty': 1, 'scrap': 1, ',': 3, 'approximately': 1, 'contrast': 1, 'core': 1, 'electric': 1, 'that': 1, 'beginning': 1, 'steel': 1, 'of': 2, 'solution': 1, 'tall': 1, 'the': 4, 'are': 1}, 'tags': {'RB': 1, 'NN': 9, 'VBD': 1, 'CC': 2, ',': 3, 'CD': 1, 'VBP': 1, 'WDT': 1, 'JJ': 5, 'IN': 5, 'DT': 4, 'NNS': 4}}}
+(S
+  Because/IN
+  they/PRP
+  can/MD
+  produce/VB
+  molten/VBN
+  (COMP
+    (NP steel/NN)
+    cost-effectively/RB
+    (PP in/IN (NP such/JJ a/DT small/JJ chamber/NN))
+    ,/,
+    (NP minimills/NNS)
+    don’t/-NONE-
+    need/VBP
+    (NP the/DT massive-scale/JJ rolling/NN and/CC)
+    finishing/VBG
+    (NP operations/NNS)
+    that/WDT
+    are/VBP
+    required/VBN
+    to/TO
+    handle/VB
+    (NP the/DT output/NN)
+    (PP of/IN (NP efficient/NN blast/NN furnaces—which/JJ))
+    is/VBZ
+    why/WRB
+    they/PRP
+    are/VBP
+    called/VBN
+    (NP minimills/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user36': {'words': {'and': 1, 'operations': 1, 'don\x92t': 1, 'is': 1, 'are': 2, 'in': 1, 'need': 1, 'efficient': 1, ',': 1, 'why': 1, 'to': 1, 'cost-effectively': 1, 'minimills': 2, 'massive-scale': 1, 'a': 1, 'handle': 1, 'that': 1, 'they': 1, 'rolling': 1, 'such': 1, 'blast': 1, 'the': 2, 'steel': 1, 'furnaces\x97which': 1, 'of': 1, 'required': 1, 'chamber': 1, 'small': 1, 'output': 1, 'finishing': 1, 'called': 1}, 'tags': {'WRB': 1, 'VB': 1, 'VBG': 1, 'RB': 1, 'NN': 6, 'CC': 1, ',': 1, 'VBN': 2, 'TO': 1, '-NONE-': 1, 'VBP': 3, 'WDT': 1, 'PRP': 1, 'JJ': 4, 'IN': 2, 'VBZ': 1, 'DT': 3, 'NNS': 3}}}
+(S
+  (CP Most/JJS)
+  (NP important/JJ)
+  ,/,
+  though/IN
+  ,/,
+  (NP minimills’/NNP straightforward/NN technology/NN)
+  can/MD
+  make/VB
+  (NP steel/NN)
+  (PP of/IN (NP any/DT))
+  given/VBN
+  (NP quality/NN)
+  for/IN
+  20/CD
+  (NP percent/NN)
+  (CP lower/JJR)
+  (NP cost/NN)
+  (PP than/IN (NP an/DT integrated/JJ mill/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user37': {'words': {'an': 1, 'cost': 1, 'mill': 1, 'quality': 1, 'any': 1, 'minimills\x92': 1, '20': 1, 'for': 1, 'technology': 1, 'make': 1, 'percent': 1, ',': 2, '.': 1, 'Most': 1, 'integrated': 1, 'straightforward': 1, 'though': 1, 'given': 1, 'important': 1, 'than': 1, 'steel': 1, 'lower': 1, 'of': 1, 'can': 1}, 'tags': {'MD': 1, 'VB': 1, 'NN': 7, 'JJS': 1, ',': 2, 'VBN': 1, '.': 1, 'JJ': 2, 'IN': 4, 'DT': 2, 'CD': 1, 'JJR': 1, 'NNP': 1}}}
+(S
+  We/PRP
+  can/MD
+  explain/VB
+  why/WRB
+  (COMP
+    (NP something/NN)
+    that/WDT
+    makes/VBZ
+    so/RB
+    much/RB
+    (NP sense/NN)
+    has/VBZ
+    been/VBN
+    so/RB
+    (NP difficult/JJ))
+  (PP for/IN (NP the/DT integrated/JJ mills/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user38': {'words': {'that': 1, 'been': 1, 'much': 1, 'so': 2, 'something': 1, 'sense': 1, 'has': 1, 'makes': 1, 'difficult': 1}, 'tags': {'RB': 3, 'NN': 2, 'VBN': 1, 'WDT': 1, 'JJ': 1, 'VBZ': 2}}}
+(S
+  (COMP
+    (NP Minimills/NNS)
+    first/RB
+    became/VBD
+    technologically/RB
+    (NP viable/JJ))
+  (PP in/IN (NP the/DT mid-1960s/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user39': {'words': {'technologically': 1, 'became': 1, 'first': 1, 'viable': 1, 'Minimills': 1}, 'tags': {'NNS': 1, 'JJ': 1, 'RB': 2, 'VBD': 1}}}
+(S
+  Because/IN
+  they/PRP
+  melt/VBP
+  (COMP
+    (NP scrap/NN)
+    (PP of/IN (NP uncertain/NN and/CC))
+    varying/VBG
+    (NP chemistry/NN)
+    in/IN
+    their/PRP$
+    (NP electric/JJ arc/NN furnaces/NNS)
+    ,/,
+    (NP the/DT quality/NN)
+    (PP of/IN (NP the/DT steel/NN))
+    (PP that/IN (NP minimills/NNS))
+    initially/RB
+    could/MD
+    produce/VB
+    was/VBD
+    (NP poor/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user40': {'words': {'and': 1, 'arc': 1, 'in': 1, 'quality': 1, 'scrap': 1, ',': 1, 'their': 1, 'minimills': 1, 'was': 1, 'poor': 1, 'electric': 1, 'that': 1, 'initially': 1, 'furnaces': 1, 'produce': 1, 'varying': 1, 'steel': 1, 'uncertain': 1, 'of': 2, 'could': 1, 'the': 2, 'chemistry': 1}, 'tags': {'MD': 1, 'PRP$': 1, 'VBG': 1, 'RB': 1, 'NN': 6, 'VBD': 1, 'CC': 1, ',': 1, 'VB': 1, 'JJ': 2, 'IN': 4, 'DT': 2, 'NNS': 2}}}
+(S
+  (COMP
+    (NP The/DT specifications/NNS)
+    (PP for/IN (NP rebar/NN))
+    are/VBP
+    (NP loose/JJ)
+    ,/,
+    so/RB
+    (NP this/DT)
+    was/VBD
+    (NP an/DT ideal/NN market/NN)
+    (PP for/IN (NP products/NNS))
+    (PP of/IN (NP low/JJ and/CC variable/JJ quality/NN))
+    (PP In/IN (NP contrast/NN))
+    ,/,
+    (PP with/IN (NP a/DT))
+    20/CD
+    (NP percent/NN cost/NN advantage/NN)
+    ,/,
+    (NP the/DT minimills/NNS)
+    enjoyed/VBD
+    (NP attractive/JJ profits/NNS)
+    (PP in/IN (NP competition/NN))
+    (PP against/IN (NP the/DT integrated/JJ mills/NNS))
+    (PP for/IN (NP rebar—until/JJ))
+    1979/CD
+    ,/,
+    when/WRB
+    (NP the/DT minimills/NNS)
+    finally/RB
+    succeeded/VBD
+    (PP in/IN (NP driving/NN the/DT last/JJ))
+    integrated/VBN
+    (NP mill/NN))
+  out/IN
+  (PP of/IN (NP the/DT rebar/NN market/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user41': {'words': {'and': 1, 'mills': 1, 'competition': 1, 'an': 1, 'cost': 1, 'are': 1, 'in': 2, 'mill': 1, 'quality': 1, 'enjoyed': 1, 'market': 1, 'finally': 1, '20': 1, 'for': 3, 'rebar\x97until': 1, 'percent': 1, ',': 4, 'ideal': 1, 'low': 1, 'minimills': 2, 'products': 1, 'was': 1, 'integrated': 2, 'contrast': 1, 'attractive': 1, 'driving': 1, 'advantage': 1, 'rebar': 1, 'specifications': 1, 'loose': 1, 'variable': 1, 'The': 1, 'with': 1, 'a': 1, 'last': 1, 'succeeded': 1, '1979': 1, 'this': 1, 'of': 1, 'when': 1, 'against': 1, 'so': 1, 'In': 1, 'the': 4, 'profits': 1}, 'tags': {'WRB': 1, 'RB': 2, 'NN': 11, 'VBD': 3, 'CC': 1, ',': 4, 'CD': 2, 'VBP': 1, 'VBN': 1, 'JJ': 7, 'IN': 9, 'DT': 8, 'NNS': 6}}}
+(S
+  (COMP
+    (NP Historical/JJ pricing/NN statistics/NNS)
+    show/VBP
+    (PP that/IN (NP the/DT price/NN))
+    (PP of/IN (NP rebar/NN))
+    then/RB
+    collapsed/VBD
+    by/IN
+    20/CD
+    (NP percent/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user42': {'words': {'then': 1, 'statistics': 1, '20': 1, 'rebar': 1, 'that': 1, 'of': 1, 'price': 1, 'show': 1, 'percent': 1, 'by': 1, 'pricing': 1, 'Historical': 1, 'the': 1, 'collapsed': 1}, 'tags': {'RB': 1, 'NN': 4, 'VBD': 1, 'CD': 1, 'VBP': 1, 'JJ': 1, 'IN': 3, 'DT': 1, 'NNS': 1}}}
+(S
+  (COMP
+    (NP But/CC)
+    as/IN
+    soon/RB
+    (PP as/IN (NP low-cost/JJ minimill/NN))
+    was/VBD
+    pitted/VBN
+    (PP against/IN (NP low-cost/JJ minimill/NN))
+    (PP in/IN (NP a/DT commodity/NN market/NN))
+    ,/,
+    (NP the/DT reward/NN)
+    (PP for/IN (NP victory/NN))
+    was/VBD
+    (PP that/IN (NP none/NN))
+    of/IN
+    them/PRP
+    could/MD
+    earn/VB
+    (NP attractive/JJ profits/NNS)
+    (PP in/IN (NP rebar/NN))
+    (/:
+    (NP footnote/NN))
+  33/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user43': {'words': {'low-cost': 2, 'soon': 1, 'as': 2, 'in': 2, 'market': 1, 'for': 1, 'minimill': 2, '(': 1, 'rebar': 1, ',': 1, 'But': 1, 'footnote': 1, 'attractive': 1, 'pitted': 1, 'was': 2, 'them': 1, 'that': 1, 'earn': 1, 'a': 1, 'none': 1, 'commodity': 1, 'of': 1, 'could': 1, 'against': 1, 'victory': 1, 'the': 1, 'reward': 1, 'profits': 1}, 'tags': {'MD': 1, 'VB': 1, 'RB': 1, 'NN': 9, 'VBD': 2, 'CC': 1, 'VBN': 1, ',': 1, 'PRP': 1, 'JJ': 3, 'IN': 8, 'DT': 2, ':': 1, 'NNS': 1}}}
+(S
+  (GPE Worse/NNP)
+  ,/,
+  as/IN
+  they/PRP
+  all/VBP
+  sought/VBN
+  (COMP
+    (NP profitability/NN)
+    by/IN
+    becoming/VBG
+    (CP more/JJR)
+    (NP efficient/JJ producers/NNS)
+    ,/,
+    they/PRP
+    discovered/VBD
+    (PP that/IN (NP cost/NN reductions/NNS))
+    meant/VBD
+    (NP survival/NN)
+    ,/,
+    (NP but/CC)
+    not/RB
+    (NP profitability/NN)
+    ,/,
+    (PP in/IN (NP a/DT commodity/NN such/JJ))
+    (PP as/IN (NP rebar/NN))
+    (/:
+    (NP footnote/NN))
+  34/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user44': {'words': {'all': 1, 'reductions': 1, 'profitability': 2, 'discovered': 1, 'as': 2, 'cost': 1, 'in': 1, 'sought': 1, 'Worse': 1, 'efficient': 1, '(': 1, 'rebar': 1, ',': 4, '.': 1, 'footnote': 1, 'becoming': 1, 'more': 1, 'meant': 1, 'that': 1, 'survival': 1, 'but': 1, 'producers': 1, 'they': 2, 'not': 1, 'such': 1, 'by': 1, 'a': 1, 'commodity': 1, '34': 1, ')': 1}, 'tags': {'VBG': 1, 'JJ': 2, 'NN': 7, 'VBD': 2, 'CC': 1, 'RB': 1, 'VBN': 1, ',': 4, '.': 1, 'CD': 2, 'VBP': 1, 'PRP': 2, 'JJR': 1, 'IN': 5, 'DT': 1, ':': 1, 'NNS': 2, 'NNP': 1}}}
+(S
+  Soon/RB
+  ,/,
+  however/RB
+  ,/,
+  (COMP
+    (NP the/DT minimills/NNS)
+    looked/VBD
+    (NP up-market/JJ)
+    ,/,
+    (NP and/CC)
+    what/WP
+    they/PRP
+    saw/VBD
+    there/RB
+    spelled/VBN
+    (NP relief/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user45': {'words': {'and': 1, 'what': 1, 'there': 1, ',': 1, 'spelled': 1, 'looked': 1, 'up-market': 1, 'relief': 1, 'they': 1, 'minimills': 1, 'the': 1, 'saw': 1}, 'tags': {'RB': 1, 'NN': 1, 'VBD': 2, 'CC': 1, ',': 1, 'VBN': 1, 'PRP': 1, 'JJ': 1, 'WP': 1, 'DT': 1, 'NNS': 1}}}
+(S
+  If/IN
+  they/PRP
+  could/MD
+  just/RB
+  figure/VB
+  out/RP
+  how/WRB
+  to/TO
+  make/VB
+  (CP bigger/JJR)
+  (COMP
+    (NP and/CC)
+    (CP better/JJR)
+    (NP steel—shapes/NNS)
+    (PP
+      like/IN
+      (NP
+        angle/NN
+        iron/NN
+        and/CC
+        thicker/NN
+        bars/NNS
+        and/CC
+        rods—they/JJ))
+    could/MD
+    roll/VB
+    (NP tons/NNS)
+    (PP of/IN (NP money/NN))
+    ,/,
+    because/IN
+    (PP in/IN (NP that/DT tier/NN))
+    (PP of/IN (NP the/DT market/NN))
+    ,/,
+    as/IN
+    suggested/VBN
+    (PP in/IN (NP Figure/NNP))
+    17.2/CD
+    ,/,
+    (NP the/DT integrated/JJ mills/NNS)
+    were/VBD
+    earning/VBG
+    (NP gross/NNS margins/NNS)
+    of/IN
+    about/RB
+    12/CD
+    (NP percent—nearly/JJ double/JJ the/DT margins/NNS)
+    that/WDT
+    they/PRP
+    had/VBD
+    been/VBN
+    (NP able/JJ))
+  to/TO
+  earn/VB
+  (PP in/IN (NP rebar/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user46': {'words': {'and': 3, 'bars': 1, 'because': 1, 'just': 1, 'money': 1, 'able': 1, ',': 3, 'tons': 1, 'in': 3, 'margins': 2, '.': 1, 'thicker': 1, 'market': 1, 'out': 1, '17.2': 1, 'angle': 1, 'figure': 1, 'how': 1, 'double': 1, 'make': 1, 'rebar': 1, 'mills': 1, 'steel\x97shapes': 1, 'been': 1, 'earning': 1, 'better': 1, 'to': 2, 'roll': 1, 'that': 2, 'earn': 1, 'they': 2, 'tier': 1, 'gross': 1, 'bigger': 1, 'had': 1, 'suggested': 1, 'about': 1, '12': 1, 'like': 1, 'Figure': 1, 'of': 3, 'could': 2, 'percent\x97nearly': 1, 'as': 1, 'integrated': 1, 'rods\x97they': 1, 'iron': 1, 'were': 1, 'the': 3, 'If': 1}, 'tags': {'VBG': 1, 'VBD': 2, 'VBN': 2, 'WDT': 1, 'JJ': 5, 'DT': 4, 'RP': 1, 'NN': 7, ',': 3, '.': 1, 'TO': 2, 'PRP': 2, 'RB': 2, 'NNS': 7, 'NNP': 1, 'VB': 4, 'WRB': 1, 'CC': 3, 'CD': 2, 'IN': 10, 'MD': 2, 'JJR': 2}}}
+(S
+  (COMP
+    (NP That/DT market/NN)
+    was/VBD
+    also/RB
+    twiceas/RB
+    (NP big/JJ)
+    (PP as/IN (NP the/DT rebar/NN segment/NN))
+    ,/,
+    accounting/VBG
+    for/IN
+    about/IN
+    8/CD
+    (NP percent/NN))
+  (PP of/IN (NP industry/NN tonnage/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user47': {'words': {'about': 1, 'twiceas': 1, 'for': 1, 'That': 1, 'big': 1, 'rebar': 1, 'segment': 1, ',': 1, 'percent': 1, 'also': 1, 'as': 1, '8': 1, 'accounting': 1, 'the': 1, 'was': 1, 'market': 1}, 'tags': {'VBG': 1, 'RB': 2, 'NN': 4, 'VBD': 1, ',': 1, 'CD': 1, 'JJ': 1, 'IN': 3, 'DT': 2}}}
+(S
+  (PP As/IN (NP the/DT minimills/NNS))
+  figured/VBD
+  out/IN
+  how/WRB
+  to/TO
+  make/VB
+  (CP bigger/JJR)
+  (NP and/CC)
+  (CP better/JJR)
+  (NP steel/NN and/CC)
+  attacked/VBD
+  that/IN
+  (CP tier/JJR)
+  (PP of/IN (NP the/DT market/NN))
+  ,/,
+  (NP the/DT integrated/JJ mills/NNS)
+  were/VBD
+  almost/RB
+  relieved/VBN
+  to/TO
+  be/VB
+  rid/VBN
+  (PP of/IN (NP the/DT bar/NN and/CC rod/NN business/NN))
+  as/RB
+  well/RB
+  ./.)
+User word and tag count dictionary 
+{'test_user48': {'words': {'and': 3, 'almost': 1, 'rod': 1, 'as': 1, 'rid': 1, 'market': 1, 'out': 1, 'how': 1, 'make': 1, 'attacked': 1, 'mills': 1, ',': 1, '.': 1, 'better': 1, 'to': 2, 'minimills': 1, 'integrated': 1, 'be': 1, 'business': 1, 'that': 1, 'relieved': 1, 'tier': 1, 'bigger': 1, 'steel': 1, 'figured': 1, 'bar': 1, 'of': 2, 'well': 1, 'As': 1, 'were': 1, 'the': 4}, 'tags': {'VB': 2, 'WRB': 1, 'RB': 3, 'NN': 5, 'VBD': 3, 'CC': 3, 'JJR': 3, ',': 1, 'TO': 2, 'VBN': 2, 'JJ': 1, 'IN': 5, 'DT': 4, '.': 1, 'NNS': 2}}}
+(S
+  So/IN
+  (PP as/IN (NP the/DT minimills/NNS))
+  expanded/VBD
+  their/PRP$
+  (NP capacity/NN)
+  to/TO
+  make/VB
+  (NP angle/JJ iron/NN and/CC thicker/NN bars/NNS and/CC rods/NNS)
+  ,/,
+  (NP the/DT integrated/JJ mills/NNS)
+  shut/IN
+  their/PRP$
+  (NP lines/NNS)
+  (PP down/IN (NP or/CC))
+  reconfigured/VBN
+  them/PRP
+  to/TO
+  make/VB
+  (CP more/JJR)
+  (NP profitable/JJ products/NNS)
+  ./.)
+User word and tag count dictionary 
+{'test_user49': {'words': {'and': 2, 'bars': 1, 'them': 1, 'down': 1, 'as': 1, 'rods': 1, 'thicker': 1, 'profitable': 1, 'capacity': 1, 'their': 2, 'make': 2, 'mills': 1, ',': 1, '.': 1, 'to': 2, 'minimills': 1, 'integrated': 1, 'reconfigured': 1, 'shut': 1, 'So': 1, 'angle': 1, 'expanded': 1, 'lines': 1, 'products': 1, 'iron': 1, 'the': 2, 'more': 1, 'or': 1}, 'tags': {'PRP$': 2, 'NN': 3, 'VBD': 1, 'CC': 3, 'VB': 2, ',': 1, 'TO': 2, 'VBN': 1, 'PRP': 1, 'JJ': 3, 'IN': 4, 'DT': 2, '.': 1, 'NNS': 6, 'JJR': 1}}}
+(S
+  (PP With/IN (NP a/DT))
+  20/CD
+  (COMP
+    (NP percent/NN cost/NN advantage/NN)
+    ,/,
+    (NP the/DT minimills/NNS)
+    enjoyed/VBD
+    (NP significant/JJ profits/NNS)
+    (PP in/IN (NP competition/NN))
+    (PP against/IN (NP the/DT integrated/JJ mills/NNS))
+    until/IN
+    1984/CD
+    ,/,
+    when/WRB
+    they/PRP
+    finally/RB
+    succeeded/VBD
+    (PP in/IN (NP driving/NN the/DT last/JJ))
+    integrated/VBN
+    (NP mill/NN))
+  out/IN
+  (PP of/IN (NP the/DT bar/NN and/CC rod/NN market/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user50': {'words': {'significant': 1, 'percent': 1, 'competition': 1, 'cost': 1, 'in': 2, 'mill': 1, 'enjoyed': 1, '1984': 1, 'driving': 1, 'mills': 1, ',': 2, 'finally': 1, 'minimills': 1, 'until': 1, 'advantage': 1, 'they': 1, 'last': 1, 'succeeded': 1, 'when': 1, 'against': 1, 'integrated': 2, 'the': 3, 'profits': 1}, 'tags': {'WRB': 1, 'RB': 1, 'NN': 6, 'VBD': 2, ',': 2, 'CD': 1, 'VBN': 1, 'PRP': 1, 'JJ': 3, 'IN': 4, 'DT': 3, 'NNS': 3}}}
+(S
+  Once/RB
+  again/RB
+  ,/,
+  (COMP
+    (NP the/DT minimills/NNS)
+    reaped/VBD
+    their/PRP$
+    (NP reward/NN)
+    :/:
+    (PP With/IN (NP low-cost/JJ minimill/NN))
+    pitted/VBD
+    (PP against/IN (NP low-cost/JJ minimill/NN))
+    ,/,
+    (NP the/DT price/NN)
+    (PP of/IN (NP bar/NN and/CC rod/NN))
+    collapsed/VBD
+    by/IN
+    20/CD
+    (NP percent/NN)
+    ,/,
+    (NP and/CC)
+    they/PRP
+    could/MD
+    no/RB
+    (CP longer/RBR)
+    (NP earn/NN attractive/JJ profits/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user51': {'words': {'and': 2, 'low-cost': 2, 'rod': 1, 'longer': 1, 'again': 1, '20': 1, 'minimill': 2, 'percent': 1, ',': 3, '.': 1, 'their': 1, 'attractive': 1, 'minimills': 1, 'pitted': 1, ':': 1, 'With': 1, 'collapsed': 1, 'price': 1, 'they': 1, 'by': 1, 'Once': 1, 'earn': 1, 'bar': 1, 'reaped': 1, 'of': 1, 'could': 1, 'no': 1, 'against': 1, 'the': 2, 'reward': 1, 'profits': 1}, 'tags': {'MD': 1, 'PRP$': 1, 'JJ': 3, 'NN': 8, 'VBD': 3, 'CC': 2, 'RBR': 1, ',': 3, 'CD': 1, '.': 1, 'PRP': 1, 'RB': 3, 'IN': 4, 'DT': 2, ':': 1, 'NNS': 2}}}
+(S
+  What/WP
+  (COMP
+    (NP the/DT technical/JJ experts/NNS didn’t/JJ count/NN)
+    on/IN
+    ,/,
+    however/RB
+    ,/,
+    was/VBD
+    how/WRB
+    desperately/RB
+    motivated/VBN
+    (NP the/DT minimills/NNS)
+    would/MD
+    be/VB
+    to/TO
+    solve/VB
+    (PP that/IN (NP problem/NN))
+    ,/,
+    because/IN
+    it/PRP
+    was/VBD
+    (NP the/DT only/JJ way/NN)
+    they/PRP
+    could/MD
+    make/VB
+    (NP attractive/JJ money/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user52': {'words': {'because': 1, 'money': 1, 'it': 1, 'experts': 1, 'would': 1, 'how': 1, 'make': 1, 'that': 1, ',': 3, 'to': 1, 'only': 1, 'attractive': 1, 'way': 1, 'minimills': 1, 'was': 2, 'be': 1, 'motivated': 1, 'desperately': 1, 'however': 1, 'they': 1, 'problem': 1, 'count': 1, 'on': 1, 'technical': 1, 'could': 1, 'didn\x92t': 1, 'solve': 1, 'the': 3}, 'tags': {'MD': 2, 'VB': 3, 'WRB': 1, 'RB': 2, 'NN': 4, 'VBD': 2, ',': 3, 'VBN': 1, 'TO': 1, 'PRP': 2, 'JJ': 4, 'IN': 3, 'DT': 3, 'NNS': 2}}}
+(S
+  (COMP
+    (NP Minimills/NNS)
+    achieved/VBD
+    extraordinarily/RB
+    clever/RB
+    (NP innovations/NNS)
+    as/IN
+    they/PRP
+    stretched/VBD
+    (PP from/IN (NP angle/JJ iron/NN))
+    to/TO
+    (NP I-beams—things/NNS such/JJ)
+    as/IN
+    (ORGANIZATION Chaparral/NNP)
+    (NP Steel’s/NNP dog-bone/NNP)
+    mold/VBD
+    in/IN
+    its/PRP$
+    (NP continuous/JJ caster/NN)
+    ,/,
+    which/WDT
+    (NP no/DT one/NN))
+  had/VBD
+  imagined/VBN
+  could/MD
+  be/VB
+  done/VBN
+  ./.)
+User word and tag count dictionary 
+{'test_user53': {'words': {'achieved': 1, 'Minimills': 1, 'innovations': 1, 'as': 2, 'stretched': 1, 'in': 1, 'caster': 1, 'angle': 1, 'mold': 1, 'dog-bone': 1, 'from': 1, 'no': 1, ',': 1, 'its': 1, 'to': 1, 'which': 1, 'clever': 1, 'continuous': 1, 'Chaparral': 1, 'they': 1, 'such': 1, 'one': 1, 'I-beams\x97things': 1, 'Steel\x92s': 1, 'extraordinarily': 1, 'iron': 1}, 'tags': {'PRP$': 1, 'RB': 2, 'NN': 3, 'VBD': 3, ',': 1, 'TO': 1, 'WDT': 1, 'PRP': 1, 'JJ': 3, 'IN': 4, 'DT': 1, 'NNS': 3, 'NNP': 3}}}
+(S
+  (PP At/IN (NP the/DT beginning/NN))
+  of/IN
+  their/PRP$
+  (NP invasion/NN)
+  (PP into/IN (NP structural/JJ beams/NNS))
+  ,/,
+  (NP the/DT)
+  (CP biggest/JJS)
+  (PP that/IN (NP the/DT minimills/NNS))
+  could/MD
+  roll/VB
+  were/VBD
+  (NP little/JJ six-inch/JJ beams/NNS)
+  (PP of/IN (NP the/DT sort/NN))
+  (PP that/IN (NP under-gird/JJ mobile/JJ homes/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user54': {'words': {'into': 1, 'little': 1, ',': 1, '.': 1, 'their': 1, 'minimills': 1, 'biggest': 1, 'roll': 1, 'sort': 1, 'that': 2, 'beams': 2, 'under-gird': 1, 'six-inch': 1, 'invasion': 1, 'beginning': 1, 'structural': 1, 'homes': 1, 'mobile': 1, 'of': 2, 'could': 1, 'At': 1, 'were': 1, 'the': 4}, 'tags': {'MD': 1, 'PRP$': 1, 'NN': 3, 'VBD': 1, 'JJS': 1, ',': 1, '.': 1, 'VB': 1, 'JJ': 5, 'IN': 6, 'DT': 4, 'NNS': 4}}}
+(S
+  They/PRP
+  attacked/VBD
+  (COMP
+    (NP the/DT low/JJ end/NN)
+    (PP of/IN (NP the/DT structural/JJ beam/NN market/NN))
+    ,/,
+    (NP and/CC)
+    again/RB
+    (NP the/DT)
+    integrated/VBN
+    (NP mills/NNS))
+  were/VBD
+  almost/RB
+  relieved/VBN
+  to/TO
+  be/VB
+  rid/VBN
+  of/IN
+  it/PRP
+  ./.)
+User word and tag count dictionary 
+{'test_user55': {'words': {'and': 1, 'again': 1, 'end': 1, 'of': 1, 'mills': 1, ',': 1, 'beam': 1, 'low': 1, 'the': 3, 'integrated': 1, 'market': 1, 'structural': 1}, 'tags': {'RB': 1, 'NN': 3, 'CC': 1, ',': 1, 'VBN': 1, 'JJ': 2, 'IN': 1, 'DT': 3, 'NNS': 1}}}
+(S
+  It/PRP
+  was/VBD
+  (NP a/DT dog-eat-dog/JJ commodity/NN)
+  compared/VBN
+  with/IN
+  their/PRP$
+  (NP other/JJ higher-margin/JJ products/NNS)
+  where/WRB
+  focused/VBN
+  (NP investment/NN)
+  might/MD
+  bring/VB
+  (CP more/RBR)
+  (NP attractive/JJ volume/NN)
+  ./.)
+User word and tag count dictionary 
+{'test_user56': {'words': {'a': 1, 'higher-margin': 1, 'compared': 1, 'focused': 1, 'commodity': 1, 'bring': 1, 'with': 1, 'It': 1, 'dog-eat-dog': 1, 'volume': 1, 'their': 1, 'other': 1, 'products': 1, 'attractive': 1, '.': 1, 'where': 1, 'more': 1, 'was': 1, 'investment': 1, 'might': 1}, 'tags': {'MD': 1, 'PRP$': 1, 'WRB': 1, 'NN': 3, 'VBD': 1, 'VBN': 2, 'RBR': 1, 'VB': 1, 'PRP': 1, 'JJ': 4, 'IN': 1, 'DT': 1, '.': 1, 'NNS': 1}}}
+(S
+  So/IN
+  (PP as/IN (NP the/DT minimills/NNS))
+  expanded/VBD
+  their/PRP$
+  (NP capacity/NN)
+  to/TO
+  roll/VB
+  (NP structural/JJ beams/NNS)
+  ,/,
+  (NP the/DT integrated/JJ mills/NNS)
+  shut/IN
+  their/PRP$
+  (NP structural/JJ beam/NN mills/NNS)
+  down/IN
+  (PP in/IN (NP order/NN))
+  to/TO
+  focus/VB
+  on/IN
+  (CP more/JJR)
+  (NP profitable/JJ sheet/NN steel/NN products/NNS)
+  ./.)
+User word and tag count dictionary 
+{'test_user57': {'words': {'focus': 1, 'down': 1, 'as': 1, 'in': 1, 'profitable': 1, 'capacity': 1, 'their': 2, 'mills': 2, ',': 1, '.': 1, 'to': 2, 'minimills': 1, 'integrated': 1, 'more': 1, 'shut': 1, 'beams': 1, 'beam': 1, 'So': 1, 'sheet': 1, 'structural': 2, 'steel': 1, 'on': 1, 'expanded': 1, 'roll': 1, 'products': 1, 'the': 2, 'order': 1}, 'tags': {'PRP$': 2, 'NN': 5, 'VBD': 1, 'VB': 2, ',': 1, 'TO': 2, 'JJ': 4, 'IN': 6, 'DT': 2, '.': 1, 'NNS': 5, 'JJR': 1}}}
+(S
+  Then/RB
+  (PP in/IN (NP the/DT mid-1990s/NNS))
+  ,/,
+  when/WRB
+  they/PRP
+  finally/RB
+  succeeded/VBD
+  (PP in/IN (NP driving/NN the/DT last/JJ))
+  integrated/VBN
+  (COMP
+    (NP mill/NN)
+    out/IN
+    (PP of/IN (NP the/DT structural/JJ beam/NN market/NN))
+    ,/,
+    (NP pricing/NN)
+    again/RB
+    collapsed/VBD
+    (NP The/DT sequence/NN)
+    repeated/VBD
+    itself/PRP
+    when/WRB
+    (NP the/DT)
+    leading/VBG
+    (NP minimill/NN)
+    ,/,
+    (PERSON Nucor/NNP)
+    ,/,
+    attacked/VBD
+    (NP the/DT sheet/NN steel/NN business/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user58': {'words': {'sequence': 1, 'Nucor': 1, 'itself': 1, 'pricing': 1, 'mill': 1, 'market': 1, 'out': 1, 'again': 1, 'sheet': 1, 'minimill': 1, 'leading': 1, 'when': 1, ',': 3, 'business': 1, 'attacked': 1, 'collapsed': 1, 'beam': 1, 'repeated': 1, 'The': 1, 'structural': 1, 'steel': 1, 'of': 1, 'the': 3}, 'tags': {'WRB': 1, 'JJ': 1, 'NN': 9, 'VBD': 3, ',': 3, 'PRP': 1, 'RB': 1, 'IN': 2, 'VBG': 1, 'DT': 4, 'NNP': 1}}}
+(S
+  Its/PRP$
+  (COMP
+    (NP market/NN capitalization/NN)
+    now/RB
+    dwarfs/VBZ
+    that/IN
+    (PP of/IN (NP the/DT))
+    (CP largest/JJS)
+    integrated/VBN
+    (NP steel/NN company/NN)
+    ,/,
+    (ORGANIZATION US/NNP Steel/NNP)
+    (NP The/NNP forces/NNS)
+    that/WDT
+    (NP propel/NN well-managed/JJ companies/NNS up-market/JJ))
+  are/VBP
+  always/RB
+  (PP at/IN (NP work/NN))
+  ,/,
+  (PP in/IN (NP every/DT company/NN))
+  (PP in/IN (NP every/DT industry/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user59': {'words': {'propel': 1, 'are': 1, 'in': 2, 'market': 1, ',': 2, '.': 1, 'up-market': 1, 'dwarfs': 1, 'forces': 1, 'largest': 1, 'integrated': 1, 'Steel': 1, 'capitalization': 1, 'that': 2, 'company': 2, 'every': 2, 'The': 1, 'now': 1, 'steel': 1, 'of': 1, 'industry': 1, 'work': 1, 'companies': 1, 'US': 1, 'always': 1, 'well-managed': 1, 'the': 1, 'Its': 1, 'at': 1}, 'tags': {'PRP$': 1, 'JJ': 2, 'NN': 8, 'JJS': 1, 'VBN': 1, ',': 2, 'VBP': 1, 'WDT': 1, 'RB': 2, 'IN': 5, 'VBZ': 1, 'DT': 3, '.': 1, 'NNS': 2, 'NNP': 3}}}
+(S
+  (PP Whether/IN (NP or/CC))
+  not/RB
+  (COMP
+    (NP entrant/JJ firms/NNS)
+    have/VBP
+    disrupted/VBN
+    (NP the/DT established/JJ leaders/NNS)
+    yet/RB
+    ,/,
+    (NP the/DT forces/NNS)
+    are/VBP
+    (PP at/IN (NP work/NN))
+    ,/,
+    leading/VBG
+    predictably/RB
+    in/IN
+    one/CD
+    (NP direction/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user60': {'words': {'established': 1, 'direction': 1, 'in': 1, 'leaders': 1, 'predictably': 1, 'leading': 1, 'work': 1, ',': 2, 'yet': 1, 'disrupted': 1, 'entrant': 1, 'have': 1, 'forces': 1, 'at': 1, 'firms': 1, 'one': 1, 'the': 2, 'are': 1}, 'tags': {'VBG': 1, 'RB': 2, 'NN': 2, 'VBN': 1, ',': 2, 'VBP': 2, 'JJ': 2, 'IN': 2, 'DT': 2, 'CD': 1, 'NNS': 3}}}
+(S
+  Indeed/RB
+  ,/,
+  when/WRB
+  we/PRP
+  use/VBP
+  (NP the/DT term/NN technology/NN)
+  (PP in/IN (NP this/DT chapter/NN))
+  ,/,
+  it/PRP
+  means/VBZ
+  (NP the/DT process/NN)
+  (PP that/IN (NP any/DT company/NN))
+  uses/VBZ
+  to/TO
+  convert/VB
+  (NP inputs/NNS)
+  (PP of/IN (NP labor/NN))
+  ,/,
+  (NP materials/NNS)
+  ,/,
+  (NP capital/NN)
+  ,/,
+  (NP energy/NN)
+  ,/,
+  (NP and/CC information/NN)
+  (PP into/IN (NP outputs/NNS))
+  of/IN
+  (CP greater/JJR)
+  (NP value/NN)
+  ./.)
+User word and tag count dictionary 
+{'test_user61': {'words': {'and': 1, 'process': 1, 'energy': 1, 'it': 1, 'in': 1, '.': 1, 'technology': 1, 'any': 1, 'information': 1, 'use': 1, 'that': 1, 'when': 1, ',': 6, 'labor': 1, 'to': 1, 'capital': 1, 'into': 1, 'inputs': 1, 'we': 1, 'greater': 1, 'means': 1, 'outputs': 1, 'company': 1, 'term': 1, 'uses': 1, 'chapter': 1, 'convert': 1, 'this': 1, 'Indeed': 1, 'value': 1, 'materials': 1, 'of': 2, 'the': 2}, 'tags': {'VB': 1, 'WRB': 1, 'NN': 10, 'CC': 1, ',': 6, 'JJR': 1, 'TO': 1, 'VBP': 1, 'PRP': 2, 'RB': 1, 'IN': 5, 'VBZ': 2, 'DT': 4, '.': 1, 'NNS': 3}}}
+(S
+  (PP For/IN (NP the/DT purpose/NN))
+  of/IN
+  predictably/RB
+  creating/VBG
+  (COMP
+    (NP growth/NN)
+    ,/,
+    treating/VBG
+    (NP “high/JJ tech”/NN)
+    (PP as/IN (NP different/JJ))
+    (PP from/IN (NP “low/JJ tech”/NN))
+    is/VBZ
+    not/RB
+    (NP the/DT right/NN way/NN)
+    to/TO
+    categorize/VB
+    (NP the/DT world/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user62': {'words': {'treating': 1, 'tech\x94': 2, 'different': 1, '\x93low': 1, 'from': 1, 'way': 1, 'is': 1, ',': 1, 'to': 1, 'as': 1, 'growth': 1, 'right': 1, '\x93high': 1, 'world': 1, 'not': 1, 'categorize': 1, 'the': 2}, 'tags': {'VB': 1, 'VBG': 1, 'RB': 1, 'NN': 6, ',': 1, 'TO': 1, 'JJ': 3, 'IN': 2, 'VBZ': 1, 'DT': 2}}}
+(S
+  (COMP
+    (NP Every/DT company/NN)
+    has/VBZ
+    (NP technology/NN)
+    ,/,
+    (NP and/CC each/DT)
+    is/VBZ
+    (NP subject/JJ)
+    to/TO
+    (NP these/DT fundamental/JJ forces/NNS The/DT firm/NN)
+    that/WDT
+    (NP beat/NN)
+    (PERSON Xerox/NNP)
+    was/VBD
+    (NP Canon—and/JJ)
+    (PP that/IN (NP victory/NN))
+    started/VBD
+    (PP
+      with/IN
+      (NP a/DT disruptive/JJ tabletop/NN copier/NN strategy/NN))
+    (PP In/IN (NP the/DT end/NN))
+    ,/,
+    it/PRP
+    was/VBD
+    (NP the/DT disruptive/JJ personal/JJ computer/NN makers/NNS)
+    ,/,
+    not/RB
+    (NP the/DT major/JJ corporations/NNS)
+    who/WP
+    picked/VBN
+    (NP a/DT direct/JJ)
+    ,/,
+    (NP sustaining-innovation/NN fight/NN)
+    ,/,
+    that/IN
+    bested/VBN
+    (ORGANIZATION IBM/NNP)
+    (PP in/IN (NP computers/NNS))
+    (PP In/IN (NP the/DT future/NN))
+    ,/,
+    (NP the/DT)
+    (CP most/RBS)
+    (NP profitable/JJ growth/NN)
+    (PP in/IN (NP the/DT airframe/NN industry/NN))
+    will/MD
+    probably/RB
+    come/VB
+    (PP from/IN (NP firms/NNS))
+    (PP with/IN (NP disruptive/JJ strategies/NNS))
+    ,/,
+    (NP such/JJ)
+    as/IN
+    (ORGANIZATION Embraer/NNP)
+    (NP and/CC Bombardier’s/NNP Canadair/NNP)
+    ,/,
+    whose/WP$
+    (NP regional/JJ jets/NNS)
+    are/VBP
+    aggressively/RB
+    stretching/VBG
+    (NP up-market/NN))
+  from/IN
+  below/IN
+  ./.)
+User word and tag count dictionary 
+{'test_user63': {'words': {'and': 2, 'major': 1, 'stretching': 1, 'IBM': 1, 'is': 1, 'it': 1, 'Xerox': 1, 'not': 1, 'as': 1, 'computer': 1, 'tabletop': 1, 'picked': 1, 'in': 2, 'corporations': 1, 'sustaining-innovation': 1, 'fight': 1, 'technology': 1, 'makers': 1, 'subject': 1, 'profitable': 1, 'whose': 1, 'bested': 1, 'end': 1, 'up-market': 1, 'personal': 1, 'come': 1, 'copier': 1, ',': 8, '.': 1, 'strategy': 1, 'to': 1, 'Every': 1, 'forces': 1, 'probably': 1, 'firms': 1, 'has': 1, 'was': 2, 'firm': 1, 'such': 1, 'who': 1, 'growth': 1, 'Canadair': 1, 'that': 3, 'started': 1, 'company': 1, 'In': 2, 'direct': 1, 'jets': 1, 'most': 1, 'regional': 1, 'disruptive': 3, 'beat': 1, 'from': 2, 'The': 1, 'with': 2, 'a': 2, 'aggressively': 1, 'airframe': 1, 'these': 1, 'Embraer': 1, 'industry': 1, 'computers': 1, 'Canon\x97and': 1, 'will': 1, 'below': 1, 'future': 1, 'victory': 1, 'fundamental': 1, 'each': 1, 'strategies': 1, 'the': 6, 'Bombardier\x92s': 1, 'are': 1}, 'tags': {'VBG': 1, 'VBD': 3, 'VBN': 2, 'VBP': 1, 'WDT': 1, 'JJ': 12, 'WP': 1, 'VBZ': 2, 'DT': 12, 'NN': 17, ',': 8, '.': 1, 'TO': 1, 'PRP': 1, 'RB': 3, 'NNS': 7, 'NNP': 5, 'VB': 1, 'CC': 2, 'RBS': 1, 'IN': 12, 'WP$': 1, 'MD': 1}}}
+(S
+  You/PRP
+  need/VBP
+  to/TO
+  define/VB
+  (COMP
+    (NP an/DT opportunity/NN)
+    that/IN
+    is/VBZ
+    (NP disruptive/JJ relative/JJ)
+    to/TO
+    (NP all/DT the/DT established/JJ players/NNS)
+    (PP in/IN (NP the/DT))
+    targeted/VBN
+    (NP market/NN space/NN)
+    ,/,
+    (NP or/CC)
+    you/PRP
+    should/MD
+    not/RB
+    invest/VB
+    (PP in/IN (NP the/DT idea/NN Prior/NNP))
+    to/TO
+    (NP the/DT advent/NN)
+    (PP of/IN (NP the/DT Internet/NNP))
+    ,/,
+    (ORGANIZATION Dell/NNP Computer/NNP)
+    ,/,
+    (PP for/IN (NP example/NN))
+    ,/,
+    sold/VBN
+    (NP computers/NNS)
+    directly/RB
+    to/TO
+    (NP customers/NNS))
+  (PP by/IN (NP mail/NN and/CC))
+  (PP over/IN (NP the/DT telephone/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user64': {'words': {'all': 1, 'is': 1, 'Internet': 1, 'idea': 1, 'an': 1, 'relative': 1, 'directly': 1, 'in': 2, 'market': 1, 'established': 1, 'for': 1, 'space': 1, ',': 4, 'should': 1, 'to': 3, 'you': 1, 'customers': 1, 'that': 1, 'targeted': 1, 'sold': 1, 'Prior': 1, 'disruptive': 1, 'not': 1, 'Dell': 1, 'opportunity': 1, 'invest': 1, 'computers': 1, 'advent': 1, 'example': 1, 'players': 1, 'Computer': 1, 'of': 1, 'the': 5, 'or': 1}, 'tags': {'MD': 1, 'VB': 1, 'RB': 2, 'NN': 6, 'CC': 1, 'VBN': 2, ',': 4, 'TO': 3, 'PRP': 1, 'JJ': 3, 'IN': 5, 'VBZ': 1, 'DT': 7, 'NNS': 3, 'NNP': 4}}}
+(S
+  (COMP
+    (NP This/DT business/NN)
+    was/VBD
+    already/RB
+    (NP a/DT low-end/JJ disruptor/NN)
+    ,/,
+    moving/VBG
+    up/RP
+    its/PRP$
+    (NP trajectory/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user65': {'words': {'a': 1, 'low-end': 1, 'already': 1, 'business': 1, 'disruptor': 1, 'This': 1, 'trajectory': 1, ',': 1, 'up': 1, 'moving': 1, 'was': 1, 'its': 1}, 'tags': {'PRP$': 1, 'VBG': 1, 'RB': 1, 'NN': 3, 'VBD': 1, ',': 1, 'JJ': 1, 'RP': 1, 'DT': 2}}}
+(S
+  (COMP
+    (NP Dell’s/NNS banks/NNS)
+    (PP of/IN (NP telephone/NN salespeople/NN))
+    had/VBD
+    to/TO
+    be/VB
+    highly/RB
+    trained/VBN
+    (PP in/IN (NP order/NN))
+    to/TO
+    walk/VB
+    their/PRP$
+    (NP customers/NNS)
+    (PP through/IN (NP the/DT various/JJ configurations/NNS))
+    (PP of/IN (NP components/NNS))
+    that/WDT
+    were/VBD
+    (NP and/CC)
+    were/VBD
+    not/RB
+    (NP feasible/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user66': {'words': {'and': 1, 'telephone': 1, 'highly': 1, 'through': 1, 'trained': 1, 'in': 1, 'to': 2, 'had': 1, 'their': 1, 'various': 1, 'be': 1, 'salespeople': 1, 'that': 1, 'Dell\x92s': 1, 'not': 1, 'walk': 1, 'of': 2, 'feasible': 1, 'customers': 1, 'components': 1, 'were': 2, 'banks': 1, 'the': 1, 'order': 1, 'configurations': 1}, 'tags': {'VB': 2, 'JJ': 2, 'NN': 3, 'VBD': 3, 'CC': 1, 'VBN': 1, 'TO': 2, 'WDT': 1, 'RB': 2, 'IN': 4, 'DT': 1, 'PRP$': 1, 'NNS': 5}}}
+(S
+  They/PRP
+  then/RB
+  manually/RB
+  entered/VBN
+  (COMP
+    (NP the/DT information/NN)
+    (PP
+      into/IN
+      (NP
+        Dell’s/JJ
+        order/NN
+        fulfillment/NN
+        systems/NNS
+        A/DT
+        disruptive/JJ
+        business/NN
+        model/NN))
+    that/IN
+    can/MD
+    generate/VB
+    (NP attractive/JJ profits/NNS)
+    (PP at/IN (NP the/DT discount/NN prices/NNS))
+    required/VBN
+    to/TO
+    win/VB
+    (NP business/NN)
+    (PP at/IN (NP the/DT low/JJ end/NN))
+    is/VBZ
+    (NP an/DT)
+    extraordinarily/RB
+    (NP valuable/JJ growth/NN asset/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user67': {'words': {'the': 3, 'win': 1, 'into': 1, 'valuable': 1, 'an': 1, 'growth': 1, 'fulfillment': 1, 'low': 1, 'information': 1, 'end': 1, 'to': 1, 'attractive': 1, 'is': 1, 'systems': 1, 'A': 1, 'asset': 1, 'business': 2, 'that': 1, 'Dell\x92s': 1, 'discount': 1, 'disruptive': 1, 'prices': 1, 'generate': 1, 'required': 1, 'extraordinarily': 1, 'can': 1, 'model': 1, 'order': 1, 'profits': 1, 'at': 2}, 'tags': {'MD': 1, 'VB': 2, 'RB': 1, 'NN': 10, 'VBN': 1, 'TO': 1, 'JJ': 5, 'IN': 4, 'VBZ': 1, 'DT': 5, 'NNS': 3}}}
+(S
+  When/WRB
+  its/PRP$
+  (COMP
+    (NP executives/NNS)
+    carry/VBP
+    (NP the/DT business/NN model/NN up-market/NN)
+    to/TO
+    make/VB
+    (NP higher-performance/JJ products/NNS)
+    that/WDT
+    sell/VBP
+    at/IN
+    (CP higher/JJR)
+    (NP price/NN points/NNS)
+    ,/,
+    much/RB
+    (PP of/IN (NP the/DT increment/NN))
+    (PP in/IN (NP pricing/NN falls/NNS))
+    to/TO
+    (NP the/DT bottom/NN line—and/NN)
+    it/PRP
+    continues/VBZ
+    to/TO
+    fall/VB
+    there/RB
+    as/IN
+    long/RB
+    (PP as/IN (NP the/DT disruptor/NN))
+    can/MD
+    keep/VB
+    moving/VBG
+    up/RP
+    ,/,
+    competing/VBG
+    (PP at/IN (NP the/DT margin/NN))
+    (PP against/IN (NP the/DT higher-cost/JJ disruptee/NN))
+    When/WRB
+    (NP a/DT company/NN)
+    tries/VBZ
+    to/TO
+    take/VB
+    (NP a/DT higher-cost/JJ business/NN model/NN down-market/NN)
+    to/TO
+    sell/VB
+    (NP products/NNS)
+    at/IN
+    (CP lower/JJR)
+    (NP price/NN points/NNS)
+    ,/,
+    almost/RB
+    (NP none/NN)
+    (PP of/IN (NP the/DT incremental/JJ revenue/NN))
+    will/MD
+    fall/VB
+    to/TO
+    its/PRP$
+    (NP bottom/NN line/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user68': {'words': {'revenue': 1, 'almost': 1, 'competing': 1, 'When': 2, 'it': 1, 'line\x97and': 1, 'as': 2, 'incremental': 1, 'at': 3, 'increment': 1, 'in': 1, 'carry': 1, 'its': 2, 'sell': 2, 'disruptor': 1, 'up-market': 1, 'make': 1, 'there': 1, ',': 3, 'long': 1, '.': 1, 'pricing': 1, 'to': 6, 'much': 1, 'take': 1, 'down-market': 1, 'company': 1, 'higher': 1, 'business': 2, 'that': 1, 'price': 2, 'continues': 1, 'none': 1, 'falls': 1, 'disruptee': 1, 'tries': 1, 'moving': 1, 'fall': 2, 'line': 1, 'the': 7, 'higher-performance': 1, 'a': 2, 'lower': 1, 'of': 2, 'higher-cost': 2, 'bottom': 2, 'up': 1, 'against': 1, 'keep': 1, 'will': 1, 'points': 2, 'products': 2, 'can': 1, 'model': 2, 'margin': 1, 'executives': 1}, 'tags': {'MD': 2, 'PRP$': 2, 'WRB': 2, 'RB': 4, 'NN': 20, 'VBG': 2, 'VB': 6, 'JJR': 2, 'TO': 6, 'VBP': 2, 'WDT': 1, 'PRP': 1, 'JJ': 4, 'IN': 9, 'RP': 1, 'VBZ': 2, 'DT': 9, '.': 1, 'NNS': 6, ',': 3}}}
+(S
+  It/PRP
+  gets/VBZ
+  absorbed/VBN
+  (PP into/IN (NP overheads/NNS This/DT))
+  is/VBZ
+  why/WRB
+  established/VBN
+  (COMP
+    (NP firms/NNS)
+    that/WDT
+    (NP hope/NN)
+    to/TO
+    capture/VB
+    (NP the/DT growth/NN)
+    created/VBD
+    (PP by/IN (NP disruption/NN))
+    need/VBP
+    to/TO
+    do/VB
+    so/RB
+    from/IN
+    (PP within/IN (NP an/DT autonomous/JJ business/NN))
+    (PP with/IN (NP a/DT cost/NN structure/NN))
+    that/WDT
+    offers/VBZ
+    as/RB
+    (NP much/JJ headroom/NN))
+  (PP as/IN (NP possible/JJ))
+  (PP
+    for/IN
+    (NP subsequent/NN profitable/JJ migration/NN up-market/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user69': {'words': {'the': 1, 'within': 1, 'an': 1, 'as': 1, 'growth': 1, 'need': 1, 'capture': 1, 'from': 1, 'much': 1, 'to': 2, 'offers': 1, 'firms': 1, 'hope': 1, 'do': 1, 'business': 1, 'that': 2, 'disruption': 1, 'with': 1, 'by': 1, 'structure': 1, 'a': 1, 'headroom': 1, 'created': 1, 'cost': 1, 'so': 1, 'autonomous': 1}, 'tags': {'VB': 2, 'JJ': 2, 'NN': 7, 'VBD': 1, 'TO': 2, 'VBP': 1, 'WDT': 2, 'RB': 2, 'IN': 4, 'VBZ': 1, 'DT': 3, 'NNS': 1}}}
+(S
+  We/PRP
+  say/VBP
+  (PP that/IN (NP new-market/JJ disruptions/NNS))
+  compete/VBP
+  (PP with/IN (NP “nonconsumption”/JJ))
+  (PP because/IN (NP new-market/JJ disruptive/JJ products/NNS))
+  are/VBP
+  so/RB
+  much/RB
+  (CP more/RBR)
+  (COMP
+    (NP affordable/JJ)
+    to/TO
+    own/VB
+    (NP and/CC simpler/NN)
+    to/TO
+    use/VB
+    that/IN
+    they/PRP
+    enable/VBP
+    (NP a/DT whole/JJ new/JJ population/NN)
+    (PP of/IN (NP people/NNS))
+    to/TO
+    begin/VB
+    (NP owning/NN and/CC)
+    using/VBG
+    (NP the/DT product/NN)
+    ,/,
+    (NP and/CC)
+    to/TO
+    do/VB
+    so/RB
+    (PP in/IN (NP a/DT))
+    (CP more/RBR)
+    (NP convenient/JJ setting/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user70': {'words': {'and': 3, 'because': 1, 'people': 1, 'product': 1, 'say': 1, '\x93nonconsumption\x94': 1, 'are': 1, 'in': 1, 'owning': 1, 'We': 1, 'disruptions': 1, ',': 1, '.': 1, 'to': 4, 'much': 1, 'new-market': 2, 'compete': 1, 'population': 1, 'setting': 1, 'more': 2, 'affordable': 1, 'do': 1, 'begin': 1, 'enable': 1, 'that': 2, 'use': 1, 'disruptive': 1, 'they': 1, 'new': 1, 'own': 1, 'using': 1, 'with': 1, 'simpler': 1, 'a': 2, 'products': 1, 'of': 1, 'so': 2, 'convenient': 1, 'the': 1, 'whole': 1}, 'tags': {'VB': 4, 'VBG': 1, 'JJ': 8, 'NN': 5, 'CC': 3, 'RBR': 2, ',': 1, 'TO': 4, 'VBP': 4, 'PRP': 2, 'RB': 3, 'IN': 6, 'DT': 3, '.': 1, 'NNS': 3}}}
+(S
+  (COMP
+    (NP The/DT personal/JJ computer/NN and/CC Sony’s/NNP)
+    first/RB
+    (NP battery-powered/JJ transistor/NN pocket/NN radio/NN)
+    were/VBD
+    (NP new-market/JJ disruptions/NNS)
+    ,/,
+    (PP in/IN (NP that/DT))
+    their/PRP$
+    (NP initial/JJ customers/NNS)
+    were/VBD
+    (NP new/JJ consumers—they/JJ had/NN)
+    not/RB
+    owned/VBN
+    (NP or/CC)
+    used/VBN
+    (NP the/DT prior/JJ generation/NN))
+  (PP of/IN (NP products/NNS and/CC services/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user71': {'words': {'and': 1, 'generation': 1, 'owned': 1, 'computer': 1, 'radio': 1, 'in': 1, 'Sony\x92s': 1, 'personal': 1, 'disruptions': 1, 'initial': 1, 'had': 1, ',': 1, 'their': 1, 'new-market': 1, 'new': 1, 'customers': 1, 'used': 1, 'that': 1, 'transistor': 1, 'pocket': 1, 'consumers\x97they': 1, 'not': 1, 'The': 1, 'battery-powered': 1, 'prior': 1, 'were': 2, 'the': 1, 'or': 1, 'first': 1}, 'tags': {'PRP$': 1, 'JJ': 7, 'NN': 6, 'VBD': 2, 'CC': 2, ',': 1, 'VBN': 2, 'RB': 2, 'IN': 1, 'DT': 3, 'NNS': 2, 'NNP': 1}}}
+(S
+  (COMP
+    (NP Canon’s/NNS)
+    desktop/VBP
+    (NP photocopiers/NNS)
+    were/VBD
+    also/RB
+    (NP a/DT new-market/JJ disruption/NN)
+    ,/,
+    (PP in/IN (NP that/DT))
+    they/PRP
+    enabled/VBD
+    (NP people/NNS)
+    to/TO
+    begin/VB
+    conveniently/RB
+    making/VBG
+    their/PRP$
+    (NP own/JJ photocopies/NNS)
+    right/RB
+    in/IN
+    their/PRP$
+    (NP offices/NNS)
+    ,/,
+    rather/RB
+    than/IN
+    taking/VBG
+    their/PRP$
+    (NP originals/NNS)
+    to/TO
+    (NP the/DT corporate/JJ high-speed/JJ photocopy/NN center/NN)
+    where/WRB
+    (NP a/DT technician/JJ had/NN)
+    to/TO
+    run/VB
+    (NP the/DT job/NN))
+  for/IN
+  them/PRP
+  ./.)
+User word and tag count dictionary 
+{'test_user72': {'words': {'the': 2, 'own': 1, 'people': 1, 'Canon\x92s': 1, 'right': 1, 'in': 2, 'their': 3, 'rather': 1, 'photocopy': 1, 'had': 1, 'photocopiers': 1, 'desktop': 1, 'to': 3, 'new-market': 1, 'high-speed': 1, 'begin': 1, 'run': 1, 'than': 1, 'that': 1, 'photocopies': 1, 'disruption': 1, 'job': 1, 'they': 1, 'technician': 1, ',': 2, 'center': 1, 'a': 2, 'also': 1, 'originals': 1, 'where': 1, 'taking': 1, 'enabled': 1, 'offices': 1, 'were': 1, 'making': 1, 'conveniently': 1, 'corporate': 1}, 'tags': {'VB': 2, 'VBG': 2, 'RB': 4, 'NN': 5, 'VBD': 2, ',': 2, 'TO': 3, 'VBP': 1, 'PRP': 1, 'JJ': 5, 'IN': 3, 'WRB': 1, 'DT': 5, 'PRP$': 3, 'NNS': 6}}}
+(S
+  When/WRB
+  (PERSON Canon/NNP)
+  made/VBD
+  photocopying/VBG
+  so/RB
+  (NP convenient/JJ)
+  ,/,
+  (NP people/NNS)
+  ended/VBD
+  up/RP
+  making/VBG
+  (NP a/DT lot/NN)
+  (CP more/RBR)
+  (NP copies/NNS)
+  ./.)
+User word and tag count dictionary 
+{'test_user73': {'words': {'a': 1, 'photocopying': 1, 'made': 1, 'people': 1, 'When': 1, 'Canon': 1, ',': 1, 'up': 1, 'ended': 1, 'so': 1, 'copies': 1, 'lot': 1, 'convenient': 1, 'making': 1, '.': 1, 'more': 1}, 'tags': {'VBG': 2, 'RB': 1, 'NN': 1, 'VBD': 2, 'RBR': 1, ',': 1, 'RP': 1, 'JJ': 1, 'WRB': 1, 'DT': 1, '.': 1, 'NNS': 2, 'NNP': 1}}}
+(S
+  (COMP
+    (NP New-market/NN disruptors’/NN challenge/NN)
+    is/VBZ
+    to/TO
+    create/VB
+    (NP a/DT new/JJ value/NN network/NN)
+    ,/,
+    where/WRB
+    it/PRP
+    is/VBZ
+    (NP non-consumption/JJ)
+    ,/,
+    not/RB
+    (NP the/DT incumbent/NN))
+  ,/,
+  that/IN
+  must/MD
+  be/VB
+  overcome/VBN
+  ./.)
+User word and tag count dictionary 
+{'test_user74': {'words': {'a': 1, 'non-consumption': 1, 'network': 1, 'not': 1, 'challenge': 1, ',': 2, 'value': 1, 'it': 1, 'to': 1, 'New-market': 1, 'incumbent': 1, 'disruptors\x92': 1, 'new': 1, 'the': 1, 'where': 1, 'create': 1, 'is': 2}, 'tags': {'VB': 1, 'WRB': 1, 'RB': 1, 'NN': 6, ',': 2, 'TO': 1, 'PRP': 1, 'JJ': 2, 'VBZ': 2, 'DT': 2}}}
+(S
+  (PP Although/IN (NP new-market/JJ disruptions/NNS))
+  initially/RB
+  (COMP
+    (NP compete/JJ)
+    (PP against/IN (NP non-consumption/NN))
+    in/IN
+    their/PRP$
+    (NP unique/JJ value/NN network/NN)
+    ,/,
+    as/IN
+    their/PRP$
+    (NP performance/NN improves/NNS)
+    they/PRP
+    ultimately/RB
+    become/VB
+    (NP good/JJ)
+    enough/RB
+    to/TO
+    pull/VB
+    (NP customers/NNS))
+  out/IN
+  (PP of/IN (NP the/DT original/JJ value/NN network/NN))
+  (PP into/IN (NP the/DT new/JJ))
+  one/CD
+  ,/,
+  starting/VBG
+  (PP with/IN (NP the/DT least-demanding/JJ tier/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user75': {'words': {'pull': 1, 'ultimately': 1, 'good': 1, 'network': 1, 'become': 1, 'enough': 1, 'customers': 1, ',': 1, 'against': 1, 'their': 2, 'as': 1, 'improves': 1, 'compete': 1, 'value': 1, 'they': 1, 'in': 1, 'non-consumption': 1, 'performance': 1, 'unique': 1, 'to': 1}, 'tags': {'PRP$': 2, 'RB': 2, 'NN': 4, ',': 1, 'VB': 2, 'TO': 1, 'PRP': 1, 'JJ': 3, 'IN': 3, 'NNS': 2}}}
+(S
+  (COMP
+    (NP
+      The/DT
+      disruptive/JJ
+      innovation/NN
+      doesn’t/NN
+      invade/NN
+      the/DT
+      mainstream/NN
+      market/NN)
+    ;/:
+    rather/RB
+    ,/,
+    it/PRP
+    pulls/VBZ
+    (NP customers/NNS)
+    out/IN
+    (PP of/IN (NP the/DT mainstream/NN market/NN))
+    (PP into/IN (NP the/DT new/JJ))
+    one/CD
+    (PP because/IN (NP these/DT customers/NNS))
+    find/VBP
+    it/PRP
+    (CP more/JJR)
+    (NP convenient/JJ)
+    to/TO
+    use/VB
+    (NP the/DT new/JJ product/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user76': {'words': {'because': 1, 'into': 1, 'it': 2, 'one': 1, 'product': 1, 'pulls': 1, 'find': 1, 'market': 2, 'out': 1, 'use': 1, 'rather': 1, 'convenient': 1, ',': 1, '.': 1, 'to': 1, 'innovation': 1, 'new': 2, ';': 1, 'invade': 1, 'more': 1, 'customers': 2, 'mainstream': 2, 'disruptive': 1, 'The': 1, 'these': 1, 'of': 1, 'doesn\x92t': 1, 'the': 4}, 'tags': {'VB': 1, 'RB': 1, 'NN': 8, ',': 1, '.': 1, 'CD': 1, 'TO': 1, 'VBP': 1, 'PRP': 2, 'JJ': 4, 'IN': 4, 'VBZ': 1, 'DT': 6, ':': 1, 'NNS': 2, 'JJR': 1}}}
+(S
+  (PP Because/IN (NP new-market/JJ disruptions/NNS))
+  compete/VBP
+  (PP against/IN (NP non-consumption/NN))
+  ,/,
+  (COMP
+    (NP the/DT incumbent/NN leaders/NNS)
+    feel/VBP
+    (NP no/DT pain/NN and/CC)
+    little/RB
+    threat/VB
+    (PP until/IN (NP the/DT disruption/NN))
+    is/VBZ
+    in/IN
+    its/PRP$
+    (NP final/JJ stages/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user77': {'words': {'and': 1, 'little': 1, 'pain': 1, 'leaders': 1, 'no': 1, 'feel': 1, 'is': 1, 'disruption': 1, 'its': 1, 'threat': 1, 'incumbent': 1, 'in': 1, 'the': 2, 'stages': 1, 'final': 1, 'until': 1}, 'tags': {'VB': 1, 'JJ': 1, 'NN': 3, 'CC': 1, 'PRP$': 1, 'VBP': 1, 'RB': 1, 'IN': 2, 'VBZ': 1, 'DT': 3, 'NNS': 2}}}
+(S
+  (PP In/IN (NP fact/NN))
+  ,/,
+  when/WRB
+  (COMP
+    (NP the/DT disruptors/NNS)
+    begin/VBP
+    pulling/VBG
+    (NP customers/NNS)
+    out/IN
+    (PP of/IN (NP the/DT low/JJ end/NN))
+    (PP of/IN (NP the/DT original/JJ value/NN network/NN))
+    ,/,
+    it/PRP
+    actually/RB
+    feels/VBZ
+    (NP good/JJ)
+    to/TO
+    (NP the/DT)
+    leading/VBG
+    (NP firms/NNS)
+    ,/,
+    because/IN
+    as/IN
+    they/PRP
+    move/VBP
+    (NP up-market/JJ)
+    in/IN
+    their/PRP$
+    (NP own/JJ world/NN)
+    ,/,
+    (PP for/IN (NP a/DT time/NN))
+    they/PRP
+    are/VBP
+    replacing/VBG
+    (NP the/DT low-margin/JJ revenues/NNS)
+    that/WDT
+    they/PRP
+    lose/VBP
+    to/TO
+    (NP the/DT disruptors/NNS)
+    (PP with/IN (NP higher-margin/JJ revenues/NNS))
+    We/PRP
+    call/VBP
+    (NP disruptions/NNS))
+  (PP that/IN (NP take/NN root/NN))
+  (PP at/IN (NP the/DT low/JJ end/NN))
+  (PP
+    of/IN
+    (NP
+      the/DT
+      original/JJ
+      or/CC
+      mainstream/NN
+      value/NN
+      network/NN
+      low-end/NN
+      disruptions/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user78': {'words': {'disruptors': 2, 'because': 1, 'move': 1, 'begin': 1, 'disruptions': 1, 'as': 1, 'own': 1, 'pulling': 1, 'are': 1, 'in': 1, 'their': 1, 'out': 1, 'higher-margin': 1, 'We': 1, 'end': 1, 'network': 1, 'for': 1, 'up-market': 1, 'leading': 1, ',': 3, 'actually': 1, 'to': 2, 'call': 1, 'low': 1, 'firms': 1, 'customers': 1, 'good': 1, 'that': 1, 'replacing': 1, 'lose': 1, 'it': 1, 'feels': 1, 'they': 3, 'world': 1, 'low-margin': 1, 'with': 1, 'a': 1, 'of': 2, 'value': 1, 'time': 1, 'the': 6, 'revenues': 2, 'original': 1}, 'tags': {'PRP$': 1, 'VBG': 3, 'RB': 1, 'NN': 5, ',': 3, 'TO': 2, 'VBP': 5, 'WDT': 1, 'PRP': 5, 'JJ': 7, 'IN': 8, 'VBZ': 1, 'DT': 7, 'NNS': 7}}}
+(S
+  (COMP
+    (NP Disruptions/NNS such/JJ)
+    (PP as/IN (NP steel/NN minimills/NNS))
+    ,/,
+    (NP discount/NN retailing/NN)
+    ,/,
+    (NP and/CC the/DT)
+    (ORGANIZATION Korean/NNP)
+    (NP automakers’/NNP entry/NN)
+    (PP into/IN (NP the/DT))
+    (LOCATION North/NNP American/NNP)
+    (NP market/NN)
+    have/VBP
+    been/VBN
+    (NP pure/NN)
+    low-end/-NONE-
+    (NP disruptions/NNS)
+    (PP in/IN (NP that/DT))
+    they/PRP
+    did/VBD
+    not/RB
+    create/VB
+    (NP new/JJ markets—they/JJ were/NN)
+    simply/RB
+    (NP low-cost/JJ business/NN models/NNS)
+    that/WDT
+    grew/VBD
+    (PP by/IN (NP picking/NN))
+    (PP off/IN (NP the/DT))
+    (CP least/JJS)
+    (NP attractive/JJ))
+  (PP of/IN (NP the/DT established/JJ firms’/NN customers/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user79': {'words': {'and': 1, 'low-end': 1, 'low-cost': 1, 'Disruptions': 1, 'into': 1, 'firms\x92': 1, 'as': 1, 'simply': 1, 'least': 1, 'have': 1, 'in': 1, 'Korean': 1, 'market': 1, 'established': 1, 'North': 1, 'disruptions': 1, 'create': 1, 'automakers\x92': 1, ',': 2, 'been': 1, '.': 1, 'retailing': 1, 'attractive': 1, 'pure': 1, 'minimills': 1, 'new': 1, 'customers': 1, 'business': 1, 'that': 2, 'models': 1, 'discount': 1, 'American': 1, 'markets\x97they': 1, 'they': 1, 'not': 1, 'such': 1, 'picking': 1, 'by': 1, 'steel': 1, 'grew': 1, 'off': 1, 'did': 1, 'of': 1, 'were': 1, 'entry': 1, 'the': 4}, 'tags': {'VB': 1, 'RB': 2, 'NN': 10, 'VBD': 2, 'CC': 1, 'JJS': 1, ',': 2, 'VBN': 1, '-NONE-': 1, 'VBP': 1, 'WDT': 1, 'PRP': 1, 'JJ': 6, 'IN': 6, 'DT': 5, '.': 1, 'NNS': 5, 'NNP': 4}}}
+(S
+  (PP In/IN (NP the/DT))
+  1960s/CD
+  ,/,
+  (COMP
+    (NP discount/NN retailers/NNS such/JJ)
+    (PP as/IN (NP Wal-Mart/JJ and/CC))
+    (PERSON Kmart/NNP)
+    attacked/VBD
+    (NP the/DT low/JJ end/NN)
+    (PP of/IN (NP the/DT department/NN stores’/NN))
+    market—nationally/RB
+    branded/VBD
+    hard/RB
+    (NP goods/NNS such/JJ)
+    (PP as/IN (NP paint/NN))
+    ,/,
+    (NP hardware/NN)
+    ,/,
+    kitchen/RB
+    utensils/VBZ
+    ,/,
+    (NP toys/NNS)
+    ,/,
+    (NP and/CC)
+    sporting/VBG
+    (NP goods—that/JJ)
+    were/VBD
+    so/RB
+    (NP familiar/JJ))
+  (PP in/IN (NP use/NN))
+  that/IN
+  they/PRP
+  could/MD
+  sell/VB
+  themselves/PRP
+  ./.)
+User word and tag count dictionary 
+{'test_user80': {'words': {'and': 2, 'Kmart': 1, 'sporting': 1, 'hard': 1, 'hardware': 1, 'utensils': 1, 'as': 2, 'stores\x92': 1, 'toys': 1, 'end': 1, ',': 4, 'paint': 1, 'low': 1, 'department': 1, 'discount': 1, 'branded': 1, 'attacked': 1, 'familiar': 1, 'Wal-Mart': 1, 'such': 2, 'kitchen': 1, 'goods\x97that': 1, 'goods': 1, 'market\x97nationally': 1, 'of': 1, 'so': 1, 'retailers': 1, 'were': 1, 'the': 2}, 'tags': {'VBG': 1, 'RB': 4, 'NN': 6, 'VBD': 3, 'CC': 2, ',': 4, 'JJ': 6, 'IN': 3, 'VBZ': 1, 'DT': 2, 'NNS': 3, 'NNP': 1}}}
+(S
+  (COMP
+    (NP Customers/NNS)
+    (PP in/IN (NP this/DT tier/NN))
+    (PP of/IN (NP the/DT market/NN))
+    were/VBD
+    overserved/VBN
+    (PP by/IN (NP department/NN stores/NNS))
+    ,/,
+    (PP in/IN (NP that/DT))
+    they/PRP
+    did/VBD
+    not/RB
+    need/VBN
+    (NP well-trained/JJ floor/NN salespeople/NN))
+  to/TO
+  help/VB
+  them/PRP
+  get/VB
+  what/WP
+  they/PRP
+  needed/VBD
+  ./.)
+User word and tag count dictionary 
+{'test_user81': {'words': {'Customers': 1, 'stores': 1, 'salespeople': 1, 'that': 1, 'this': 1, 'of': 1, 'not': 1, 'were': 1, ',': 1, 'well-trained': 1, 'department': 1, 'need': 1, 'overserved': 1, 'floor': 1, 'they': 1, 'in': 2, 'tier': 1, 'did': 1, 'the': 1, 'by': 1, 'market': 1}, 'tags': {'JJ': 1, 'NN': 5, 'VBD': 2, 'VBN': 2, ',': 1, 'PRP': 1, 'RB': 1, 'IN': 4, 'DT': 3, 'NNS': 2}}}
+(S
+  (COMP
+    (NP The/DT discounters’/NN business/NN model/NN)
+    enabled/VBD
+    them/PRP
+    to/TO
+    make/VB
+    (NP money/NN)
+    (PP at/IN (NP gross/JJ margins/NNS))
+    of/IN
+    about/RB
+    23/CD
+    (NP percent/NN))
+  ,/,
+  (PP on/IN (NP average/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user82': {'words': {'gross': 1, 'them': 1, 'business': 1, '23': 1, 'money': 1, 'make': 1, 'percent': 1, 'enabled': 1, 'margins': 1, 'discounters\x92': 1, 'to': 1, 'at': 1, 'of': 1, 'about': 1, 'The': 1, 'model': 1}, 'tags': {'VB': 1, 'RB': 1, 'NN': 5, 'VBD': 1, 'CD': 1, 'TO': 1, 'PRP': 1, 'JJ': 1, 'IN': 2, 'DT': 1, 'NNS': 1}}}
+(S
+  Their/PRP$
+  (COMP
+    (NP stocking/NN policies/NNS and/CC operating/NN processes/NNS)
+    enabled/VBD
+    them/PRP
+    to/TO
+    turn/VB
+    (NP inventories/NNS)
+    (CP more/RBR)
+    than/IN
+    five/CD
+    (NP times/NNS)
+    annually/RB
+    ,/,
+    so/RB
+    that/IN
+    they/PRP
+    also/RB
+    earned/VBD
+    about/IN
+    120/CD
+    (NP percent/NN annual/JJ))
+  (ORGANIZATION ROCII/NNP)
+  ./.)
+User word and tag count dictionary 
+{'test_user83': {'words': {'and': 1, 'annual': 1, 'Their': 1, 'inventories': 1, 'ROCII': 1, 'to': 1, 'percent': 1, ',': 1, '.': 1, 'also': 1, 'more': 1, 'them': 1, 'that': 1, 'about': 1, '120': 1, 'operating': 1, 'they': 1, 'than': 1, 'stocking': 1, 'processes': 1, 'earned': 1, 'enabled': 1, 'times': 1, 'annually': 1, 'turn': 1, 'so': 1, 'policies': 1, 'five': 1}, 'tags': {'PRP$': 1, 'JJ': 1, 'NN': 3, 'VBD': 2, 'CC': 1, 'VB': 1, '.': 1, 'RBR': 1, 'TO': 1, 'PRP': 2, 'RB': 3, 'IN': 3, 'CD': 2, 'NNS': 4, ',': 1, 'NNP': 1}}}
+(S
+  (COMP
+    (NP The/DT discounters/NNS)
+    did/VBD
+    not/RB
+    accept/VB
+    (CP lower/JJR)
+    (NP levels/NNS)
+    (PP of/IN (NP profitability—their/JJ business/NN model/NN))
+    simply/RB
+    earned/VBD
+    (NP acceptable/JJ profit/NN)
+    (PP through/IN (NP a/DT different/JJ formula/NN))
+    (/:
+    (NP footnote/NN))
+  44/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user84': {'words': {'footnote': 1, 'accept': 1, 'discounters': 1, 'simply': 1, 'different': 1, 'earned': 1, 'profit': 1, '(': 1, '44': 1, '.': 1, 'formula': 1, 'business': 1, 'acceptable': 1, 'levels': 1, 'not': 1, 'The': 1, 'a': 1, 'lower': 1, 'did': 1, 'of': 1, ')': 1, 'through': 1, 'model': 1, 'profitability\x97their': 1}, 'tags': {'VB': 1, 'JJ': 3, 'NN': 5, 'VBD': 2, 'JJR': 1, 'CD': 2, '.': 1, 'RB': 2, 'IN': 2, 'DT': 2, ':': 1, 'NNS': 2}}}
+(S
+  One/CD
+  (COMP
+    (NP option/NN)
+    (PP for/IN (NP department/NN store/NN executives/NNS))
+    was/VBD
+    to/TO
+    allocate/VB
+    (CP more/JJR)
+    (NP space/NN)
+    to/TO
+    even/RB
+    (NP
+      higher-margin/JJ
+      cosmetics/NNS
+      and/CC
+      high-fashion/NN
+      apparel/NN)
+    ,/,
+    where/WRB
+    (NP gross/JJ margins/NNS)
+    often/RB
+    exceeded/VBD
+    50/CD
+    (NP percent/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user85': {'words': {'and': 1, 'often': 1, 'exceeded': 1, 'margins': 1, 'even': 1, 'higher-margin': 1, 'for': 1, 'space': 1, 'percent': 1, ',': 1, '.': 1, 'to': 2, 'cosmetics': 1, 'department': 1, 'was': 1, 'store': 1, 'allocate': 1, 'option': 1, 'gross': 1, 'executives': 1, '50': 1, 'One': 1, 'apparel': 1, 'more': 1, 'where': 1, 'high-fashion': 1}, 'tags': {'VB': 1, 'WRB': 1, 'JJ': 2, 'NN': 7, 'VBD': 2, 'CC': 1, 'JJR': 1, 'CD': 2, 'TO': 2, 'RB': 2, 'IN': 1, '.': 1, 'NNS': 3, ',': 1}}}
+(S
+  Because/IN
+  their/PRP$
+  (COMP
+    (NP business/NN model/NN)
+    turned/VBD
+    (NP inventories/NNS)
+    three/CD
+    (NP times/NNS)
+    annually/RB
+    ,/,
+    (NP this/DT option/NN)
+    promised/VBD
+    150/CD
+    (NP percent/NN))
+  (ORGANIZATION ROCII/NNP)
+  ./.)
+User word and tag count dictionary 
+{'test_user86': {'words': {'150': 1, 'option': 1, 'business': 1, 'this': 1, 'percent': 1, 'turned': 1, 'three': 1, 'times': 1, 'annually': 1, 'promised': 1, 'model': 1, 'inventories': 1, ',': 1}, 'tags': {'NN': 4, 'VBD': 2, ',': 1, 'CD': 2, 'RB': 1, 'DT': 1, 'NNS': 2}}}
+(S
+  It/PRP
+  initially/RB
+  targeted/VBD
+  (COMP
+    (NP customers/NNS)
+    who/WP
+    weren’t/-NONE-
+    (NP flying—people/JJ)
+    who/WP
+    previously/RB
+    had/VBD
+    used/VBN
+    (NP cars/NNS and/CC buses/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user87': {'words': {'and': 1, 'customers': 1, 'used': 1, 'buses': 1, 'previously': 1, 'cars': 1, 'who': 2, 'had': 1, 'weren\x92t': 1, 'flying\x97people': 1}, 'tags': {'JJ': 1, 'VBD': 1, 'CC': 1, 'VBN': 1, '-NONE-': 1, 'RB': 1, 'WP': 2, 'NNS': 3}}}
+(S
+  It/PRP
+  stole/VBD
+  (COMP
+    (NP some/DT customers/NNS)
+    (PP from/IN (NP full-service/JJ brokers/NNS))
+    with/IN
+    its/PRP$
+    discounted/VBN
+    (NP trading/NN fees/NNS)
+    ,/,
+    (NP but/CC)
+    it/PRP
+    also/RB
+    created/VBD
+    (NP new/JJ markets/NNS)
+    by/IN
+    enabling/VBG
+    (NP people/NNS)
+    who/WP
+    historically/RB
+    were/VBD
+    not/RB
+    (NP equity/NN investors—such/JJ)
+    (PP as/IN (NP students—to/JJ begin/NN))
+    owning/VBG
+    (NP and/CC trading/NN stocks/NNS))
+  (/:
+  footnote/VB
+  46/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user88': {'words': {'and': 1, 'people': 1, 'some': 1, 'it': 1, 'as': 1, 'trading': 2, 'fees': 1, 'its': 1, 'owning': 1, 'begin': 1, 'from': 1, ',': 1, 'also': 1, 'students\x97to': 1, 'equity': 1, 'new': 1, 'markets': 1, 'historically': 1, 'customers': 1, 'who': 1, 'but': 1, 'brokers': 1, 'not': 1, 'stocks': 1, 'with': 1, 'by': 1, 'discounted': 1, 'created': 1, 'investors\x97such': 1, 'enabling': 1, 'full-service': 1, 'were': 1}, 'tags': {'PRP$': 1, 'VBG': 2, 'RB': 3, 'NN': 4, 'VBD': 2, 'CC': 2, 'WP': 1, 'VBN': 1, ',': 1, 'PRP': 1, 'JJ': 4, 'IN': 4, 'DT': 1, 'NNS': 6}}}
+(S
+  (NP Figure/NN)
+  17.4/CD
+  (NP shows/NNS)
+  where/WRB
+  (NP some/DT)
+  (PP of/IN (NP history’s/NNP))
+  (CP more/RBR)
+  (NP successful/JJ disruptors/NNS)
+  were/VBD
+  positioned/VBN
+  (PP along/IN (NP the/DT continuum/NN))
+  (PP of/IN (NP new-market/NN))
+  to/TO
+  (NP low-end/JJ disruption/NN)
+  at/IN
+  their/PRP$
+  (NP inception/NN)
+  ./.)
+User word and tag count dictionary 
+{'test_user89': {'words': {'disruptors': 1, 'low-end': 1, 'positioned': 1, 'history\x92s': 1, 'at': 1, 'to': 1, '.': 1, 'their': 1, 'new-market': 1, '17.4': 1, 'more': 1, 'successful': 1, 'some': 1, 'disruption': 1, 'inception': 1, 'along': 1, 'continuum': 1, 'Figure': 1, 'of': 2, 'were': 1, 'the': 1, 'shows': 1, 'where': 1}, 'tags': {'PRP$': 1, 'WRB': 1, 'NN': 5, 'VBD': 1, 'RBR': 1, 'CD': 1, 'TO': 1, 'VBN': 1, 'JJ': 2, 'IN': 4, 'DT': 2, '.': 1, 'NNS': 2, 'NNP': 1}}}
+(S
+  (COMP
+    (NP This/DT)
+    is/VBZ
+    not/RB
+    (NP a/DT complete/JJ census/NN)
+    (PP of/IN (NP disruptive/JJ companies/NNS))
+    ,/,
+    (PP of/IN (NP course/NN))
+    ,/,
+    (NP and/CC)
+    their/PRP$
+    (NP position/NN)
+    (PP on/IN (NP the/DT chart/NN))
+    is/VBZ
+    only/RB
+    (NP approximate/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user90': {'words': {'a': 1, 'and': 1, 'census': 1, 'complete': 1, 'their': 1, 'This': 1, 'of': 2, 'is': 2, 'approximate': 1, 'companies': 1, ',': 2, 'chart': 1, 'course': 1, 'only': 1, 'disruptive': 1, 'not': 1, 'position': 1, 'the': 1, 'on': 1}, 'tags': {'PRP$': 1, 'RB': 2, 'NN': 4, 'CC': 1, ',': 2, 'JJ': 3, 'IN': 3, 'VBZ': 2, 'DT': 3, 'NNS': 1}}}
+(S
+  (COMP
+    (NP Many/JJ)
+    of/IN
+    its/PRP$
+    (CP most/RBS)
+    (NP influential/JJ companies/NNS)
+    grew/VBD
+    dramatically/RB
+    (PP by/IN (NP disrupting/NN others/NNS))
+    ;/:
+    (NP but/CC the/DT structure/NN)
+    (PP
+      of/IN
+      (NP
+        Japan’s/JJ
+        economic/JJ
+        system/NN
+        inhibits/NNS
+        the/DT
+        creation/NN))
+    (PP of/IN (NP new/JJ waves/NNS))
+    (PP of/IN (NP disruptive/JJ growth/NN))
+    that/WDT
+    might/MD
+    threaten/VB
+    (NP these/DT same/JJ companies/NNS today/NN)
+    (/:
+    (NP footnote/NN))
+  47/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user91': {'words': {'footnote': 1, 'creation': 1, 'economic': 1, 'inhibits': 1, 'its': 1, 'disrupting': 1, ')': 1, '(': 1, 'system': 1, 'same': 1, '.': 1, 'new': 1, ';': 1, 'might': 1, 'dramatically': 1, 'today': 1, 'Japan\x92s': 1, 'that': 1, 'Many': 1, 'but': 1, 'most': 1, 'disruptive': 1, 'waves': 1, 'by': 1, 'structure': 1, 'threaten': 1, 'grew': 1, 'influential': 1, 'of': 4, 'companies': 2, 'these': 1, 'growth': 1, '47': 1, 'the': 2, 'others': 1}, 'tags': {'MD': 1, 'PRP$': 1, 'RB': 1, 'NN': 7, 'VBD': 1, 'CC': 1, 'RBS': 1, 'VB': 1, 'CD': 2, '.': 1, 'WDT': 1, 'JJ': 7, 'IN': 5, 'DT': 3, ':': 2, 'NNS': 5}}}
+(S
+  (COMP
+    (NP The/DT chart/NN)
+    also/RB
+    shows/VBZ
+    (PP that/IN (NP disruption/NN))
+    is/VBZ
+    (NP an/DT ongoing/JJ force/NN)
+    that/WDT
+    is/VBZ
+    always/RB
+    (PP at/IN (NP work—meaning/JJ))
+    (PP that/IN (NP disruptors/NNS))
+    in/IN
+    one/CD
+    (NP generation/NN become/NN disruptees/NNS later/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user92': {'words': {'one': 1, 'disruptors': 1, 'force': 1, 'that': 3, 'generation': 1, 'always': 1, 'is': 2, 'later': 1, 'chart': 1, 'disruption': 1, 'an': 1, 'also': 1, 'disruptees': 1, 'ongoing': 1, 'at': 1, 'in': 1, 'become': 1, 'The': 1, 'work\x97meaning': 1, 'shows': 1}, 'tags': {'RB': 2, 'NN': 5, 'CD': 1, 'WDT': 1, 'JJ': 3, 'IN': 4, 'VBZ': 3, 'DT': 2, 'NNS': 2}}}
+(S
+  (GPE Toyota/NNP)
+  ,/,
+  (GPE Nissan/NNP)
+  ,/,
+  (COMP
+    (NP and/CC)
+    (PERSON Honda/NNP)
+    then/RB
+    created/VBD
+    (NP the/DT next/JJ wave/NN)
+    ,/,
+    (NP and/CC)
+    (GPE Korean/NNP)
+    (NP automakers/NNS)
+    (PERSON Hyundai/NNP)
+    (NP and/CC Kia/NNP)
+    have/VBP
+    now/RB
+    begun/VBN
+    (NP the/DT third/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user93': {'words': {'and': 3, 'then': 1, 'now': 1, 'begun': 1, 'third': 1, 'created': 1, 'Hyundai': 1, 'Honda': 1, 'automakers': 1, ',': 1, 'next': 1, 'have': 1, 'the': 2, 'wave': 1, 'Korean': 1, 'Kia': 1}, 'tags': {'RB': 2, 'NN': 1, 'VBD': 1, 'CC': 3, ',': 1, 'VBN': 1, 'VBP': 1, 'JJ': 2, 'DT': 2, 'NNS': 1, 'NNP': 4}}}
+(S
+  (PP AT/IN (NP &/CC T’s/NNP wireline/NN))
+  long/RB
+  (COMP
+    (NP distance/NN business/NN)
+    ,/,
+    which/WDT
+    disrupted/VBN
+    (LOCATION Western/NNP Union/NNP)
+    ,/,
+    is/VBZ
+    being/VBG
+    disrupted/VBN
+    (PP by/IN (NP wireless/NN))
+    long/RB
+    (NP distance/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user94': {'words': {'distance': 2, 'being': 1, 'business': 1, 'Union': 1, 'is': 1, ',': 2, 'long': 1, 'wireless': 1, 'disrupted': 2, 'Western': 1, 'which': 1, 'by': 1}, 'tags': {'VBG': 1, 'NN': 4, ',': 2, 'VBN': 2, 'WDT': 1, 'RB': 1, 'IN': 1, 'VBZ': 1, 'NNP': 2}}}
+(S
+  (COMP
+    (NP Plastics/NNS makers/NNS such/JJ)
+    as/IN
+    (PERSON Dow/NNP)
+    ,/,
+    (ORGANIZATION DuPont/NNP)
+    ,/,
+    (NP and/CC)
+    (ORGANIZATION General/NNP Electric/NNP)
+    continue/VBP
+    to/TO
+    disrupt/VB
+    (NP steel/NN)
+    ,/,
+    even/RB
+    as/IN
+    their/PRP$
+    (NP low/JJ end/NN)
+    is/VBZ
+    being/VBG
+    eaten/VBN
+    away/RB
+    (PP by/IN (NP suppliers/NNS))
+    of/IN
+    blended/VBN
+    (NP polyolefin/NN plastics/NNS such/JJ)
+    as/IN
+    (PERSON Himont/NNP Executives/NNP)
+    must/MD
+    answer/VB
+    three/CD
+    (NP sets/NNS)
+    (PP of/IN (NP questions/NNS))
+    to/TO
+    determine/VB
+    (PP whether/IN (NP an/DT idea/NN))
+    has/VBZ
+    (NP disruptive/JJ potential/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user95': {'words': {'and': 1, 'plastics': 1, 'determine': 1, 'being': 1, 'blended': 1, 'is': 1, 'idea': 1, 'three': 1, 'as': 3, 'questions': 1, 'makers': 1, 'even': 1, 'has': 1, 'end': 1, 'Electric': 1, 'to': 2, 'away': 1, ',': 3, 'by': 1, 'their': 1, 'potential': 1, 'low': 1, 'answer': 1, 'must': 1, 'disrupt': 1, 'Himont': 1, 'polyolefin': 1, 'disruptive': 1, 'eaten': 1, 'such': 2, 'an': 1, 'Dow': 1, 'Executives': 1, 'steel': 1, 'Plastics': 1, 'whether': 1, 'of': 2, 'suppliers': 1, 'DuPont': 1, 'General': 1, 'continue': 1, 'sets': 1}, 'tags': {'MD': 1, 'VB': 3, 'VBG': 1, 'RB': 2, 'NN': 4, 'CC': 1, ',': 3, 'VBN': 2, 'TO': 2, 'CD': 1, 'VBP': 1, 'JJ': 5, 'IN': 7, 'VBZ': 2, 'DT': 1, 'PRP$': 1, 'NNS': 6, 'NNP': 6}}}
+(S
+  (PP For/IN (NP this/DT))
+  to/TO
+  happen/VB
+  ,/,
+  at/IN
+  (CP least/JJS)
+  one/CD
+  (COMP
+    (NP and/CC)
+    generally/RB
+    (NP both/DT)
+    of/IN
+    two/CD
+    (NP conditions/NNS)
+    must/MD
+    be/VB
+    satisfied/VBN
+    :/:
+    (NP Is/NNP)
+    there/RB
+    (NP a/DT large/JJ population/NN)
+    (PP of/IN (NP people/NNS))
+    who/WP
+    historically/RB
+    have/VBP
+    not/RB
+    had/VBN
+    (NP the/DT money/NN)
+    ,/,
+    (NP equipment/NN)
+    ,/,
+    (NP or/CC)
+    skill/RB
+    to/TO
+    do/VB
+    (NP this/DT thing/NN)
+    for/IN
+    themselves/PRP
+    ,/,
+    (NP and/CC)
+    (PP as/IN (NP a/DT result/NN))
+    have/VBP
+    gone/VBN
+    without/IN
+    it/PRP
+    altogether/RB
+    (NP or/CC)
+    have/VB
+    needed/VBN
+    to/TO
+    pay/VB
+    (NP someone/NN)
+    with/IN
+    (CP more/JJR)
+    (NP expertise/NN))
+  to/TO
+  do/VB
+  it/PRP
+  for/IN
+  them/PRP
+  ?/.)
+User word and tag count dictionary 
+{'test_user96': {'words': {'and': 2, 'gone': 1, 'population': 1, 'For': 1, 'people': 1, 'had': 1, 'satisfied': 1, 'one': 1, 'as': 1, 'expertise': 1, 'at': 1, 'have': 3, 'happen': 1, 'skill': 1, 'for': 2, 'equipment': 1, 'pay': 1, 'there': 1, 'generally': 1, ',': 4, 'least': 1, 'to': 4, 'money': 1, 'themselves': 1, ':': 1, 'conditions': 1, 'historically': 1, '?': 1, 'more': 1, 'be': 1, 'them': 1, 'someone': 1, 'do': 2, 'who': 1, 'it': 2, 'two': 1, 'altogether': 1, 'not': 1, 'with': 1, 'needed': 1, 'must': 1, 'a': 2, 'both': 1, 'this': 2, 'of': 2, 'Is': 1, 'large': 1, 'thing': 1, 'without': 1, 'the': 1, 'or': 2, 'result': 1}, 'tags': {'MD': 1, 'VB': 6, 'JJ': 1, 'NN': 7, 'CC': 4, 'WP': 1, 'JJS': 1, ',': 4, '.': 1, 'CD': 2, 'TO': 4, 'VBP': 2, 'VBN': 4, 'PRP': 4, 'RB': 6, 'IN': 9, 'DT': 6, ':': 1, 'NNS': 2, 'JJR': 1, 'NNP': 1}}}
+(S
+  (PP If/IN (NP the/DT technology/NN))
+  can/MD
+  be/VB
+  developed/VBN
+  so/RB
+  (PP that/IN (NP a/DT large/JJ population/NN))
+  of/IN
+  (CP less/JJR)
+  skilled/VBN
+  (COMP
+    (NP or/CC)
+    (CP less/JJR)
+    (NP affluent/NN people/NNS)
+    can/MD
+    begin/VB
+    owning/VBG
+    (NP and/CC)
+    using/VBG
+    ,/,
+    (PP in/IN (NP a/DT))
+    (CP more/RBR)
+    (NP convenient/JJ context/NN)
+    ,/,
+    (NP something/NN)
+    that/IN
+    historically/RB
+    was/VBD
+    (NP available/JJ)
+    only/RB
+    to/TO
+    (CP more/JJR)
+    (NP skilled/JJ or/CC)
+    (CP more/JJR)
+    (NP affluent/JJ people/NNS)
+    (PP in/IN (NP a/DT centralized/JJ))
+    ,/,
+    (NP inconvenient/NN location/NN)
+    ,/,
+    then/RB
+    there/EX
+    is/VBZ
+    (NP potential/JJ))
+  (PP for/IN (NP shaping/NN the/DT idea/NN))
+  (PP into/IN (NP a/DT new-market/JJ disruption/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user97': {'words': {'and': 1, 'there': 1, 'less': 2, 'developed': 1, 'is': 1, 'skilled': 2, 'idea': 1, 'centralized': 1, 'something': 1, 'in': 2, 'technology': 1, 'owning': 1, 'for': 1, 'convenient': 1, 'people': 2, ',': 4, '.': 1, 'to': 1, 'only': 1, 'potential': 1, 'location': 1, 'then': 1, 'inconvenient': 1, 'was': 1, 'historically': 1, 'more': 3, 'available': 1, 'be': 1, 'begin': 1, 'that': 2, 'disruption': 1, 'new-market': 1, 'using': 1, 'shaping': 1, 'population': 1, 'a': 4, 'of': 1, 'into': 1, 'affluent': 2, 'large': 1, 'so': 1, 'can': 2, 'context': 1, 'the': 2, 'or': 2, 'If': 1}, 'tags': {'MD': 2, 'VB': 2, 'VBG': 2, 'JJ': 8, 'NN': 10, 'VBD': 1, 'CC': 3, 'RBR': 1, 'VBN': 2, 'JJR': 4, 'TO': 1, 'EX': 1, 'RB': 4, 'IN': 8, 'VBZ': 1, 'DT': 6, '.': 1, 'NNS': 2, ',': 4}}}
+(S
+  (COMP
+    (NP This/DT)
+    is/VBZ
+    (NP possible/JJ)
+    (PP if/IN (NP these/DT))
+    two/CD
+    (NP conditions/NNS)
+    exist/VBP
+    :/:
+    (NP Are/NNP)
+    there/RB
+    customers/VBZ
+    (PP at/IN (NP the/DT low/JJ end/NN))
+    (PP of/IN (NP the/DT market/NN))
+    who/WP
+    would/MD
+    be/VB
+    (NP happy/JJ)
+    to/TO
+    purchase/VB
+    (NP a/DT product/NN)
+    with/IN
+    (CP less/JJR)
+    (/:
+    (NP but/CC good/JJ)
+    enough/RB
+    )/:
+    (NP performance/NN)
+    if/IN
+    they/PRP
+    could/MD
+    get/VB
+    it/PRP
+    (PP at/IN (NP a/DT))
+    (CP lower/JJR)
+    (NP price/NN))
+  ?/.)
+User word and tag count dictionary 
+{'test_user98': {'words': {'less': 1, 'is': 1, 'product': 1, 'exist': 1, 'at': 2, 'market': 1, 'if': 2, 'end': 1, 'would': 1, ')': 1, '(': 1, 'there': 1, 'two': 1, 'to': 1, 'enough': 1, 'low': 1, 'performance': 1, ':': 1, 'conditions': 1, '?': 1, 'happy': 1, 'be': 1, 'customers': 1, 'good': 1, 'get': 1, 'This': 1, 'price': 1, 'who': 1, 'possible': 1, 'but': 1, 'it': 1, 'they': 1, 'with': 1, 'a': 2, 'purchase': 1, 'lower': 1, 'these': 1, 'of': 1, 'could': 1, 'Are': 1, 'the': 2}, 'tags': {'MD': 2, 'VB': 3, 'RB': 2, 'NN': 5, 'CC': 1, 'WP': 1, 'JJR': 2, '.': 1, 'CD': 1, 'TO': 1, 'VBP': 1, 'PRP': 2, 'JJ': 4, 'IN': 6, 'VBZ': 2, 'DT': 6, ':': 3, 'NNS': 1, 'NNP': 1}}}
+(S
+  (PP For/IN (NP this/DT))
+  to/TO
+  happen/VB
+  ,/,
+  at/IN
+  (CP least/JJS)
+  one/CD
+  (COMP
+    (NP and/CC)
+    generally/RB
+    (NP both/DT)
+    of/IN
+    two/CD
+    (NP conditions/NNS)
+    must/MD
+    be/VB
+    satisfied/VBN
+    :/:
+    (NP Is/NNP)
+    there/RB
+    (NP a/DT large/JJ population/NN)
+    (PP of/IN (NP people/NNS))
+    who/WP
+    historically/RB
+    have/VBP
+    not/RB
+    had/VBN
+    (NP the/DT money/NN)
+    ,/,
+    (NP equipment/NN)
+    ,/,
+    (NP or/CC)
+    skill/RB
+    to/TO
+    do/VB
+    (NP this/DT thing/NN)
+    for/IN
+    themselves/PRP
+    ,/,
+    (NP and/CC)
+    (PP as/IN (NP a/DT result/NN))
+    have/VBP
+    gone/VBN
+    without/IN
+    it/PRP
+    altogether/RB
+    (NP or/CC)
+    have/VB
+    needed/VBN
+    to/TO
+    pay/VB
+    (NP someone/NN)
+    with/IN
+    (CP more/JJR)
+    (NP expertise/NN))
+  to/TO
+  do/VB
+  it/PRP
+  for/IN
+  them/PRP
+  ?/.)
+User word and tag count dictionary 
+{'test_user99': {'words': {'and': 2, 'gone': 1, 'population': 1, 'For': 1, 'people': 1, 'had': 1, 'satisfied': 1, 'one': 1, 'as': 1, 'expertise': 1, 'at': 1, 'have': 3, 'happen': 1, 'skill': 1, 'for': 2, 'equipment': 1, 'pay': 1, 'there': 1, 'generally': 1, ',': 4, 'least': 1, 'to': 4, 'money': 1, 'themselves': 1, ':': 1, 'conditions': 1, 'historically': 1, '?': 1, 'more': 1, 'be': 1, 'them': 1, 'someone': 1, 'do': 2, 'who': 1, 'it': 2, 'two': 1, 'altogether': 1, 'not': 1, 'with': 1, 'needed': 1, 'must': 1, 'a': 2, 'both': 1, 'this': 2, 'of': 2, 'Is': 1, 'large': 1, 'thing': 1, 'without': 1, 'the': 1, 'or': 2, 'result': 1}, 'tags': {'MD': 1, 'VB': 6, 'JJ': 1, 'NN': 7, 'CC': 4, 'WP': 1, 'JJS': 1, ',': 4, '.': 1, 'CD': 2, 'TO': 4, 'VBP': 2, 'VBN': 4, 'PRP': 4, 'RB': 6, 'IN': 9, 'DT': 6, ':': 1, 'NNS': 2, 'JJR': 1, 'NNP': 1}}}
+(S
+  (PP If/IN (NP the/DT technology/NN))
+  can/MD
+  be/VB
+  developed/VBN
+  so/RB
+  (PP that/IN (NP a/DT large/JJ population/NN))
+  of/IN
+  (CP less/JJR)
+  skilled/VBN
+  (COMP
+    (NP or/CC)
+    (CP less/JJR)
+    (NP affluent/NN people/NNS)
+    can/MD
+    begin/VB
+    owning/VBG
+    (NP and/CC)
+    using/VBG
+    ,/,
+    (PP in/IN (NP a/DT))
+    (CP more/RBR)
+    (NP convenient/JJ context/NN)
+    ,/,
+    (NP something/NN)
+    that/IN
+    historically/RB
+    was/VBD
+    (NP available/JJ)
+    only/RB
+    to/TO
+    (CP more/JJR)
+    (NP skilled/JJ or/CC)
+    (CP more/JJR)
+    (NP affluent/JJ people/NNS)
+    (PP in/IN (NP a/DT centralized/JJ))
+    ,/,
+    (NP inconvenient/NN location/NN)
+    ,/,
+    then/RB
+    there/EX
+    is/VBZ
+    (NP potential/JJ))
+  (PP for/IN (NP shaping/NN the/DT idea/NN))
+  (PP into/IN (NP a/DT new-market/JJ disruption/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user100': {'words': {'and': 1, 'there': 1, 'less': 2, 'developed': 1, 'is': 1, 'skilled': 2, 'idea': 1, 'centralized': 1, 'something': 1, 'in': 2, 'technology': 1, 'owning': 1, 'for': 1, 'convenient': 1, 'people': 2, ',': 4, '.': 1, 'to': 1, 'only': 1, 'potential': 1, 'location': 1, 'then': 1, 'inconvenient': 1, 'was': 1, 'historically': 1, 'more': 3, 'available': 1, 'be': 1, 'begin': 1, 'that': 2, 'disruption': 1, 'new-market': 1, 'using': 1, 'shaping': 1, 'population': 1, 'a': 4, 'of': 1, 'into': 1, 'affluent': 2, 'large': 1, 'so': 1, 'can': 2, 'context': 1, 'the': 2, 'or': 2, 'If': 1}, 'tags': {'MD': 2, 'VB': 2, 'VBG': 2, 'JJ': 8, 'NN': 10, 'VBD': 1, 'CC': 3, 'RBR': 1, 'VBN': 2, 'JJR': 4, 'TO': 1, 'EX': 1, 'RB': 4, 'IN': 8, 'VBZ': 1, 'DT': 6, '.': 1, 'NNS': 2, ',': 4}}}
+(S
+  (COMP
+    (NP This/DT)
+    is/VBZ
+    (NP possible/JJ)
+    (PP if/IN (NP these/DT))
+    two/CD
+    (NP conditions/NNS)
+    exist/VBP
+    :/:
+    (NP Are/NNP)
+    there/RB
+    customers/VBZ
+    (PP at/IN (NP the/DT low/JJ end/NN))
+    (PP of/IN (NP the/DT market/NN))
+    who/WP
+    would/MD
+    be/VB
+    (NP happy/JJ)
+    to/TO
+    purchase/VB
+    (NP a/DT product/NN)
+    with/IN
+    (CP less/JJR)
+    (/:
+    (NP but/CC good/JJ)
+    enough/RB
+    )/:
+    (NP performance/NN)
+    if/IN
+    they/PRP
+    could/MD
+    get/VB
+    it/PRP
+    (PP at/IN (NP a/DT))
+    (CP lower/JJR)
+    (NP price/NN))
+  ?/.)
+User word and tag count dictionary 
+{'test_user101': {'words': {'less': 1, 'is': 1, 'product': 1, 'exist': 1, 'at': 2, 'market': 1, 'if': 2, 'end': 1, 'would': 1, ')': 1, '(': 1, 'there': 1, 'two': 1, 'to': 1, 'enough': 1, 'low': 1, 'performance': 1, ':': 1, 'conditions': 1, '?': 1, 'happy': 1, 'be': 1, 'customers': 1, 'good': 1, 'get': 1, 'This': 1, 'price': 1, 'who': 1, 'possible': 1, 'but': 1, 'it': 1, 'they': 1, 'with': 1, 'a': 2, 'purchase': 1, 'lower': 1, 'these': 1, 'of': 1, 'could': 1, 'Are': 1, 'the': 2}, 'tags': {'MD': 2, 'VB': 3, 'RB': 2, 'NN': 5, 'CC': 1, 'WP': 1, 'JJR': 2, '.': 1, 'CD': 1, 'TO': 1, 'VBP': 1, 'PRP': 2, 'JJ': 4, 'IN': 6, 'VBZ': 2, 'DT': 6, ':': 3, 'NNS': 1, 'NNP': 1}}}
+(S
+  Often/RB
+  ,/,
+  (NP the/DT innovations/NNS)
+  that/WDT
+  (NP enable/JJ low-end/NN disruption/NN)
+  are/VBP
+  (NP improvements/NNS)
+  (PP in/IN (NP manufacturing/NN))
+  ,/,
+  (NP service/NN)
+  ,/,
+  (NP or/CC business/NN processes/NNS)
+  ,/,
+  which/WDT
+  (NP enable/JJ a/DT company/NN)
+  to/TO
+  earn/VB
+  (NP attractive/JJ returns/NNS)
+  on/IN
+  (CP lower/JJR)
+  (NP gross/NN margins/NNS)
+  ,/,
+  coupled/VBN
+  (PP with/IN (NP processes/NNS))
+  (PP that/IN (NP turn/NN assets/NNS))
+  (CP faster/JJR)
+  ./.)
+User word and tag count dictionary 
+{'test_user102': {'words': {'low-end': 1, 'coupled': 1, 'innovations': 1, 'improvements': 1, 'are': 1, 'in': 1, 'margins': 1, 'faster': 1, 'gross': 1, 'service': 1, ',': 5, '.': 1, 'to': 1, 'returns': 1, 'lower': 1, 'attractive': 1, 'which': 1, 'enable': 2, 'business': 1, 'that': 2, 'company': 1, 'earn': 1, 'disruption': 1, 'manufacturing': 1, 'with': 1, 'assets': 1, 'a': 1, 'on': 1, 'processes': 2, 'Often': 1, 'turn': 1, 'the': 1, 'or': 1}, 'tags': {'VB': 1, 'RB': 1, 'NN': 8, 'CC': 1, ',': 5, 'JJR': 2, 'TO': 1, 'VBP': 1, 'WDT': 2, 'VBN': 1, 'JJ': 3, 'IN': 4, 'DT': 2, '.': 1, 'NNS': 7}}}
+(S
+  Once/RB
+  (COMP
+    (NP an/DT innovation/NN)
+    passes/VBZ
+    (NP the/DT new-market/NN or/CC low-end/JJ test/NN)
+    ,/,
+    there/EX
+    is/VBZ
+    still/RB
+    (NP a/DT third/JJ critical/JJ consideration/NN)
+    ,/,
+    (NP or/CC)
+    litmus/VBZ
+    (NP test/NN)
+    ,/,
+    to/TO
+    apply/VB
+    :/:
+    (NP Is/NNP the/DT innovation/NN disruptive/JJ)
+    to/TO
+    (NP all/DT))
+  (PP of/IN (NP the/DT significant/JJ incumbent/NN firms/NNS))
+  (PP in/IN (NP the/DT industry/NN))
+  ?/.)
+User word and tag count dictionary 
+{'test_user103': {'words': {'low-end': 1, 'all': 1, 'is': 1, 'litmus': 1, 'an': 1, 'apply': 1, 'still': 1, 'passes': 1, 'there': 1, ',': 3, 'to': 2, 'critical': 1, 'new-market': 1, 'innovation': 2, 'test': 2, ':': 1, 'disruptive': 1, 'consideration': 1, 'a': 1, 'third': 1, 'Is': 1, 'the': 2, 'or': 2}, 'tags': {'VB': 1, 'RB': 1, 'NN': 6, 'CC': 2, ',': 3, 'TO': 2, 'EX': 1, 'JJ': 4, 'VBZ': 3, 'DT': 5, ':': 1, 'NNP': 1}}}
+(S
+  If/IN
+  it/PRP
+  appears/VBZ
+  to/TO
+  be/VB
+  sustaining/VBG
+  to/TO
+  one/CD
+  (COMP
+    (NP or/CC)
+    (CP more/JJR)
+    (NP significant/JJ players/NNS)
+    (PP in/IN (NP the/DT industry/NN))
+    ,/,
+    then/RB
+    (NP the/DT odds/NNS)
+    will/MD
+    be/VB
+    stacked/VBN
+    (PP in/IN (NP that/DT firm’s/JJ favor/NN))
+    ,/,
+    (NP and/CC the/DT entrant/NN)
+    is/VBZ
+    (NP unlikely/JJ))
+  to/TO
+  win/VB
+  ./.)
+User word and tag count dictionary 
+{'test_user104': {'words': {'and': 1, 'then': 1, 'win': 1, 'is': 1, 'sustaining': 1, 'it': 1, 'odds': 1, 'unlikely': 1, 'in': 2, 'favor': 1, ',': 2, '.': 1, 'to': 3, 'entrant': 1, 'more': 1, 'be': 2, 'that': 1, 'significant': 1, 'one': 1, 'appears': 1, 'stacked': 1, 'industry': 1, 'firm\x92s': 1, 'will': 1, 'players': 1, 'the': 3, 'or': 1, 'If': 1}, 'tags': {'MD': 1, 'VB': 3, 'VBG': 1, 'RB': 1, 'NN': 3, 'CC': 2, 'JJR': 1, 'CD': 1, 'TO': 3, 'VBN': 1, 'PRP': 1, 'JJ': 3, 'IN': 3, 'VBZ': 2, 'DT': 4, '.': 1, 'NNS': 2, ',': 2}}}
+(S
+  Often/RB
+  ,/,
+  (NP the/DT innovations/NNS)
+  that/WDT
+  (NP enable/JJ low-end/NN disruption/NN)
+  are/VBP
+  (NP improvements/NNS)
+  (PP in/IN (NP manufacturing/NN))
+  ,/,
+  (NP service/NN)
+  ,/,
+  (NP or/CC business/NN processes/NNS)
+  ,/,
+  which/WDT
+  (NP enable/JJ a/DT company/NN)
+  to/TO
+  earn/VB
+  (NP attractive/JJ returns/NNS)
+  on/IN
+  (CP lower/JJR)
+  (NP gross/NN margins/NNS)
+  ,/,
+  coupled/VBN
+  (PP with/IN (NP processes/NNS))
+  (PP that/IN (NP turn/NN assets/NNS))
+  (CP faster/JJR)
+  ./.)
+User word and tag count dictionary 
+{'test_user105': {'words': {'low-end': 1, 'coupled': 1, 'innovations': 1, 'improvements': 1, 'are': 1, 'in': 1, 'margins': 1, 'faster': 1, 'gross': 1, 'service': 1, ',': 5, '.': 1, 'to': 1, 'returns': 1, 'lower': 1, 'attractive': 1, 'which': 1, 'enable': 2, 'business': 1, 'that': 2, 'company': 1, 'earn': 1, 'disruption': 1, 'manufacturing': 1, 'with': 1, 'assets': 1, 'a': 1, 'on': 1, 'processes': 2, 'Often': 1, 'turn': 1, 'the': 1, 'or': 1}, 'tags': {'VB': 1, 'RB': 1, 'NN': 8, 'CC': 1, ',': 5, 'JJR': 2, 'TO': 1, 'VBP': 1, 'WDT': 2, 'VBN': 1, 'JJ': 3, 'IN': 4, 'DT': 2, '.': 1, 'NNS': 7}}}
+(S
+  Once/RB
+  (COMP
+    (NP an/DT innovation/NN)
+    passes/VBZ
+    (NP the/DT new-market/NN or/CC low-end/JJ test/NN)
+    ,/,
+    there/EX
+    is/VBZ
+    still/RB
+    (NP a/DT third/JJ critical/JJ consideration/NN)
+    ,/,
+    (NP or/CC)
+    litmus/VBZ
+    (NP test/NN)
+    ,/,
+    to/TO
+    apply/VB
+    :/:
+    (NP Is/NNP the/DT innovation/NN disruptive/JJ)
+    to/TO
+    (NP all/DT))
+  (PP of/IN (NP the/DT significant/JJ incumbent/NN firms/NNS))
+  (PP in/IN (NP the/DT industry/NN))
+  ?/.)
+User word and tag count dictionary 
+{'test_user106': {'words': {'low-end': 1, 'all': 1, 'is': 1, 'litmus': 1, 'an': 1, 'apply': 1, 'still': 1, 'passes': 1, 'there': 1, ',': 3, 'to': 2, 'critical': 1, 'new-market': 1, 'innovation': 2, 'test': 2, ':': 1, 'disruptive': 1, 'consideration': 1, 'a': 1, 'third': 1, 'Is': 1, 'the': 2, 'or': 2}, 'tags': {'VB': 1, 'RB': 1, 'NN': 6, 'CC': 2, ',': 3, 'TO': 2, 'EX': 1, 'JJ': 4, 'VBZ': 3, 'DT': 5, ':': 1, 'NNP': 1}}}
+(S
+  If/IN
+  it/PRP
+  appears/VBZ
+  to/TO
+  be/VB
+  sustaining/VBG
+  to/TO
+  one/CD
+  (COMP
+    (NP or/CC)
+    (CP more/JJR)
+    (NP significant/JJ players/NNS)
+    (PP in/IN (NP the/DT industry/NN))
+    ,/,
+    then/RB
+    (NP the/DT odds/NNS)
+    will/MD
+    be/VB
+    stacked/VBN
+    (PP in/IN (NP that/DT firm’s/JJ favor/NN))
+    ,/,
+    (NP and/CC the/DT entrant/NN)
+    is/VBZ
+    (NP unlikely/JJ))
+  to/TO
+  win/VB
+  ./.)
+User word and tag count dictionary 
+{'test_user107': {'words': {'and': 1, 'then': 1, 'win': 1, 'is': 1, 'sustaining': 1, 'it': 1, 'odds': 1, 'unlikely': 1, 'in': 2, 'favor': 1, ',': 2, '.': 1, 'to': 3, 'entrant': 1, 'more': 1, 'be': 2, 'that': 1, 'significant': 1, 'one': 1, 'appears': 1, 'stacked': 1, 'industry': 1, 'firm\x92s': 1, 'will': 1, 'players': 1, 'the': 3, 'or': 1, 'If': 1}, 'tags': {'MD': 1, 'VB': 3, 'VBG': 1, 'RB': 1, 'NN': 3, 'CC': 2, 'JJR': 1, 'CD': 1, 'TO': 3, 'VBN': 1, 'PRP': 1, 'JJ': 3, 'IN': 3, 'VBZ': 2, 'DT': 4, '.': 1, 'NNS': 2, ',': 2}}}
+(S
+  (NP Utilizes/NNS a/DT new/JJ operating/NN and/CC)
+  //CD
+  (NP or/CC financial/JJ approach/NN)
+  –/:
+  (NP a/DT different/JJ combination/NN)
+  of/IN
+  (CP lower/JJR)
+  (NP gross/NN profit/NN margins/NNS and/CC)
+  (CP higher/JJR)
+  (NP asset/NN utilization/NN)
+  that/WDT
+  can/MD
+  earn/VB
+  (NP attractive/JJ returns/NNS)
+  (PP at/IN (NP the/DT discount/NN prices/NNS))
+  required/VBN
+  to/TO
+  win/VB
+  (NP business/NN)
+  (PP at/IN (NP the/DT low/JJ end/NN))
+  (PP of/IN (NP the/DT market/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user108': {'words': {'and': 2, 'financial': 1, 'win': 1, 'at': 2, '\x96': 1, 'margins': 1, 'market': 1, 'gross': 1, 'different': 1, 'end': 1, 'business': 1, 'utilization': 1, 'profit': 1, 'attractive': 1, '/': 1, '.': 1, 'to': 1, 'returns': 1, 'asset': 1, 'new': 1, 'approach': 1, 'higher': 1, 'combination': 1, 'that': 1, 'earn': 1, 'discount': 1, 'operating': 1, 'low': 1, 'prices': 1, 'a': 2, 'lower': 1, 'Utilizes': 1, 'of': 2, 'required': 1, 'can': 1, 'the': 3, 'or': 1}, 'tags': {'MD': 1, 'VB': 2, 'NN': 11, 'CC': 3, 'JJR': 2, '.': 1, 'CD': 1, 'TO': 1, 'WDT': 1, 'VBN': 1, 'JJ': 5, 'IN': 4, 'DT': 5, ':': 1, 'NNS': 4}}}
+(S
+  (COMP
+    (NP Results/NNS)
+    in/IN
+    (CP lower/JJR)
+    (NP performance/NN)
+    (PP in/IN (NP “traditional”/NNP attributes/NNS))
+    ,/,
+    (NP but/CC)
+    improved/VBN
+    (NP performance/NN)
+    (PP in/IN (NP new/JJ attributes/NNS))
+    –/VBP
+    typically/RB
+    (NP simplicity/NN and/CC convenience/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user109': {'words': {'and': 1, 'simplicity': 1, 'lower': 1, 'improved': 1, '\x93traditional\x94': 1, 'typically': 1, 'in': 3, 'Results': 1, 'but': 1, ',': 1, 'convenience': 1, 'performance': 2, 'attributes': 2, '.': 1, 'new': 1, '\x96': 1}, 'tags': {'RB': 1, 'NN': 4, 'CC': 2, ',': 1, 'JJR': 1, 'VBP': 1, 'VBN': 1, 'JJ': 1, 'IN': 3, '.': 1, 'NNS': 3, 'NNP': 1}}}
+(S
+  (COMP
+    (NP Targets/NNS)
+    non-/VBP
+    (NP consumption/NN)
+    :/:
+    (NP customers/NNS)
+    who/WP
+    historically/RB
+    lacked/VBD
+    (NP the/DT money/NN or/CC skill/NN)
+    to/TO
+    buy/VB
+    (NP and/CC)
+    use/VB
+    (NP the/DT product/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user110': {'words': {'and': 1, 'the': 2, 'customers': 1, 'or': 1, 'skill': 1, 'consumption': 1, 'money': 1, 'non-': 1, 'who': 1, 'use': 1, 'historically': 1, 'product': 1, 'to': 1, 'buy': 1, 'lacked': 1, ':': 1, 'Targets': 1}, 'tags': {'VB': 2, 'NN': 4, 'VBD': 1, 'CC': 2, 'TO': 1, 'VBP': 1, 'RB': 1, 'WP': 1, 'DT': 2, ':': 1, 'NNS': 2}}}
+(S
+  (GPE Business/NN)
+  (COMP
+    (NP model/NN)
+    must/MD
+    make/VB
+    (NP money/NN)
+    at/IN
+    (CP lower/JJR)
+    (NP price/NN)
+    (PP per/IN (NP unit/NN))
+    sold/VBD
+    ,/,
+    (NP and/CC)
+    (PP at/IN (NP unit/NN production/NN))
+    volumes/VBZ
+    that/IN
+    initially/RB
+    will/MD
+    be/VB
+    (NP small/JJ)
+    emerging/VBG
+    (NP market/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user111': {'words': {'and': 1, 'emerging': 1, 'money': 1, 'at': 2, 'market': 1, 'Business': 1, 'make': 1, ',': 1, 'per': 1, '.': 1, 'production': 1, 'unit': 2, 'price': 1, 'be': 1, 'that': 1, 'initially': 1, 'sold': 1, 'must': 1, 'lower': 1, 'will': 1, 'volumes': 1, 'small': 1, 'model': 1}, 'tags': {'MD': 2, 'VB': 2, 'VBG': 1, 'JJ': 1, 'NN': 8, 'VBD': 1, 'CC': 1, 'JJR': 1, ',': 1, 'RB': 1, 'IN': 4, 'VBZ': 1, '.': 1}}}
+(S
+  (GPE Gross/NNP)
+  (NP margin/NN dollars/NNS)
+  (PP per/IN (NP unit/NN))
+  sold/VBD
+  will/MD
+  be/VB
+  significantly/RB
+  (CP lower/JJR)
+  ./.)
+User word and tag count dictionary 
+{'test_user112': {'words': {'Gross': 1, 'lower': 1, 'significantly': 1, 'be': 1, 'sold': 1, 'per': 1, '.': 1, 'will': 1, 'margin': 1, 'dollars': 1, 'unit': 1}, 'tags': {'MD': 1, 'VB': 1, 'NN': 2, 'VBD': 1, 'JJR': 1, '.': 1, 'RB': 1, 'IN': 1, 'NNS': 1, 'NNP': 1}}}
+(S
+  To/TO
+  determine/VB
+  (PP whether/IN (NP this/DT strategy/NN))
+  is/VBZ
+  (NP viable/JJ)
+  ,/,
+  (NP Xerox’s/JJ managers/NNS)
+  should/MD
+  (NP test/NN)
+  (PP whether/IN (NP customers/NNS))
+  (PP in/IN (NP the/DT))
+  (CP lowest/JJS)
+  (NP market/NN tiers/NNS)
+  might/MD
+  be/VB
+  (NP willing/JJ)
+  to/TO
+  buy/VB
+  (NP a/DT “good/JJ enough”/NN printer/NN)
+  that/WDT
+  is/VBZ
+  (CP cheaper/JJR)
+  than/IN
+  prevailing/VBG
+  (NP products/NNS)
+  (/:
+  (NP footnote/NN)
+  48/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user113': {'words': {'managers': 1, 'footnote': 1, 'is': 2, 'enough\x94': 1, 'To': 1, 'printer': 1, 'determine': 1, 'in': 1, 'should': 1, 'market': 1, '48': 1, '\x93good': 1, ')': 1, '(': 1, ',': 1, 'strategy': 1, 'to': 1, 'willing': 1, 'test': 1, 'might': 1, 'viable': 1, 'lowest': 1, 'be': 1, 'customers': 1, 'buy': 1, 'that': 1, 'Xerox\x92s': 1, 'cheaper': 1, 'than': 1, 'a': 1, 'tiers': 1, 'this': 1, 'whether': 2, 'products': 1, '.': 1, 'the': 1, 'prevailing': 1}, 'tags': {'MD': 2, 'VB': 3, 'VBG': 1, 'NN': 6, 'JJS': 1, ',': 1, '.': 1, 'JJR': 1, 'TO': 2, 'CD': 2, 'WDT': 1, 'JJ': 4, 'IN': 4, 'VBZ': 2, 'DT': 3, ':': 1, 'NNS': 4}}}
+(S
+  (PP At/IN (NP the/DT))
+  (CP highest/JJS)
+  (COMP
+    (NP tier/NN)
+    (PP of/IN (NP the/DT market/NN))
+    ,/,
+    (NP customers/NNS)
+    seem/VBP
+    (NP willing/JJ)
+    to/TO
+    pay/VB
+    significantly/RB
+    (CP more/JJR)
+    (PP for/IN (NP a/DT))
+    (CP faster/JJR)
+    (NP printer/NN)
+    (PP that/IN (NP produces/NNS))
+    (CP sharper/JJR)
+    (NP images/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user114': {'words': {'significantly': 1, 'produces': 1, 'sharper': 1, 'images': 1, 'seem': 1, 'market': 1, 'for': 1, 'pay': 1, ',': 1, '.': 1, 'to': 1, 'willing': 1, 'more': 1, 'customers': 1, 'printer': 1, 'that': 1, 'tier': 1, 'highest': 1, 'a': 1, 'faster': 1, 'of': 1, 'At': 1, 'the': 2}, 'tags': {'VB': 1, 'RB': 1, 'NN': 3, 'JJS': 1, ',': 1, 'JJR': 3, 'TO': 1, 'VBP': 1, 'JJ': 1, 'IN': 4, 'DT': 3, '.': 1, 'NNS': 3}}}
+(S
+  However/RB
+  ,/,
+  (COMP
+    (NP consumers/NNS)
+    (PP in/IN (NP the/DT less-demanding/JJ tiers/NNS))
+    are/VBP
+    becoming/VBG
+    increasingly/RB
+    (NP indifferent/JJ)
+    to/TO
+    (NP improvements/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user115': {'words': {'tiers': 1, 'less-demanding': 1, 'consumers': 1, 'increasingly': 1, 'becoming': 1, 'to': 1, 'improvements': 1, 'are': 1, 'in': 1, 'the': 1, 'indifferent': 1}, 'tags': {'VBG': 1, 'RB': 1, 'TO': 1, 'VBP': 1, 'JJ': 2, 'IN': 1, 'DT': 1, 'NNS': 3}}}
+(S
+  (COMP
+    (NP The/DT possibilities/NNS)
+    here/RB
+    (NP don’t/JJ look/NN good/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user116': {'words': {'good': 1, 'don\x92t': 1, 'look': 1, 'here': 1, 'possibilities': 1, 'The': 1}, 'tags': {'DT': 1, 'NN': 1, 'NNS': 1, 'JJ': 2, 'RB': 1}}}
+(S
+  (COMP
+    (NP HP/NNP and/CC other/JJ printer/NN companies/NNS)
+    already/RB
+    outsource/VBP
+    (NP the/DT fabrication/NN and/CC)
+    assembly/RB
+    (PP of/IN (NP components/NNS))
+    to/TO
+    (NP the/DT)
+    (CP lowest-cost/JJS)
+    (NP sources/NNS))
+  (PP in/IN (NP the/DT world/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user117': {'words': {'and': 2, 'already': 1, 'assembly': 1, 'sources': 1, 'of': 1, 'HP': 1, 'companies': 1, '.': 1, 'to': 1, 'outsource': 1, 'other': 1, 'components': 1, 'in': 1, 'world': 1, 'the': 3, 'lowest-cost': 1, 'fabrication': 1, 'printer': 1}, 'tags': {'JJ': 1, 'NN': 3, 'CC': 2, 'JJS': 1, '.': 1, 'TO': 1, 'VBP': 1, 'RB': 2, 'IN': 2, 'DT': 3, 'NNS': 3, 'NNP': 1}}}
+(S
+  (COMP
+    (NP HP/NNP)
+    makes/VBZ
+    its/PRP$
+    (NP money/NN)
+    selling/VBG
+    (NP ink/NN cartridges—whose/JJ fabrication/NN)
+    also/RB
+    is/VBZ
+    outsourced/VBN
+    to/TO
+    (NP low-cost/JJ suppliers/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user118': {'words': {'selling': 1, 'to': 1, 'cartridges\x97whose': 1, 'low-cost': 1, 'money': 1, 'HP': 1, 'fabrication': 1, 'also': 1, 'suppliers': 1, 'ink': 1, 'makes': 1, 'its': 1, 'is': 1, 'outsourced': 1}, 'tags': {'PRP$': 1, 'VBG': 1, 'RB': 1, 'NN': 3, 'VBN': 1, 'TO': 1, 'JJ': 2, 'VBZ': 2, 'NNS': 1, 'NNP': 1}}}
+(S
+  (GPE Xerox/NNP)
+  could/MD
+  enter/VB
+  (COMP
+    (NP the/DT market/NN)
+    (PP by/IN (NP selling/NN ink/NN cartridges/NNS))
+    at/IN
+    (CP lower/JJR)
+    (NP prices/NNS)
+    ,/,
+    (NP but/CC)
+    unless/IN
+    it/PRP
+    could/MD
+    define/VB
+    (NP
+      an/DT
+      overhead/JJ
+      cost/NN
+      structure/NN
+      and/CC
+      business/NN
+      processes/NNS)
+    that/WDT
+    would/MD
+    allow/VB
+    it/PRP
+    to/TO
+    turn/VB
+    (NP assets/NNS)
+    (CP faster/JJR)
+    ,/,
+    (PERSON Xerox/NNP)
+    could/MD
+    not/RB
+    sustain/VB
+    (NP a/DT strategy/NN)
+    (PP of/IN (NP low-end/JJ disruption/NN))
+    (/:
+    (NP footnote/NN))
+  49/CD
+  )/CD
+  ./.)
+User word and tag count dictionary 
+{'test_user119': {'words': {'and': 1, 'low-end': 1, 'footnote': 1, 'it': 2, ',': 2, 'not': 1, 'cost': 1, 'at': 1, 'ink': 1, '.': 1, 'market': 1, 'would': 1, '49': 1, ')': 1, '(': 1, 'Xerox': 2, 'strategy': 1, 'to': 1, 'overhead': 1, 'sustain': 1, 'define': 1, 'selling': 1, 'unless': 1, 'business': 1, 'that': 1, 'processes': 1, 'but': 1, 'disruption': 1, 'cartridges': 1, 'prices': 1, 'an': 1, 'by': 1, 'structure': 1, 'faster': 1, 'a': 1, 'lower': 1, 'assets': 1, 'of': 1, 'could': 3, 'turn': 1, 'allow': 1, 'enter': 1, 'the': 1}, 'tags': {'MD': 4, 'VB': 5, 'RB': 1, 'NN': 9, 'CC': 2, 'JJR': 2, '.': 1, ',': 2, 'TO': 1, 'CD': 2, 'WDT': 1, 'PRP': 2, 'JJ': 2, 'IN': 4, 'DT': 3, ':': 1, 'NNS': 4, 'NNP': 2}}}
+(S
+  (COMP
+    (NP Hewlett-Packard/JJ)
+    already/RB
+    competed/VBN
+    successfully/RB
+    (PP against/IN (NP non-consumption/NN))
+    when/WRB
+    it/PRP
+    launched/VBD
+    its/PRP$
+    (NP easy-to-use/JJ)
+    ,/,
+    (NP inexpensive/JJ ink-jet/NN printers/NNS)
+    What/WP
+    about/IN
+    enticing/VBG
+    existing/VBG
+    (NP printer/NN owners/NNS)
+    to/TO
+    buy/VB
+    (CP more/JJR)
+    (NP printers/NNS)
+    ,/,
+    (PP by/IN (NP enabling/NN consumption/NN))
+    (PP in/IN (NP a/DT new/JJ))
+    ,/,
+    (CP more/RBR)
+    (NP convenient/JJ context/NN))
+  ?/.)
+User word and tag count dictionary 
+{'test_user120': {'words': {'What': 1, 'already': 1, 'successfully': 1, 'it': 1, 'existing': 1, 'buy': 1, 'in': 1, 'its': 1, 'easy-to-use': 1, 'consumption': 1, 'Hewlett-Packard': 1, 'convenient': 1, 'when': 1, ',': 3, 'to': 1, 'printers': 2, 'ink-jet': 1, '?': 1, 'more': 2, 'printer': 1, 'enticing': 1, 'about': 1, 'new': 1, 'by': 1, 'a': 1, 'owners': 1, 'inexpensive': 1, 'against': 1, 'enabling': 1, 'competed': 1, 'context': 1, 'non-consumption': 1, 'launched': 1}, 'tags': {'PRP$': 1, 'WRB': 1, 'JJ': 5, 'NN': 6, 'VBD': 1, 'RBR': 1, 'WP': 1, 'VBN': 1, ',': 3, 'VB': 1, 'TO': 1, 'PRP': 1, 'RB': 2, 'IN': 4, 'VBG': 2, 'DT': 1, '.': 1, 'NNS': 3, 'JJR': 1}}}
+(S
+  (COMP
+    (NP Documents/NNS)
+    created/VBD
+    (PP on/IN (NP notebook/NN computers/NNS))
+    are/VBP
+    not/RB
+    (NP easy/JJ))
+  to/TO
+  print/VB
+  ./.)
+User word and tag count dictionary 
+{'test_user121': {'words': {'on': 1, 'Documents': 1, 'created': 1, 'computers': 1, 'notebook': 1, 'are': 1, 'easy': 1, 'not': 1}, 'tags': {'JJ': 1, 'NN': 1, 'VBD': 1, 'VBP': 1, 'RB': 1, 'IN': 1, 'NNS': 2}}}
+(S
+  (GPE Notebook/NNP)
+  (COMP
+    (NP users/NNS)
+    have/VBP
+    to/TO
+    find/VB
+    (NP a/DT stationary/JJ printer/NN and/CC)
+    connect/VB
+    to/TO
+    it/PRP
+    either/RB
+    (PP over/IN (NP a/DT network/NN or/CC a/DT printer/NN cable/NN))
+    ,/,
+    (NP or/CC)
+    they/PRP
+    must/MD
+    transfer/VB
+    (NP the/DT file/NN)
+    (PP via/IN (NP removable/JJ media/NNS))
+    to/TO
+    (NP a/DT computer/NN)
+    that/WDT
+    is/VBZ
+    connected/VBN
+    to/TO
+    (NP a/DT printer/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user122': {'words': {'and': 1, 'via': 1, 'file': 1, 'over': 1, 'it': 1, 'computer': 1, 'connect': 1, 'have': 1, 'find': 1, 'network': 1, 'transfer': 1, ',': 1, 'to': 4, 'removable': 1, 'is': 1, 'printer': 3, 'users': 1, 'that': 1, 'connected': 1, 'they': 1, 'must': 1, 'a': 5, 'cable': 1, 'either': 1, 'media': 1, 'the': 1, 'stationary': 1, 'or': 2}, 'tags': {'MD': 1, 'VB': 3, 'RB': 1, 'NN': 7, 'CC': 3, ',': 1, 'VBN': 1, 'TO': 4, 'VBP': 1, 'WDT': 1, 'PRP': 2, 'JJ': 2, 'IN': 2, 'VBZ': 1, 'DT': 6, 'NNS': 2}}}
+(S
+  If/IN
+  (PERSON Xerox/NNP)
+  incorporated/VBD
+  (COMP
+    (NP a/DT lightweight/NN)
+    ,/,
+    (NP inexpensive/JJ printer/NN)
+    (PP into/IN (NP the/DT base/NN or/CC spine/NN))
+    (PP of/IN (NP a/DT notebook/NN computer/NN))
+    so/RB
+    (PP that/IN (NP people/NNS))
+    (PP on/IN (NP the/DT go/NN))
+    could/MD
+    get/VB
+    hard/RB
+    (NP copies/NNS)
+    when/WRB
+    (NP and/CC)
+    where/WRB
+    they/PRP
+    needed/VBD
+    them/PRP
+    ,/,
+    (NP the/DT company/NN)
+    could/MD
+    probably/RB
+    win/VB
+    (NP customers/NNS))
+  even/RB
+  (PP if/IN (NP the/DT printer/NN wasn’t/NN))
+  (PP as/IN (NP good/JJ))
+  (PP as/IN (NP a/DT stationary/JJ ink-jet/NN printer/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user123': {'words': {'and': 1, 'people': 1, 'win': 1, 'into': 1, 'hard': 1, 'customers': 1, 'copies': 1, 'computer': 1, 'lightweight': 1, 'go': 1, 'get': 1, 'when': 1, ',': 2, 'needed': 1, 'probably': 1, 'them': 1, 'printer': 1, 'that': 1, 'company': 1, 'notebook': 1, 'they': 1, 'a': 2, 'on': 1, 'spine': 1, 'of': 1, 'could': 2, 'inexpensive': 1, 'base': 1, 'so': 1, 'the': 3, 'where': 1, 'or': 1}, 'tags': {'MD': 2, 'VB': 2, 'WRB': 2, 'RB': 3, 'NN': 8, 'VBD': 1, 'CC': 2, ',': 2, 'PRP': 2, 'JJ': 1, 'IN': 4, 'DT': 5, 'NNS': 3}}}
+(S
+  Only/RB
+  (COMP
+    (NP Xerox’s/JJ engineers/NNS)
+    could/MD
+    determine/VB
+    (PP whether/IN (NP the/DT idea/NN))
+    is/VBZ
+    technologically/RB
+    (NP feasible/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user124': {'words': {'whether': 1, 'Xerox\x92s': 1, 'idea': 1, 'feasible': 1, 'technologically': 1, 'determine': 1, 'the': 1, 'could': 1, 'is': 1, 'engineers': 1}, 'tags': {'MD': 1, 'VB': 1, 'RB': 1, 'NN': 1, 'JJ': 2, 'IN': 1, 'VBZ': 1, 'DT': 1, 'NNS': 1}}}
+(S
+  If/IN
+  (PERSON Xerox/NNP)
+  attempted/VBD
+  (NP this/DT)
+  ,/,
+  we/PRP
+  would/MD
+  expect/VB
+  (NP HP/NNP)
+  to/TO
+  ignore/VB
+  (NP this/DT new-market/NN disruption/NN)
+  (PP at/IN (NP the/DT outset/NN))
+  (PP because/IN (NP the/DT market/NN))
+  would/MD
+  be/VB
+  much/RB
+  (CP smaller/JJR)
+  (PP than/IN (NP the/DT stationary/JJ printer/NN market/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user125': {'words': {'outset': 1, 'smaller': 1, 'HP': 1, 'Xerox': 1, 'because': 1, 'expect': 1, 'market': 2, 'would': 2, ',': 1, '.': 1, 'to': 1, 'much': 1, 'new-market': 1, 'be': 1, 'we': 1, 'printer': 1, 'attempted': 1, 'disruption': 1, 'than': 1, 'this': 2, 'ignore': 1, 'the': 3, 'If': 1, 'stationary': 1, 'at': 1}, 'tags': {'MD': 2, 'VB': 3, 'JJ': 1, 'NN': 6, 'VBD': 1, ',': 1, 'JJR': 1, 'TO': 1, 'PRP': 1, 'RB': 1, 'IN': 4, 'DT': 5, '.': 1, 'NNP': 2}}}
+(S
+  (COMP
+    (NP This/DT)
+    might/MD
+    entail/VB
+    (NP pricing/NN ink/NN cartridges/NNS)
+    for/IN
+    embedded/VBN
+    (NP notebook/NN printers/NNS low/JJ)
+    enough/RB
+    (PP that/IN (NP the/DT executives/NNS))
+    (PP of/IN (NP HP’s/NNS))
+    ink/VBP
+    (NP jet/NN printer/NN business/NN)
+    would/MD
+    find/VB
+    (NP the/DT market/NN unattractive/NN relative/JJ)
+    to/TO
+    (NP investments/NNS)
+    they/PRP
+    might/MD
+    make/VB
+    to/TO
+    move/VB
+    (NP up-market/JJ)
+    (PP in/IN (NP search/NN))
+    (PP of/IN (NP the/DT))
+    (CP higher/JJR)
+    (NP profits/NNS))
+  they/PRP
+  could/MD
+  find/VB
+  (PP by/IN (NP competing/NN))
+  (PP
+    against/IN
+    (NP higher-cost/JJ stationary/NN laser/NN printers/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user126': {'words': {'entail': 1, 'move': 1, 'relative': 1, 'pricing': 1, 'ink': 2, 'higher-cost': 1, '.': 1, 'find': 2, 'market': 1, 'would': 1, 'up-market': 1, 'make': 1, 'they': 2, 'for': 1, 'to': 2, 'enough': 1, 'low': 1, 'printers': 2, 'might': 2, 'higher': 1, 'printer': 1, 'business': 1, 'that': 1, 'This': 1, 'notebook': 1, 'cartridges': 1, 'unattractive': 1, 'competing': 1, 'laser': 1, 'by': 1, 'search': 1, 'in': 1, 'jet': 1, 'embedded': 1, 'HP\x92s': 1, 'could': 1, 'against': 1, 'of': 2, 'the': 3, 'stationary': 1, 'investments': 1, 'profits': 1, 'executives': 1}, 'tags': {'MD': 4, 'VB': 5, 'RB': 1, 'NN': 12, 'VBN': 1, 'JJR': 1, 'TO': 2, 'VBP': 1, 'PRP': 2, 'JJ': 4, 'IN': 7, 'DT': 4, '.': 1, 'NNS': 7}}}
+(S
+  (COMP
+    (NP GE/NN)
+    might/MD
+    expand/VB
+    its/PRP$
+    already/RB
+    (NP substantial/JJ manufacturing/NN operations/NNS)
+    in/IN
+    (GPE China/NNP)
+    ,/,
+    making/VBG
+    (NP air/NN conditioners/NNS)
+    (PP for/IN (NP export/NN))
+    to/TO
+    developed/VBD
+    (NP economies/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user127': {'words': {'operations': 1, 'already': 1, 'developed': 1, 'economies': 1, 'for': 1, 'conditioners': 1, ',': 1, 'air': 1, 'to': 1, 'GE': 1, 'substantial': 1, 'China': 1, 'in': 1, 'making': 1, 'export': 1, 'manufacturing': 1, 'might': 1, 'its': 1, 'expand': 1}, 'tags': {'MD': 1, 'VB': 1, 'VBG': 1, 'RB': 1, 'NN': 4, 'VBD': 1, 'PRP$': 1, ',': 1, 'TO': 1, 'JJ': 1, 'IN': 2, 'NNS': 3, 'NNP': 1}}}
+(S
+  (COMP
+    (NP This/DT)
+    might/MD
+    bring/VB
+    (NP modest/JJ but/CC temporary/JJ success/NN)
+    ,/,
+    because/IN
+    (PP after/IN (NP the/DT established/JJ companies/NNS))
+    respond/VBP
+    (PP by/IN (NP setting/NN))
+    up/IN
+    their/PRP$
+    (NP own/JJ manufacturing/NN operations/NNS)
+    in/IN
+    (GPE China/NNP)
+    ,/,
+    (ORGANIZATION GE/NNP)
+    would/MD
+    find/VB
+    itself/PRP
+    locked/VBD
+    (PP in/IN (NP a/DT battle/NN))
+    (PP with/IN (NP competitors/NNS))
+    whose/WP$
+    (NP costs/NNS)
+    are/VBP
+    (NP comparable/JJ and/CC)
+    whose/WP$
+    (NP distribution/NN and/CC service/NN infrastructure/NN)
+    are/VBP
+    (NP strong/JJ)
+    ,/,
+    (NP and/CC)
+    where/WRB
+    (NP the/DT)
+    targeted/VBN
+    (NP customers/NNS)
+    already/RB
+    have/VBP
+    manifested/VBN
+    (NP an/DT unwillingness/NN)
+    to/TO
+    pay/VB
+    (NP premium/NN prices/NNS)
+    for/IN
+    (CP better/JJR)
+    (NP products/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user128': {'words': {'respond': 1, 'operations': 1, 'because': 1, 'customers': 1, 'an': 1, 'bring': 1, 'own': 1, 'are': 2, 'have': 1, 'in': 2, 'battle': 1, 'premium': 1, '.': 1, 'targeted': 1, 'find': 1, 'established': 1, 'strong': 1, 'GE': 1, 'would': 1, 'to': 1, 'pay': 1, ',': 3, 'for': 1, 'better': 1, 'their': 1, 'setting': 1, 'China': 1, 'might': 1, 'comparable': 1, 'infrastructure': 1, 'temporary': 1, 'whose': 2, 'This': 1, 'after': 1, 'distribution': 1, 'but': 1, 'modest': 1, 'prices': 1, 'manufacturing': 1, 'with': 1, 'by': 1, 'manifested': 1, 'a': 1, 'and': 3, 'locked': 1, 'service': 1, 'success': 1, 'unwillingness': 1, 'companies': 1, 'up': 1, 'costs': 1, 'competitors': 1, 'itself': 1, 'products': 1, 'already': 1, 'the': 2, 'where': 1}, 'tags': {'MD': 2, 'VB': 3, 'WRB': 1, 'RB': 1, 'NN': 9, 'VBD': 1, 'CC': 4, ',': 3, '.': 1, 'VBN': 2, 'TO': 1, 'VBP': 4, 'PRP': 1, 'JJ': 6, 'IN': 8, 'WP$': 2, 'DT': 5, 'PRP$': 1, 'NNS': 7, 'JJR': 1, 'NNP': 2}}}
+(S
+  There/EX
+  are/VBP
+  (COMP
+    (NP hundreds/NNS)
+    (PP of/IN (NP millions/NNS))
+    (PP of/IN (NP non-consumers/NNS))
+    (PP of/IN (NP residential/JJ air/NN))
+    conditioning/VBG
+    in/IN
+    (GPE China/NNP)
+    ,/,
+    who/WP
+    have/VBP
+    been/VBN
+    blocked/VBN
+    (PP from/IN (NP that/DT market/NN))
+    (PP because/IN (NP the/DT power-hungry/JJ))
+    ,/,
+    (NP expensive/JJ machines/NNS)
+    that/WDT
+    historically/RB
+    have/VBP
+    been/VBN
+    (NP available/JJ don’t/JJ fit/NN)
+    (PP in/IN (NP the/DT average/NN))
+    family’s/VBZ
+    (NP pocketbook/NN or/CC apartment/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user129': {'words': {'because': 1, 'don\x92t': 1, 'have': 2, 'in': 2, 'machines': 1, 'blocked': 1, 'apartment': 1, 'from': 1, 'fit': 1, 'pocketbook': 1, 'residential': 1, 'power-hungry': 1, ',': 2, 'been': 2, 'China': 1, 'expensive': 1, 'millions': 1, 'historically': 1, 'available': 1, 'that': 2, 'who': 1, 'family\x92s': 1, 'hundreds': 1, 'market': 1, 'conditioning': 1, 'non-consumers': 1, 'of': 3, 'average': 1, 'air': 1, 'the': 2, 'or': 1}, 'tags': {'VBG': 1, 'RB': 1, 'NN': 6, 'CC': 1, 'WP': 1, ',': 2, 'VBN': 3, 'VBP': 2, 'WDT': 1, 'JJ': 5, 'IN': 7, 'VBZ': 1, 'DT': 3, 'NNS': 4, 'NNP': 1}}}
+(S
+  If/IN
+  (ORGANIZATION GE/NNP)
+  could/MD
+  design/VB
+  (COMP
+    (NP a/DT)
+    $/$
+    49.95/CD
+    (NP product/NN)
+    that/WDT
+    would/MD
+    easily/RB
+    slip/VB
+    (PP into/IN (NP the/DT window/NN))
+    (PP of/IN (NP a/DT cramped/JJ))
+    (GPE Shanghai/NNP)
+    (NP apartment/NN and/CC)
+    reduce/VB
+    (NP the/DT temperature/NN and/CC humidity/NN)
+    (PP in/IN (NP a/DT ten-foot/JJ))
+    (PP by/IN (NP ten-foot/JJ room/NN))
+    with/IN
+    ten/CD
+    (NP amps/NNS)
+    (PP of/IN (NP current/JJ))
+    ,/,
+    (NP things/NNS)
+    might/MD
+    get/VB
+    (NP interesting—because/JJ once/NN GE/NNP)
+    had/VBD
+    (NP a/DT business/NN model/NN)
+    that/IN
+    could/MD
+    make/VB
+    (NP money/NN)
+    at/IN
+    (PP that/IN (NP price/NN point/NN))
+    ,/,
+    taking/VBG
+    (PP on/IN (NP the/DT rest/NN))
+    (PP of/IN (NP the/DT up-market/NN world/NN))
+    would/MD
+    be/VB
+    (NP easy/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user130': {'words': {'and': 2, 'ten': 1, 'point': 1, 'money': 1, 'into': 1, 'Shanghai': 1, 'reduce': 1, 'rest': 1, 'at': 1, 'slip': 1, 'in': 1, 'ten-foot': 2, 'apartment': 1, '$': 1, 'would': 2, 'things': 1, 'make': 1, 'get': 1, 'had': 1, ',': 2, 'current': 1, 'up-market': 1, 'window': 1, 'easy': 1, 'might': 1, 'model': 1, 'product': 1, 'business': 1, 'that': 3, 'price': 1, 'GE': 1, 'world': 1, 'be': 1, 'on': 1, 'with': 1, 'by': 1, '49.95': 1, 'temperature': 1, 'a': 4, 'easily': 1, 'room': 1, 'interesting\x97because': 1, 'of': 3, 'could': 1, 'humidity': 1, 'cramped': 1, 'amps': 1, 'the': 4, 'taking': 1, 'once': 1}, 'tags': {'JJ': 6, 'MD': 4, 'VB': 5, 'VBG': 1, '$': 1, 'NN': 15, 'VBD': 1, 'CC': 2, ',': 2, 'CD': 2, 'WDT': 1, 'RB': 1, 'IN': 11, 'DT': 8, 'NNS': 2, 'NNP': 2}}}
+(S
+  Parenthetically/RB
+  ,/,
+  while/IN
+  (GPE Western/NNP)
+  (COMP
+    (NP executives/NNS)
+    are/VBP
+    understandably/RB
+    concerned/VBN
+    (PP about/IN (NP the/DT threat/NN))
+    (PP that/IN (NP low-cost/JJ manufacturing/NN))
+    in/IN
+    (GPE China/NNP)
+    (NP poses/NNS)
+    to/TO
+    them/PRP
+    ,/,
+    our/PRP$
+    (NP guess/NN)
+    is/VBZ
+    (PP that/IN (NP China’s/JJ greatest/NN competitive/JJ asset/NN))
+    is/VBZ
+    (NP the/DT unfathomable/JJ amount/NN)
+    (PP of/IN (NP non-consumption/NN))
+    in/IN
+    its/PRP$
+    (NP markets/NNS))
+  ,/,
+  which/WDT
+  makes/VBZ
+  them/PRP
+  fertile/RB
+  ground/VBP
+  (PP for/IN (NP new-market/JJ disruptive/JJ companies/NNS))
+  (PP of/IN (NP many/JJ sorts/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user131': {'words': {'low-cost': 1, 'is': 2, 'competitive': 1, 'are': 1, 'in': 2, 'our': 1, 'its': 1, 'guess': 1, 'manufacturing': 1, 'concerned': 1, ',': 1, 'to': 1, 'China': 1, 'asset': 1, 'markets': 1, 'them': 1, 'that': 2, 'understandably': 1, 'unfathomable': 1, 'poses': 1, 'about': 1, 'of': 1, 'amount': 1, 'greatest': 1, 'threat': 1, 'China\x92s': 1, 'non-consumption': 1, 'the': 2, 'executives': 1}, 'tags': {'PRP$': 2, 'JJ': 4, 'NN': 7, 'VBN': 1, ',': 1, 'TO': 1, 'VBP': 1, 'PRP': 1, 'RB': 1, 'IN': 6, 'VBZ': 2, 'DT': 2, 'NNS': 3, 'NNP': 1}}}
+(S
+  (ORGANIZATION Bell/NNP)
+  (ORGANIZATION Telephone/NNP Bell/NNP)
+  (COMP
+    (NP therefore/NN)
+    started/VBD
+    (NP a/DT new-market/NN disruption/NN)
+    ,/,
+    (NP offering/NN local/JJ communication/NN)
+    –/:
+    (NP and/CC)
+    (PP as/IN (NP the/DT technology/NN))
+    improved/VBD
+    ,/,
+    it/PRP
+    pulled/VBD
+    (NP customers/NNS)
+    out/IN
+    (PP of/IN (NP telegraphy’s/NNS))
+    long/RB
+    (NP distance/NN value/NN network/NN))
+  (PP into/IN (NP telephony/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user132': {'words': {'and': 1, 'communication': 1, 'it': 1, 'as': 1, '\x96': 1, 'technology': 1, 'out': 1, 'telegraphy\x92s': 1, 'network': 1, ',': 2, 'long': 1, 'therefore': 1, 'local': 1, 'new-market': 1, 'customers': 1, 'offering': 1, 'started': 1, 'disruption': 1, 'a': 1, 'distance': 1, 'improved': 1, 'of': 1, 'value': 1, 'the': 1, 'pulled': 1}, 'tags': {'RB': 1, 'NN': 9, 'VBD': 3, 'CC': 1, ',': 2, 'PRP': 1, 'JJ': 1, 'IN': 3, 'DT': 2, ':': 1, 'NNS': 2}}}
+(S
+  B/LS
+  (COMP
+    (NP &/CC)
+    (ORGANIZATION D/NNP)
+    introduced/VBD
+    (NP a/DT line/NN)
+    (PP of/IN (NP plastic-encased/JJ tools/NNS))
+    (PP with/IN (NP universal/NN motors/NNS))
+    that/WDT
+    would/MD
+    only/RB
+    (NP last/JJ)
+    25-30/CD
+    (NP hours/NNS)
+    (PP of/IN (NP operation/NN))
+    –/:
+    which/WDT
+    actually/RB
+    was/VBD
+    (CP more/JJR)
+    (PP than/IN (NP adequate/JJ))
+    for/IN
+    (CP most/JJS)
+    (NP do-it-yourselfers/NNS)
+    who/WP
+    drill/RB
+    (NP a/DT few/JJ holes/NNS))
+  (PP per/IN (NP month/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user133': {'words': {'universal': 1, 'motors': 1, 'month': 1, '\x96': 1, 'operation': 1, '.': 1, 'tools': 1, 'would': 1, '&': 1, 'per': 1, 'actually': 1, 'few': 1, 'only': 1, 'which': 1, 'do-it-yourselfers': 1, 'adequate': 1, 'was': 1, 'more': 1, 'B': 1, 'D': 1, 'that': 1, '25-30': 1, 'who': 1, 'hours': 1, 'most': 1, 'line': 1, 'with': 1, 'than': 1, 'a': 2, 'last': 1, 'for': 1, 'of': 2, 'plastic-encased': 1, 'holes': 1, 'drill': 1, 'introduced': 1}, 'tags': {'MD': 1, 'RB': 3, 'NN': 4, 'VBD': 2, 'CC': 1, 'WP': 1, 'JJS': 1, 'JJR': 1, 'CD': 1, '.': 1, 'WDT': 2, 'LS': 1, 'JJ': 4, 'IN': 6, 'DT': 2, ':': 1, 'NNS': 5, 'NNP': 1}}}
+(S
+  lended/VBD
+  (PERSON Plastics/NNP These/NNP)
+  (NP blends/NNS)
+  (PP of/IN (NP inexpensive/JJ polyolefin/NN plastics/NNS))
+  (PP like/IN (NP polypropylene/NN))
+  ,/,
+  sold/VBN
+  (PP by/IN (NP firms/NNS))
+  like/IN
+  (GPE Himont/NNP)
+  ,/,
+  create/VB
+  (NP composite/JJ materials/NNS)
+  that/WDT
+  (PP in/IN (NP many/JJ ways/NNS))
+  share/VBP
+  (NP the/DT)
+  (CP best/JJS)
+  (NP properties/NNS)
+  of/IN
+  their/PRP$
+  (NP constituent/NN materials/NNS)
+  ./.)
+User word and tag count dictionary 
+{'test_user134': {'words': {'polypropylene': 1, 'plastics': 1, 'share': 1, 'in': 1, '.': 1, 'best': 1, 'lended': 1, 'their': 1, 'ways': 1, 'create': 1, ',': 2, 'properties': 1, 'composite': 1, 'firms': 1, 'Himont': 1, 'that': 1, 'These': 1, 'sold': 1, 'polyolefin': 1, 'constituent': 1, 'by': 1, 'blends': 1, 'Plastics': 1, 'like': 2, 'of': 2, 'inexpensive': 1, 'materials': 2, 'many': 1, 'the': 1}, 'tags': {'VB': 1, 'NN': 3, 'VBD': 1, 'JJS': 1, ',': 2, 'VBN': 1, '.': 1, 'VBP': 1, 'WDT': 1, 'JJ': 3, 'IN': 6, 'DT': 1, 'PRP$': 1, 'NNS': 7, 'NNP': 3}}}
+(S
+  They/PRP
+  are/VBP
+  getting/VBG
+  (CP better/JJR)
+  (PP at/IN (NP a/DT stunning/NN rate/NN))
+  ,/,
+  disrupting/VBG
+  (NP markets/NNS)
+  (PERSON Bloomberg/NNP)
+  began/VBD
+  (PP by/IN (NP providing/NN basic/JJ financial/JJ data/NNS))
+  to/TO
+  (NP investment/NN analysts/NNS and/CC brokers/NNS)
+  ./.)
+User word and tag count dictionary 
+{'test_user135': {'words': {'and': 1, 'financial': 1, 'rate': 1, 'at': 1, 'investment': 1, 'disrupting': 1, 'began': 1, ',': 1, '.': 1, 'better': 1, 'to': 1, 'Bloomberg': 1, 'basic': 1, 'markets': 1, 'They': 1, 'brokers': 1, 'data': 1, 'by': 1, 'a': 1, 'getting': 1, 'stunning': 1, 'analysts': 1, 'providing': 1, 'are': 1}, 'tags': {'VBG': 2, 'NN': 4, 'VBD': 1, 'CC': 1, 'JJR': 1, ',': 1, 'TO': 1, 'VBP': 1, 'PRP': 1, 'JJ': 2, 'IN': 2, 'DT': 1, '.': 1, 'NNS': 4, 'NNP': 1}}}
+(S
+  It/PRP
+  gradually/RB
+  has/VBZ
+  improved/VBN
+  its/PRP$
+  (COMP
+    (NP data/NNS offerings/NNS and/CC analysis/NN)
+    ,/,
+    (NP and/CC)
+    subsequently/RB
+    moved/VBD
+    (PP
+      into/IN
+      (NP the/DT financial/JJ news/NN business/NN Issuers/NNS))
+    (PP of/IN (NP government/NN securities/NNS))
+    can/MD
+    auction/VB
+    their/PRP$
+    (NP initial/JJ offerings/NNS)
+    (PP over/IN (NP the/DT))
+    (ORGANIZATION Bloomberg/NNP)
+    (NP system/NN Instead/NNP)
+    of/IN
+    shipping/VBG
+    (NP large/JJ sides/NNS)
+    (PP of/IN (NP beef/NN))
+    to/TO
+    (NP local/JJ meat/NN cutters/NNS)
+    (PP for/IN (NP further/JJ cutting/NN))
+    ,/,
+    (ORGANIZATION IBP/NNP)
+    cut/VBD
+    (NP the/DT beef/NN)
+    (PP into/IN (NP finished/JJ or/CC))
+    nearly/RB
+    finished/VBN
+    (NP cuts/NNS)
+    ,/,
+    (PP for/IN (NP placement/NN))
+    directly/RB
+    (PP in/IN (NP supermarket/NN cases/NNS))
+    When/WRB
+    (PERSON Canon/NNP)
+    (NP and/CC)
+    (PERSON Ricoh/NNP)
+    introduced/VBD
+    their/PRP$
+    (NP countertop/NN photocopiers/NNS)
+    ,/,
+    they/PRP
+    were/VBD
+    (NP slow/JJ)
+    ,/,
+    produced/VBN
+    (NP poor-resolution/NN copies/NNS)
+    ,/,
+    (NP and/CC didn’t/JJ enlarge/NN or/CC)
+    reduce/VB
+    (NP or/CC))
+  collate/VB
+  ./.)
+User word and tag count dictionary 
+{'test_user136': {'words': {'and': 4, 'slow': 1, 'reduce': 1, 'financial': 1, 'over': 1, 'cuts': 1, 'moved': 1, 'for': 2, 'system': 1, 'offerings': 2, 'Ricoh': 1, 'shipping': 1, 'directly': 1, 'further': 1, 'IBP': 1, 'Instead': 1, 'cutters': 1, 'large': 1, 'countertop': 1, 'cut': 1, 'beef': 2, 'to': 1, 'initial': 1, ',': 6, 'sides': 1, 'their': 2, 'copies': 1, 'Bloomberg': 1, 'local': 1, 'into': 2, 'enlarge': 1, 'photocopiers': 1, 'business': 1, 'government': 1, 'When': 1, 'poor-resolution': 1, 'supermarket': 1, 'finished': 2, 'cutting': 1, 'nearly': 1, 'they': 1, 'news': 1, 'cases': 1, 'data': 1, 'the': 3, 'Issuers': 1, 'in': 1, 'produced': 1, 'placement': 1, 'meat': 1, 'auction': 1, 'of': 3, 'Canon': 1, 'analysis': 1, 'didn\x92t': 1, 'securities': 1, 'can': 1, 'were': 1, 'subsequently': 1, 'introduced': 1, 'or': 3}, 'tags': {'MD': 1, 'VB': 2, 'VBG': 1, 'JJ': 8, 'NN': 14, 'VBD': 4, 'CC': 7, ',': 6, 'VBN': 2, 'TO': 1, 'PRP': 1, 'RB': 3, 'IN': 9, 'WRB': 1, 'DT': 3, 'PRP$': 2, 'NNS': 11, 'NNP': 5}}}
+(S
+  (COMP
+    (NP But/CC)
+    they/PRP
+    were/VBD
+    so/RB
+    (NP inexpensive/JJ and/CC simple/JJ)
+    to/TO
+    use/VB
+    that/IN
+    we/PRP
+    could/MD
+    afford/VB
+    to/TO
+    put/VB
+    one/CD
+    (NP right/JJ)
+    (PP around/IN (NP the/DT corner/NN))
+    from/IN
+    our/PRP$
+    (NP office/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user137': {'words': {'and': 1, 'right': 1, 'office': 1, 'simple': 1, 'one': 1, 'our': 1, 'corner': 1, 'use': 1, 'from': 1, 'But': 1, 'to': 2, 'we': 1, 'around': 1, 'that': 1, 'afford': 1, 'they': 1, 'put': 1, 'could': 1, 'inexpensive': 1, 'so': 1, 'were': 1, 'the': 1}, 'tags': {'MD': 1, 'VB': 3, 'RB': 1, 'NN': 2, 'VBD': 1, 'CC': 2, 'PRP$': 1, 'CD': 1, 'TO': 2, 'PRP': 2, 'JJ': 3, 'IN': 3, 'DT': 1}}}
+(S
+  (COMP
+    (NP But/CC)
+    little/RB
+    by/IN
+    little/RB
+    (PERSON Canon/NNP)
+    improved/VBD
+    its/PRP$
+    (NP machines/NNS)
+    to/TO
+    (NP the/DT point/NN)
+    (PP that/IN (NP today/NN))
+    ,/,
+    (NP immediate/JJ)
+    ,/,
+    (NP convenient/JJ access/NN)
+    to/TO
+    (NP high-quality/JJ)
+    ,/,
+    (NP full-featured/JJ copying/NN)
+    is/VBZ
+    almost/RB
+    (NP a/DT constitutional/JJ right/NN)
+    in/IN
+    (CP most/JJS)
+    (NP workplaces/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user138': {'words': {'right': 1, 'point': 1, 'almost': 1, 'constitutional': 1, 'is': 1, 'workplaces': 1, 'in': 1, 'its': 1, 'machines': 1, 'little': 2, 'convenient': 1, ',': 3, 'But': 1, '.': 1, 'access': 1, 'to': 2, 'copying': 1, 'today': 1, 'that': 1, 'immediate': 1, 'most': 1, 'high-quality': 1, 'by': 1, 'full-featured': 1, 'a': 1, 'improved': 1, 'Canon': 1, 'the': 1}, 'tags': {'PRP$': 1, 'JJ': 5, 'NN': 5, 'VBD': 1, 'CC': 1, 'JJS': 1, ',': 3, '.': 1, 'TO': 2, 'RB': 3, 'IN': 3, 'VBZ': 1, 'DT': 2, 'NNS': 2, 'NNP': 1}}}
+(S
+  (GPE Sears/NNS)
+  ,/,
+  (PERSON Roebuck/NNP)
+  (COMP
+    (NP and/CC)
+    (ORGANIZATION Montgomery/NNP Ward/NNP)
+    took/VBD
+    (NP root/NN)
+    (PP as/IN (NP catalog/NN retailers/NNS))
+    –/:
+    enabling/VBG
+    (NP people/NNS)
+    (PP in/IN (NP rural/JJ))
+    (GPE America/NNP)
+    to/TO
+    buy/VB
+    (NP things/NNS)
+    that/WDT
+    historically/RB
+    had/VBD
+    not/RB
+    been/VBN
+    (NP accessible/JJ))
+  ./.)
+User word and tag count dictionary 
+{'test_user139': {'words': {'and': 1, 'accessible': 1, 'people': 1, '\x96': 1, 'Montgomery': 1, 'as': 1, 'in': 1, 'things': 1, 'had': 1, 'been': 1, 'to': 1, 'Ward': 1, 'America': 1, 'historically': 1, 'buy': 1, 'that': 1, 'took': 1, 'catalog': 1, 'not': 1, 'enabling': 1, 'retailers': 1, 'rural': 1, 'root': 1}, 'tags': {'VB': 1, 'VBG': 1, 'RB': 2, 'NN': 2, 'VBD': 2, 'CC': 1, 'VBN': 1, 'TO': 1, 'WDT': 1, 'JJ': 2, 'IN': 2, ':': 1, 'NNS': 3, 'NNP': 3}}}
+(S
+  (COMP
+    (NP But/CC)
+    it/PRP
+    was/VBD
+    (NP good/JJ)
+    enough/RB
+    to/TO
+    (NP enable/JJ a/DT new/JJ market/NN)
+    to/TO
+    emerge/VB
+    –/:
+    (NP data/NNS networks/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user140': {'words': {'a': 1, 'emerge': 1, 'good': 1, 'data': 1, 'it': 1, 'But': 1, 'to': 2, 'enough': 1, 'enable': 1, '\x96': 1, 'new': 1, 'was': 1, 'networks': 1, 'market': 1}, 'tags': {'VB': 1, 'JJ': 3, 'NN': 1, 'VBD': 1, 'CC': 1, 'TO': 2, 'PRP': 1, 'RB': 1, 'DT': 1, ':': 1, 'NNS': 2}}}
+(S
+  (COMP
+    (NP The/DT technology/NN)
+    has/VBZ
+    improved/VBN
+    to/TO
+    (NP the/DT point/NN)
+    (PP that/IN (NP today/NN))
+    ,/,
+    (NP the/DT latency/NN delay/NN)
+    (PP of/IN (NP a/DT packet-switched/JJ voice/NN call/NN))
+    is/VBZ
+    almost/RB
+    imperceptibly/RB
+    (CP slower/JJR)
+    (PP than/IN (NP that/DT))
+    (PP of/IN (NP a/DT circuit-switched/JJ call/NN))
+    –/:
+    enabling/VBG
+    (ORGANIZATION VOIP/NNP)
+    ,/,
+    (NP or/CC voice-over-Internet-protocol/JJ telephony/NN)
+    took/VBD
+    (NP some/DT or/CC all/DT)
+    of/IN
+    their/PRP$
+    required/VBN
+    (NP general/JJ education/NN courses/NNS)
+    at/IN
+    much/RB
+    (CP less/JJR)
+    (NP expensive/JJ community/NN colleges/NNS)
+    ,/,
+    (NP and/CC)
+    then/RB
+    transferred/VBD
+    (NP those/DT credits/NNS)
+    to/TO
+    (NP the/DT university/NN)
+    (PP with/IN (NP non-traditional/JJ students/NNS))
+    who/WP
+    otherwise/RB
+    would/MD
+    not/RB
+    have/VB
+    taken/VBN
+    (NP these/DT courses/NNS)
+    (ORGANIZATION Credit/NNP)
+    (NP scoring/NN A/DT formulaic/JJ method/NN)
+    of/IN
+    determining/VBG
+    (NP creditworthiness/NN)
+    ,/,
+    substituting/VBG
+    (PP for/IN (NP the/DT subjective/JJ judgments/NNS))
+    (PP of/IN (NP bank/NN loan/NN officers/NNS))
+    Used/VBN
+    initially/RB
+    to/TO
+    extend/VB
+    (PERSON Sears/NNS)
+    (NP and/CC Penny’s/JJ in-store/JJ credit/NN cards/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user141': {'words': {'and': 2, 'all': 1, 'credit': 1, 'slower': 1, 'judgments': 1, 'point': 1, 'almost': 1, 'is': 1, 'some': 1, 'colleges': 1, 'community': 1, 'general': 1, 'circuit-switched': 1, 'packet-switched': 1, 'have': 1, '\x96': 1, 'substituting': 1, 'education': 1, 'technology': 1, 'VOIP': 1, 'Sears': 1, 'scoring': 1, 'latency': 1, 'Used': 1, 'would': 1, 'their': 1, 'loan': 1, 'less': 1, ',': 4, '.': 1, 'delay': 1, 'to': 3, 'much': 1, 'call': 2, 'expensive': 1, 'imperceptibly': 1, 'taken': 1, 'has': 1, 'method': 1, 'today': 1, 'A': 1, 'then': 1, 'extend': 1, 'that': 2, 'students': 1, 'initially': 1, 'who': 1, 'in-store': 1, 'took': 1, 'voice-over-Internet-protocol': 1, 'otherwise': 1, 'subjective': 1, 'credits': 1, 'formulaic': 1, 'bank': 1, 'not': 1, 'The': 1, 'with': 1, 'than': 1, 'those': 1, 'a': 2, 'improved': 1, 'for': 1, 'telephony': 1, 'these': 1, 'of': 5, 'university': 1, 'required': 1, 'transferred': 1, 'Credit': 1, 'enabling': 1, 'courses': 2, 'creditworthiness': 1, 'officers': 1, 'determining': 1, 'cards': 1, 'the': 4, 'voice': 1, 'Penny\x92s': 1, 'or': 2, 'non-traditional': 1, 'at': 1}, 'tags': {'MD': 1, 'PRP$': 1, 'VBG': 3, 'RB': 7, 'NN': 18, 'VBD': 2, 'CC': 4, 'WP': 1, 'VBN': 4, '.': 1, ',': 4, 'VB': 2, 'TO': 3, 'JJ': 10, 'IN': 10, 'VBZ': 2, 'DT': 13, ':': 1, 'NNS': 9, 'JJR': 2, 'NNP': 2}}}
+(S
+  (PP As/IN (NP the/DT technology/NN))
+  improved/VBD
+  ,/,
+  it/PRP
+  was/VBD
+  used/VBN
+  (PP for/IN (NP general/JJ credit/NN cards/NNS))
+  ,/,
+  (COMP
+    (NP and/CC)
+    then/RB
+    (NP auto/NN)
+    ,/,
+    (NP mortgage/NN and/CC)
+    now/RB
+    (NP small/JJ business/NN loans/NNS)
+    Dell’s/-NONE-
+    (NP direct-to/JJ customer/NN retailing/NN model/NN and/CC)
+    its/PRP$
+    (NP fast-throughput/NN)
+    ,/,
+    (NP high/JJ asset-turns/NNS)
+    manufacturing/VBG
+    (NP model/NN)
+    allowed/VBD
+    it/PRP
+    to/TO
+    come/VB
+    (NP underneath/NN)
+    (ORGANIZATION Compaq/NNP)
+    ,/,
+    (ORGANIZATION IBM/NNP)
+    (NP and/CC))
+  (PERSON Hewlett/NNP Packard/NNP)
+  (PP as/IN (NP a/DT low-end/JJ disruptor/NN))
+  (PP in/IN (NP personal/JJ computers/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user142': {'words': {'and': 4, 'Compaq': 1, 'it': 1, 'high': 1, 'allowed': 1, 'its': 1, 'IBM': 1, 'now': 1, 'mortgage': 1, 'come': 1, ',': 3, 'to': 1, 'retailing': 1, 'fast-throughput': 1, 'then': 1, 'business': 1, 'auto': 1, 'asset-turns': 1, 'Dell\x92s': 1, 'underneath': 1, 'direct-to': 1, 'manufacturing': 1, 'loans': 1, 'customer': 1, 'small': 1, 'model': 2}, 'tags': {'PRP$': 1, 'VBG': 1, 'RB': 2, 'NN': 9, 'VBD': 1, 'CC': 4, ',': 3, 'VB': 1, 'TO': 1, '-NONE-': 1, 'PRP': 1, 'JJ': 3, 'NNS': 2, 'NNP': 2}}}
+(S
+  (PERSON Clayton/NNP)
+  (ORGANIZATION Christensen/NNP)
+  ,/,
+  (NP the/DT quintessential/JJ low-end/NN consumer/NN)
+  ,/,
+  wrote/VBD
+  his/PRP$
+  (NP doctoral/JJ thesis/NN)
+  (PP on/IN (NP a/DT))
+  (ORGANIZATION Dell/NNP)
+  (NP notebook/NN computer/NN)
+  purchased/VBD
+  in/IN
+  1989/CD
+  ,/,
+  because/IN
+  it/PRP
+  was/VBD
+  (NP the/DT)
+  (CP cheapest/JJS)
+  (NP portable/JJ computer/NN)
+  (PP on/IN (NP the/DT market/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user143': {'words': {'low-end': 1, 'because': 1, 'thesis': 1, 'it': 1, 'Dell': 1, 'computer': 2, 'quintessential': 1, 'purchased': 1, 'in': 1, '.': 1, 'market': 1, 'portable': 1, 'doctoral': 1, 'Christensen': 1, ',': 3, '1989': 1, 'Clayton': 1, 'was': 1, 'his': 1, 'notebook': 1, 'a': 1, 'on': 2, 'cheapest': 1, 'the': 3, 'consumer': 1, 'wrote': 1}, 'tags': {'PRP$': 1, 'NN': 7, 'VBD': 3, 'JJS': 1, ',': 3, 'CD': 1, 'PRP': 1, 'JJ': 3, 'IN': 4, 'DT': 4, '.': 1, 'NNP': 3}}}
+(S
+  Because/IN
+  (PP of/IN (NP Dell’s/NNP reputation/NN))
+  (PP for/IN (NP marginal/JJ quality/NN))
+  ,/,
+  (COMP
+    (NP students/NNS)
+    needed/VBD
+    (NP special/JJ permission/NN)
+    from/IN
+    (ORGANIZATION Harvard/NNP)
+    to/TO
+    use/VB
+    (NP doctoral/JJ stipend/NN money/NN)
+    to/TO
+    buy/VB
+    (NP a/DT)
+    (ORGANIZATION Dell/NNP)
+    rather/RB
+    (PP than/IN (NP a/DT computer/NN))
+    (PP with/IN (NP a/DT))
+    (CP more/RBR)
+    (NP reputable/JJ brand/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user144': {'words': {'money': 1, 'Dell': 1, 'computer': 1, 'quality': 1, 'special': 1, 'use': 1, 'from': 1, 'for': 1, 'needed': 1, 'rather': 1, ',': 1, '.': 1, 'reputable': 1, 'to': 2, 'Harvard': 1, 'marginal': 1, 'more': 1, 'buy': 1, 'permission': 1, 'students': 1, 'brand': 1, 'doctoral': 1, 'Dell\x92s': 1, 'stipend': 1, 'with': 1, 'than': 1, 'a': 3, 'Because': 1, 'of': 1, 'reputation': 1}, 'tags': {'VB': 2, 'RB': 1, 'NN': 7, 'VBD': 1, ',': 1, 'RBR': 1, 'TO': 2, 'JJ': 4, 'IN': 6, 'DT': 3, '.': 1, 'NNS': 1, 'NNP': 3}}}
+(S
+  (NP Today/NN)
+  (ORGANIZATION Dell/NNP)
+  supplies/VBZ
+  (CP most/RBS)
+  (PP of/IN (NP the/DT))
+  (ORGANIZATION Harvard/NNP Business/NNP)
+  (NP School’s/NNP computers/NNS The/DT department/NN stores/NNS)
+  made/VBN
+  (NP money/NN)
+  (PP by/IN (NP accelerating/NN inventory/NN))
+  turns/VBZ
+  to/TO
+  3x/CD
+  (PP per/IN (NP year/NN))
+  ,/,
+  which/WDT
+  enabled/VBN
+  them/PRP
+  to/TO
+  earn/VB
+  (NP attractive/JJ profit/NN)
+  with/IN
+  40/CD
+  (NP %/NN gross/NNS margins/NNS)
+  ./.)
+User word and tag count dictionary 
+{'test_user145': {'words': {'stores': 1, 'money': 1, ',': 1, '40': 1, 'year': 1, 'margins': 1, 'Today': 1, 'gross': 1, '3x': 1, '%': 1, 'Business': 1, 'profit': 1, 'Dell': 1, 'per': 1, '.': 1, 'to': 2, 'Harvard': 1, 'inventory': 1, 'which': 1, 'department': 1, 'supplies': 1, 'attractive': 1, 'them': 1, 'most': 1, 'The': 1, 'with': 1, 'by': 1, 'School\x92s': 1, 'earn': 1, 'made': 1, 'turns': 1, 'computers': 1, 'enabled': 1, 'accelerating': 1, 'of': 1, 'the': 1}, 'tags': {'VB': 1, 'NN': 8, 'RBS': 1, 'VBN': 2, 'CD': 2, 'TO': 2, 'WDT': 1, 'PRP': 1, 'JJ': 1, 'IN': 4, 'VBZ': 2, 'DT': 2, '.': 1, 'NNS': 4, ',': 1, 'NNP': 4}}}
+(S
+  Because/IN
+  their/PRP$
+  (COMP
+    (NP salespeople/NN)
+    were/VBD
+    much/RB
+    (CP less/JJR)
+    (NP knowledgeable/JJ)
+    (PP about/IN (NP products/NNS))
+    ,/,
+    (PP at/IN (NP the/DT outset/NN department/NN stores/NNS))
+    had/VBD
+    to/TO
+    start/VB
+    (PP at/IN (NP the/DT))
+    (CP simplest/JJS)
+    (NP end/NN)
+    (PP of/IN (NP the/DT merchandise/NN mix/NN))
+    ,/,
+    (PP with/IN (NP products/NNS))
+    that/IN
+    were/VBD
+    so/RB
+    (NP familiar/JJ)
+    (PP in/IN (NP use/NN))
+    that/IN
+    they/PRP
+    “sold/MD
+    themselves.”/VB
+    (ORGANIZATION Digital/NNP)
+    (NP animation/NN technology/NN)
+    now/RB
+    enables/VBZ
+    far/RB
+    (CP more/JJR)
+    (NP companies/NNS)
+    (/:
+    (NP Such/JJ)
+    as/IN
+    (PERSON Pixar/NNP)
+    (NP )/NNP)
+    to/TO
+    compete/VB
+    against/IN
+    (PERSON Disney/NNP)
+    (NP The/NNP discount/NN stores/NNS)
+    made/VBN
+    (NP money/NN)
+    (PP by/IN (NP accelerating/NN inventory/NN))
+    turns/VBZ
+    to/TO
+    5x/CD
+    (PP per/IN (NP year/NN))
+    ,/,
+    which/WDT
+    enabled/VBN
+    them/PRP
+    to/TO
+    earn/VB
+    (NP attractive/JJ profit/NN)
+    with/IN
+    23/CD
+    (NP %/NN gross/NN margins/NNS))
+  ./.)
+User word and tag count dictionary 
+{'test_user146': {'words': {'outset': 1, 'stores': 2, 'less': 1, 'knowledgeable': 1, 'Digital': 1, 'year': 1, 'them': 1, 'inventory': 1, 'as': 1, 'at': 2, 'in': 1, 'margins': 1, '.': 1, 'technology': 1, 'compete': 1, 'Disney': 1, 'Pixar': 1, 'mix': 1, 'use': 1, 'end': 1, '5x': 1, 'their': 1, ')': 1, '\x93sold': 1, 'gross': 1, 'had': 1, ',': 3, 'per': 1, 'by': 1, 'to': 4, 'much': 1, '(': 1, 'which': 1, 'simplest': 1, 'department': 1, 'so': 1, 'start': 1, 'enabled': 1, 'more': 1, 'attractive': 1, 'salespeople': 1, 'that': 2, 'far': 1, 'familiar': 1, 'earn': 1, 'themselves.\x94': 1, 'discount': 1, 'made': 1, 'they': 1, 'Such': 1, '%': 1, 'The': 1, 'now': 1, 'with': 2, 'animation': 1, 'merchandise': 1, 'about': 1, 'Because': 1, 'money': 1, 'of': 1, '23': 1, 'companies': 1, 'against': 1, 'profit': 1, 'products': 2, 'were': 2, 'accelerating': 1, 'the': 3, 'enables': 1, 'turns': 1}, 'tags': {'PRP$': 1, 'VBD': 3, 'VBN': 2, 'WDT': 1, 'JJ': 4, 'VBZ': 2, 'DT': 3, 'NN': 17, ',': 3, '.': 1, 'TO': 4, 'PRP': 2, 'RB': 4, ':': 1, 'NNS': 6, 'NNP': 5, 'VB': 4, 'CD': 2, 'IN': 14, 'MD': 1, 'JJS': 1, 'JJR': 2}}}
+(S
+  Because/IN
+  their/PRP$
+  (COMP
+    (NP salespeople/NN)
+    were/VBD
+    much/RB
+    (CP less/JJR)
+    (NP knowledgeable/JJ)
+    (PP about/IN (NP products/NNS))
+    ,/,
+    (PP
+      at/IN
+      (NP
+        the/DT
+        outset/NN
+        the/DT
+        discount/NN
+        department/NN
+        stores/NNS))
+    had/VBD
+    to/TO
+    start/VB
+    (PP at/IN (NP the/DT))
+    (CP simplest/JJS)
+    (NP end/NN)
+    (PP of/IN (NP the/DT merchandise/NN mix/NN))
+    ,/,
+    (PP with/IN (NP branded/JJ hard/JJ goods/NNS))
+    that/WDT
+    were/VBD
+    so/RB
+    (NP familiar/JJ)
+    (PP in/IN (NP use/NN))
+    that/IN
+    they/PRP
+    “sold/MD
+    themselves.”/VB
+    They/PRP
+    subsequently/RB
+    have/VBP
+    moved/VBN
+    (NP up-market/JJ))
+  (PP into/IN (NP soft/JJ goods/NNS such/JJ))
+  (PP as/IN (NP clothing/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user147': {'words': {'outset': 1, 'stores': 1, 'less': 1, 'knowledgeable': 1, 'into': 1, 'hard': 1, 'moved': 1, 'as': 1, 'at': 2, 'have': 1, 'in': 1, 'clothing': 1, 'mix': 1, 'use': 1, 'end': 1, 'their': 1, '\x93sold': 1, 'had': 1, ',': 2, '.': 1, 'to': 1, 'much': 1, 'They': 1, 'simplest': 1, 'department': 1, 'so': 1, 'branded': 1, 'start': 1, 'salespeople': 1, 'that': 2, 'familiar': 1, 'themselves.\x94': 1, 'discount': 1, 'goods': 2, 'they': 1, 'such': 1, 'with': 1, 'subsequently': 1, 'merchandise': 1, 'about': 1, 'Because': 1, 'up-market': 1, 'of': 1, 'products': 1, 'were': 2, 'the': 4, 'soft': 1}, 'tags': {'MD': 1, 'PRP$': 1, 'JJ': 7, 'NN': 9, 'VBD': 3, 'VBN': 1, 'JJS': 1, 'JJR': 1, ',': 2, 'VB': 2, 'TO': 1, 'VBP': 1, 'WDT': 1, 'PRP': 2, 'RB': 3, 'IN': 10, 'DT': 4, '.': 1, 'NNS': 4}}}
+(S
+  (COMP
+    (NP The/DT volume/NN)
+    (PP of/IN (NP personal/JJ communication/NN))
+    that/WDT
+    is/VBZ
+    done/VBN
+    (PP by/IN (NP letter/NN))
+    is/VBZ
+    dropping/VBG
+    precipitously/RB
+    ,/,
+    leaving/VBG
+    (NP postal/JJ services/NNS)
+    (PP with/IN (NP magazines/NNS))
+    ,/,
+    (NP bills/NNS and/CC junk/NN mail/NN))
+  ./.)
+User word and tag count dictionary 
+{'test_user148': {'words': {'and': 1, 'communication': 1, 'is': 2, 'done': 1, 'personal': 1, ',': 2, 'dropping': 1, 'mail': 1, 'precipitously': 1, 'junk': 1, 'that': 1, 'volume': 1, 'letter': 1, 'services': 1, 'The': 1, 'postal': 1, 'with': 1, 'by': 1, 'of': 1, 'leaving': 1, 'magazines': 1, 'bills': 1}, 'tags': {'VBG': 2, 'RB': 1, 'NN': 5, 'CC': 1, 'VBN': 1, ',': 2, 'WDT': 1, 'JJ': 2, 'IN': 3, 'VBZ': 2, 'DT': 1, 'NNS': 3}}}

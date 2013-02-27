@@ -1,0 +1,21 @@
+if (['a', 'b', 'c'].indexOf(str) >= 0) {
+    //do something
+}
+
+If your strings are in an array (A) you can use A.some- it will return true and quit as soon as it finds a duplicate, or return false if it has checked them all without any duplicates.
+
+has_duplicates= A.some(function(itm){
+    return A.indexOf(itm)===A.lastIndexOf(itm);
+});
+
+var names = []
+names.push(tweets.id)
+
+has_duplicates= A.some(function(itm){
+    return A.indexOf(itm)===A.lastIndexOf(itm);
+});
+
+// display all values
+for (var i = 0; i < arr.length; i++) {
+    alert(arr[i]);
+};

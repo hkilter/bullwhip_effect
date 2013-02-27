@@ -1,0 +1,9 @@
+paypal
+discover
+mastercard
+visasignature
+americanexpress
+verifone
+amazonpayments
+googlewallet
+dwolla

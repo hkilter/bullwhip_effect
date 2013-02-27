@@ -1,0 +1,13 @@
+"company","tweet_volume","value_score_100","use_score_100","revenue"
+"awscloud",495,8.69,2.02,600
+"ibmcloud",631,5.71,0.16,60
+"netsuite",1073,4.85,0.28,200
+"rackspace",1308,4.82,-0.38,189
+"joyent",606,4.29,-0.17,15
+"heroku",1024,2.64,-0.39,3
+"sap",853,2.11,0.12,85
+"salesforce",1358,1.55,0.44,1300
+"windowsazure",312,1.28,5.45,30
+"cloudera",360,0.56,0.56,18
+"appfog",184,0.54,0.54,1.4
+"hpcloud",267,-0.37,0,0
