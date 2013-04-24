@@ -2,7 +2,7 @@ Bullwhip Effect
 ===============
 
 This is the beginning set of scripts and tools for adaptive and graph based time series modeling using python and R. 
-My goal for the project is to be able to help businesses answer strategic and logistics questions relating to the bullwhip effect.
+My goal for the project is to be able to use these scripts to answer (and bet on) strategic and logistics questions relating to the bullwhip effect.
 
 You can read about the history of the bullwhip effect at:
 
